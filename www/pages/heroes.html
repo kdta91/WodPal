@@ -1,0 +1,29 @@
+<ons-page ng-controller="HeroController as gc">
+<ons-toolbar>
+  <div class="left">
+    <ons-back-button>Back</ons-back-button>
+  </div>
+  <div class="center">The Heroes</div>
+</ons-toolbar>
+<div class="content" infinite-scroll="scrollHeroWods()" infinite-scroll-disabled="heroWods.busy" infinite-scroll-distance="1">
+  <ons-search-input placeholder="Search WOD" class="fullWidth searchBar" ng-model="wod"></ons-search-input>
+  <ons-list class="wodList">
+    <ons-list-item ng-repeat="hero in heroWods.items | orderBy: 'title' | filter: wod" ng-click="goToPage('overview', {
+        data: {
+            title: hero.title,
+            workout: hero.workout,
+            workout_title: hero.workout_title
+        }
+    })" modifier="chevron" tappable>
+        <div>
+            <h1 class="title" ng-bind-html="hero.title"></h1>
+            <span class="workoutTitle" ng-bind-html="hero.workout_title"></span>
+        </div>
+    </ons-list-item>
+    <div ng-show="heroWods.busy" style="text-align: center;">
+      <ons-progress-circular indeterminate></ons-progress-circular>
+      <p>Fetching WODs...</p>
+    </div>
+  </ons-list>
+</div>
+</ons-page>

@@ -1,0 +1,29 @@
+<ons-page ng-controller="BenchmarkController as bc">
+<ons-toolbar>
+  <div class="left">
+    <ons-back-button>Back</ons-back-button>
+  </div>
+  <div class="center">Benchmarks</div>
+</ons-toolbar>
+<div class="content" infinite-scroll="scrollBenchMarkWods()" infinite-scroll-disabled='benchMarkWods.busy' infinite-scroll-distance='1'>
+  <ons-search-input placeholder="Search WOD" class="fullWidth searchBar" ng-model="wod"></ons-search-input>
+  <ons-list class="wodList">
+    <ons-list-item ng-repeat="benchmark in benchMarkWods.items | orderBy: 'title' | filter: wod" ng-click="goToPage('overview', {
+        data: {
+            title: benchmark.title,
+            workout: benchmark.workout,
+            workout_title: benchmark.workout_title
+        }
+    })" modifier="chevron" tappable>
+        <div>
+            <h1 class="title" ng-bind-html="benchmark.title"></h1>
+            <span class="workoutTitle" ng-bind-html="benchmark.workout_title"></span>
+        </div>
+    </ons-list-item>
+    <div ng-show="benchMarkWods.busy" style="text-align: center;">
+      <ons-progress-circular indeterminate></ons-progress-circular>
+      <p>Fetching WODs...</p>
+    </div>
+  </ons-list>
+</div>
+</ons-page>
