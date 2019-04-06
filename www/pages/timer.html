@@ -7,6 +7,15 @@
     </ons-toolbar>
 
     <div class="content">
+        <div id="timer">
+            <timer autostart="false" interval="1000">
+                {{mminutes}}:{{sseconds}}
+            </timer>
+        </div>
 
+        <div class="center">
+            <button class="button toggleTimer" ng-click="toggleTimer()">{{ (timerStatus === '' || timerStatus === 'stopped') ? 'Start' : 'Stop' }}</button>
+            <button class="button resetTimer" ng-click="resetTimer()">Reset</button>
+        </div>
     </div>
 </ons-page>

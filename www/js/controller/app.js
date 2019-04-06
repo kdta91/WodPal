@@ -1,6 +1,6 @@
 'use strict';
 
-var app = angular.module('wod-pal', ['onsen', 'ngSanitize', 'infinite-scroll']);
+var app = angular.module('wod-pal', ['onsen', 'ngSanitize', 'infinite-scroll', 'timer']);
 app.config(function ($qProvider) {
     $qProvider.errorOnUnhandledRejections(false);
 });
