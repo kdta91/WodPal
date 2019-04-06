@@ -1,1814 +1,1591 @@
-[
-    {
-      "title": "Triple 3",
-      "score_types": "For Time",
-      "workout": "3,000 meter Row\r<br/>300 Double-Unders\r<br/>3 mile Run",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "18.0",
-      "score_types": "For Time",
-      "workout": "Dumbbell Snatches (50/35 lb)\r<br/>Over-Dumbbell Burpees",
-      "workout_title": "21-15-9 Reps for Time of:"
-    },
-    {
-      "title": "Amanda .45",
-      "score_types": "For Time",
-      "workout": "Muscle-Ups\r<br/>Squat Snatches (135/95 lb)\r<br/>\r<br/>Time cap: 13 minutes for males, 15 minutes for females",
-      "workout_title": "13-11-9-7-5 Reps for Time"
-    },
-    {
-      "title": "The Pool",
-      "score_types": "For Time",
-      "workout": "25 yards Swim\r<br/>3 Bar Muscle-Ups\r<br/>25 yards Swim\r<br/>\r<br/>Time Cap: 25 minutes",
-      "workout_title": "10 Rounds for Time"
-    },
-    {
-      "title": "Open 17.1",
-      "score_types": "For Time",
-      "workout": "10 Dumbbell Snatches (50/35 lb)\r<br/>15 Burpee Box Jump Overs\r<br/>20 Dumbbell Snatches (50/35 lb)\r<br/>15 Burpee Box Jump Overs\r<br/>30 Dumbbell Snatches (50/35 lb)\r<br/>15 Burpee Box Jump Overs\r<br/>40 Dumbbell Snatches (50/35 lb)\r<br/>15 Burpee Box Jump Overs\r<br/>50 Dumbbell Snatches (50/35 lb)\r<br/>15 Burpee Box Jump Overs\r<br/>\r<br/>Time Cap: 20 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Open 18.1",
-      "score_types": "For Rounds / Reps",
-      "workout": "8 Toes-to-Bars\r<br/>10 Dumbbell Hang Clean-and-Jerks (50/35 lb)\r<br/>14/12 calorie Row",
-      "workout_title": "AMRAP in 20 minutes"
-    },
-    {
-      "title": "Open 17.5",
-      "score_types": "For Time",
-      "workout": "9 Thrusters (95/65 lb)\r<br/>35 Double-Unders",
-      "workout_title": "10 Rounds for Time"
-    },
-    {
-      "title": "Open 14.5",
-      "score_types": "For Time",
-      "workout": "Thrusters (95/65 lb)\r<br/>Bar Facing Burpees",
-      "workout_title": "21-18-15-12-9-6-3 Reps, For Time"
-    },
-    {
-      "title": "Open 12.1",
-      "score_types": "For Rounds / Reps",
-      "workout": "Burpees",
-      "workout_title": "AMRAP in 7 minutes"
-    },
-    {
-      "title": "Open 18.5",
-      "score_types": "For Rounds / Reps",
-      "workout": "3 Thrusters (100/65 lb)\r<br/>3 Chest-to-Bar Pull-Ups\r<br/>6 Thrusters (100/65 lb)\r<br/>6 Chest-to-Bar Pull-Ups\r<br/>9 Thrusters (100/65 lb)\r<br/>9 Chest-to-Bar Pull-Ups\r<br/>If you complete the round of 9, complete a round of 12, then go on to 15, etc.",
-      "workout_title": "AMRAP in 7 minutes"
-    },
-    {
-      "title": "Ranch Deadlift Ladder",
-      "score_types": "For Time",
-      "workout": "Deadlift Ladder\r<br/>\r<br/>Men: 425, 435, 445, 455, 465, 475, 485, 495, 505, 515, 525, 535, 545, 555, 565, 575, 585, 595, 605, 615 lb\r<br/> \r<br/>Women: 275, 285, 295, 305, 315, 325, 335, 345, 355, 365, 370, 375, 380, 385, 390, 395, 400, 405, 410, 415 lb",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 17.6",
-      "score_types": "For Time",
-      "workout": "30/25 calorie Air Bike\r<br/>20 Burpee Box Jump-Overs (30/24 in)\r<br/>10 Sandbag Cleans (150/100 lb)\r<br/>\r<br/>Time Cap: 6 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Run Swim Run",
-      "score_types": "For Time",
-      "workout": "1.5 mile Run\r<br/>500 meter Swim\r<br/>1.5 mile Run\r<br/>\r<br/>Time Cap: 60 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Muscle-Up Clean Ladder",
-      "score_types": "For Time",
-      "workout": "4 Bar Muscle-Ups\r<br/>2 Cleans (225/145 lb)\r<br/>4 Bar Muscle-Ups\r<br/>2 Cleans (245/160 lb)\r<br/>4 Bar Muscle-Ups\r<br/>2 Cleans (265/175 lb)\r<br/>4 Bar Muscle-Ups\r<br/>2 Cleans (285/190 lb)\r<br/>4 Bar Muscle-Ups\r<br/>2 Cleans (305/205 lb)\r<br/>4 Bar Muscle-Ups\r<br/>2 Cleans (320/215 lb)\r<br/>4 Bar Muscle-Ups\r<br/>2 Cleans (335/225 lb)\r<br/>4 Bar Muscle-Ups\r<br/>2 Cleans (350/235 lb)\r<br/>\r<br/>Time Cap: 11 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Open 15.1 &#038; 15.1A",
-      "score_types": "For Load<br/></div>For Rounds / Reps",
-      "workout": "(15.1) AMRAP in 9 minutes\r<br/>15 Toes-to-Bars\r<br/>10 Deadlifts (115/75 lb)\r<br/>5 Snatches (115/75 lb)\r<br/>\r<br/>Then (\"15.1A\"), from 9:00-15:00\r<br/>1-Rep-Max Clean-and-Jerk",
-      "workout_title": "Two Parts in 15 minutes"
-    },
-    {
-      "title": "Triple-G Chipper",
-      "score_types": "For Time",
-      "workout": "100 Pull-Ups\r<br/>80 GHD Sit-Ups\r<br/>60 Pistols (alternating legs)\r<br/>40 calorie Row\r<br/>20 Dumbbell Push Presses (100/70 lb)\r<br/>\r<br/>Time Cap: 15 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Squat Clean Pyramid",
-      "score_types": "For Time",
-      "workout": "10 Squat Cleans (245/165 lb), by 2:00\r<br/>8 Squat Cleans (265/180 lb), by 4:00\r<br/>6 Squat Cleans (285/195 lb), by 6:00\r<br/>4 Squat Cleans (305/205 lb), by 8:00\r<br/>2 Squat Cleans (325/215 lb), by 11:00",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 18.2",
-      "score_types": "For Time",
-      "workout": "\"Linda\"\r<br/>10-9-8-7-6-5-4-3-2-1 Reps of:\r<br/>Deadlifts (295/220 lb)\r<br/>Bench Presses (195/135 lb)\r<br/>Squat Cleans (145/105 lb)\r<br/>\r<br/>Time Cap: 17 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Open 16.2",
-      "score_types": "For Rounds / Reps",
-      "workout": "Continue until 4 minutes:\r<br/>25 Toes-to-Bars\r<br/>50 Double-Unders\r<br/>15 Squat Cleans (135/85 lb)\r<br/>\r<br/>If completed before 4 minutes, continue until 8 minutes:\r<br/>25 Toes-to-Bars\r<br/>50 Double-Unders\r<br/>13 Squat Cleans (185/115 lb)\r<br/>\r<br/>If completed before 8 minutes, continue until 12 minutes:\r<br/>25 Toes-to-Bars\r<br/>50 Double-Unders\r<br/>11 Squat Cleans (225/145 lb)\r<br/>\r<br/>If completed before 12 minutes, continue until 16 minutes:\r<br/>25 Toes-to-Bars\r<br/>50 Double-Unders\r<br/>9 Squat Cleans (275/175 lb)\r<br/>\r<br/>If completed before 16 minutes, continue until 20 minutes:\r<br/>25 Toes-to-Bars\r<br/>50 Double-Unders\r<br/>7 Squat Cleans (315/205 lb)",
-      "workout_title": "AMRAP in 20 minutes"
-    },
-    {
-      "title": "Naughty Nancy",
-      "score_types": "For Time",
-      "workout": "600 meter berm Run (up and over)\r<br/>25 Overhead Squats (140/95 lb)\r<br/>\r<br/>Time Cap: 20 minutes",
-      "workout_title": "4 Rounds for Time"
-    },
-    {
-      "title": "Muscle-Up Biathlon",
-      "score_types": "For Time",
-      "workout": "400 meter Run\r<br/>18 Muscle-Ups\r<br/>400 meter Run\r<br/>15 Muscle-Ups\r<br/>400 meter Run\r<br/>12 Muscle-Ups\r<br/>\r<br/>Time Cap: 18 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Open 14.4",
-      "score_types": "For Rounds / Reps",
-      "workout": "60 calorie Row\r<br/>50 Toes-to-Bars\r<br/>40 Wall Ball Shots (20/14 lb, 10/9 ft)\r<br/>30 Cleans (135 lb)\r<br/>20 Muscle-Ups",
-      "workout_title": "AMRAP in 14 minutes"
-    },
-    {
-      "title": "The Beach",
-      "score_types": "For Time",
-      "workout": "250 yard Swim \r<br/>50 Kettlebell Thrusters (35/24 lb)\r<br/>30 Burpees\r<br/>500 yard Swim \r<br/>30 Burpees\r<br/>50 Kettlebell Thrusters  (35/24 lb)\r<br/>250 yard Swim ",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Open 15.5",
-      "score_types": "For Time",
-      "workout": "Row (calories)\r<br/>Thrusters (95/65 lb)",
-      "workout_title": "27-21-15-9 Reps for Time"
-    },
-    {
-      "title": "Open 18.2 &#038; 18.2 A",
-      "score_types": "For Load<br/></div>For Time",
-      "workout": "1-2-3-4-5-6-7-8-9-10 Reps of:\r<br/>Dumbbell Squats (2 x 50/35 lb)\r<br/>Bar-Facing Burpees\r<br/>\r<br/>Then, \"18.2 A\"\r<br/>1 rep max Clean\r<br/>\r<br/>Time Cap: 12 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Open 16.5",
-      "score_types": "For Time",
-      "workout": "Thrusters (95/65 lb)\r<br/>Bar-Facing Burpees",
-      "workout_title": "21-18-15-12-9-6-3 Reps For Time"
-    },
-    {
-      "title": "Open 16.4",
-      "score_types": "For Rounds / Reps",
-      "workout": "55 Deadlifts (225/155 lb)\r<br/>55 Wall-Balls (20/14 lb)\r<br/>55 calorie Row\r<br/>55 Handstand Push-Ups",
-      "workout_title": "AMRAP in 13 minutes"
-    },
-    {
-      "title": "Open 14.3",
-      "score_types": "For Rounds / Reps",
-      "workout": "10 Deadlifts (135/95 lb)\r<br/>15 Box Jumps (24/20 in)\r<br/>15 Deadlifts (185/135 lb)\r<br/>15 Box Jumps (24/20 in)\r<br/>20 Deadlifts (225/155 lb)\r<br/>15 Box Jumps (24/20 in)\r<br/>25 Deadlifts (275/185 lb)\r<br/>15 Box Jumps (24/20 in)\r<br/>30 Deadlifts (315/205 lb)\r<br/>15 Box Jumps (24/20 in)\r<br/>35 Deadlifts (365/225 lb)\r<br/>15 Box Jumps (24/20 in)",
-      "workout_title": "AMRAP in 8 minutes"
-    },
-    {
-      "title": "Open 14.1",
-      "score_types": "For Rounds / Reps",
-      "workout": "30 Double-Unders\r<br/>15 Power Snatches (75/55 lb)",
-      "workout_title": "AMRAP in 10 minutes"
-    },
-    {
-      "title": "Rope Chipper",
-      "score_types": "For Time",
-      "workout": "200 meter SkiErg\r<br/>50/40 Double-Unders\r<br/>200 meter Row\r<br/>50/40 Double-Unders\r<br/>0.4 mile Assault Air Bike\r<br/>50/40 Double-Unders\r<br/>200 meter Row\r<br/>50/40 Double-Unders\r<br/>200-m SkiErg\r<br/>90-ft. sled pull (310 / 220 lb.)\r<br/>\r<br/>Time Cap: 11 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Sprint Chipper",
-      "score_types": "For Time",
-      "workout": "21 Med Ball GHD Sit-Ups\r<br/>15 Snatches (165/100 lb)\r<br/>9 Over-the-Wall Burpees (6 ft)",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 10.4 (Canada)",
-      "score_types": "For Time",
-      "workout": "50 Double-Unders\r<br/>10 Burpees\r<br/>40 Double-Unders\r<br/>10 Burpees\r<br/>30 Double-Unders\r<br/>10 Burpees\r<br/>20 Double-Unders\r<br/>10 Burpees\r<br/>10 Double-Unders\r<br/>10 Burpees",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Push Pull",
-      "score_types": "For Time",
-      "workout": "7 Handstand Push-Ups (deficit for men)\r<br/>50 ft Sled Pull\r<br/>8 Handstand Push-Ups\r<br/>50 ft Sled Pull\r<br/>9 Handstand Push-Ups\r<br/>50 ft Sled Pull\r<br/>10 Handstand Push-Ups\r<br/>50 ft Sled Pull\r<br/>\r<br/>Time Cap: 11 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Fibonacci Final",
-      "score_types": "For Time",
-      "workout": "Men\r<br/>5-8-13 reps of:\r<br/>Parallette Handstand Push-Ups\r<br/>Kettlebell Deadlifts (2 x 203 lb)\r<br/>89 feet Kettlebells Overhead Lunges (2 x 53 lb)\r<br/>\r<br/>Women\r<br/>3 Parallette Handstand Push-Ups\r<br/>5 Kettlebell Deadlifts (2 x 124 lb)\r<br/>5 Parallette Handstand Push-Ups\r<br/>8 Kettlebell Deadlifts​​​​​​​ (2 x 124 lb)\r<br/>8 Parallette Handstand Push-Ups\r<br/>13 Kettlebell Deadlifts​​​​​​​ (2 x 124 lb)\r<br/>89 feet Kettlebells Overhead Lunges (2 x 35 lb) ",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Open 15.3",
-      "score_types": "For Rounds / Reps",
-      "workout": "7 Muscle-Ups\r<br/>50 Wall Balls (20/14 lb)\r<br/>100 Double-Unders",
-      "workout_title": "AMRAP in 14 minutes"
-    },
-    {
-      "title": "Open 18.3",
-      "score_types": "",
-      "workout": "100 Double-Unders\r<br/>20 Overhead Squats (115/80 lb)\r<br/>100 Double-Unders\r<br/>12 Ring Muscle-Ups\r<br/>100 Double-Unders\r<br/>20 Dumbbell Snatches (50/35 lb)\r<br/>100 Double-Unders\r<br/>12 Bar Muscle-Ups\r<br/>\r<br/>Time cap: 14 minutes",
-      "workout_title": "2 Rounds for Time"
-    },
-    {
-      "title": "Regionals 10.1 (Central/South America)",
-      "score_types": "For Time",
-      "workout": "5 Pull-Ups\r<br/>10 Push-Ups\r<br/>15 Air Squats\r<br/>10 Thrusters (115/75 lb)\r<br/>\r<br/>Time Cap: 25 minutes",
-      "workout_title": "7 Rounds for Time"
-    },
-    {
-      "title": "Regionals 12.3",
-      "score_types": "For Time",
-      "workout": "10 One-Arm Dumbbell Snatches (100/70 lbs)\r<br/>100 meter Sprint",
-      "workout_title": "4 Rounds for Time"
-    },
-    {
-      "title": "Regionals 9.1 (Africa)",
-      "score_types": "For Time",
-      "workout": "Deadlifts (125/70 kg)\r<br/>Burpees (5 per round)\r<br/>Squat Clean and Jerks (60/40 kg)",
-      "workout_title": "10-9-8-7-6-5-4-3-2-1 Reps for Time"
-    },
-    {
-      "title": "Open 13.1",
-      "score_types": "For Rounds / Reps",
-      "workout": "40 Burpees\r<br/>30 Snatches (75/45 lb)\r<br/>30 Burpees\r<br/>30 Snatches (135/75 lb)\r<br/>20 Burpees\r<br/>30 Snatches (165/100 lb)\r<br/>10 Burpees\r<br/>Max Snatches (210/120 lb)",
-      "workout_title": "AMRAP in 17 minutes"
-    },
-    {
-      "title": "Open 16.1",
-      "score_types": "For Rounds / Reps",
-      "workout": "25 ft Overhead Walking Lunges (95/65 lb)\r<br/>8 Bar-Facing Burpees\r<br/>25 ft Overhead Walking Lunges (95/65 lb)\r<br/>8 Chest-to-Bar Pull-Ups",
-      "workout_title": "AMRAP in 20 minutes"
-    },
-    {
-      "title": "Open 14.2",
-      "score_types": "For Rounds / Reps",
-      "workout": "From 0:00-3:00, 2 rounds of:\r<br/>10 Overhead Squats (95/65 lb)\r<br/>10 Chest-to-Bar Pull-Ups\r<br/>\r<br/>From 3:00-6:00, 2 rounds of:\r<br/>12 Overhead Squats (95/65 lb)\r<br/>12 Chest-to-Bar Pull-Ups\r<br/>\r<br/>From 6:00-9:00, 2 rounds of:\r<br/>14 Overhead Squats (95/65 lb)\r<br/>14 Chest-to-Bar Pull-Ups\r<br/>\r<br/>Follow the pattern until you fail to complete both rounds.",
-      "workout_title": "For As Long As Possible"
-    },
-    {
-      "title": "Open 12.2",
-      "score_types": "For Rounds / Reps",
-      "workout": "30 Snatches (75/45 lb)\r<br/>30 Snatches (135/75 lb)\r<br/>30 Snatches (165/100 lb)\r<br/>Max Snatches (210/120 lb)",
-      "workout_title": "AMRAP in 10 minutes"
-    },
-    {
-      "title": "The End",
-      "score_types": "For Rounds / Reps<br/></div>For Time",
-      "workout": "\"The End 1\"\r<br/>AMRAP in 3 minutes\r<br/>20 calorie Row \r<br/>30 Wall Ball Shots (20/14 lb)\r<br/>20 Toes-to-Bars\r<br/>30 Box Jumps (24 in)\r<br/>20 Kettlebell Sumo Deadlift High-Pulls (108/72 lb)\r<br/>30 Burpees\r<br/>20 Shoulder-to-Overheads (135/95 lb)\r<br/>100 ft Sled Pull\r<br/>\r<br/>Rest 1 minute\r<br/>\r<br/>\"The End 2\"\r<br/>AMRAP in 6 minutes\r<br/>Same workout as above\r<br/>\r<br/>Rest 2 minutes\r<br/>\r<br/>\"The End 3\"\r<br/>For Time\r<br/>Same workout as above",
-      "workout_title": "3 Parts Scored Individually"
-    },
-    {
-      "title": "Regionals 9.1 (Mid-Atlantic)",
-      "score_types": "For Time",
-      "workout": "2000 meter Row",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Open 17.2",
-      "score_types": "For Rounds / Reps",
-      "workout": "2 Rounds of:\r<br/>50 ft Dumbbell Walking Lunges (50/35 lb)\r<br/>16 Toe-to-Bars\r<br/>8 Dumbbell Power Cleans (50/35 lb)\r<br/>Then, 2 Rounds of:\r<br/>50 ft Dumbbell Walking Lunges (50/35 lb)\r<br/>16 Bar Muscle-Ups\r<br/>8 Dumbbell Power Cleans (50/35 lb)",
-      "workout_title": "AMRAP in 12 minutes"
-    },
-    {
-      "title": "Regionals 10.4 (Southeast)",
-      "score_types": "For Time",
-      "workout": "500 meter Row\r<br/>25 Burpees\r<br/>500 meter Row\r<br/>25 Burpees",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Pyramid Double Helen",
-      "score_types": "For Time",
-      "workout": "1,200 meter Run\r<br/>63 Kettlebell Swings (1.5/1 pood)\r<br/>36 Pull-Ups\r<br/>800 meters Run\r<br/>42 Kettlebell Swings (1.5/1 pood)\r<br/>24 Pull-Ups\r<br/>400 meters Run\r<br/>21 Kettlebell Swings (1.5/1 pood)\r<br/>12 Pull-Ups\r<br/>\r<br/>Time Cap: 22 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Open 15.4",
-      "score_types": "For Rounds / Reps",
-      "workout": "3 Handstand Push-Ups\r<br/>3 Cleans (185/125 lb)\r<br/>6 Handstand Push-Ups\r<br/>3 Cleans (185/125 lb)\r<br/>9 Handstand Push-Ups\r<br/>3 Cleans (185/125 lb)\r<br/>12 Handstand Push-Ups\r<br/>6 Cleans (185/125 lb)\r<br/>15 Handstand Push-Ups\r<br/>6 Cleans (185/125 lb)\r<br/>18 Handstand Push-Ups\r<br/>6 Cleans (185/125 lb)\r<br/>21 Handstand Push-Ups\r<br/>9 Cleans (185/125 lb)\r<br/>Etc., following same pattern until time is up",
-      "workout_title": "AMRAP in 8 minutes"
-    },
-    {
-      "title": "GG Qualifier 18.3",
-      "score_types": "For Time",
-      "workout": "3 Rounds of:\r<br/>12 Chest-to-Bar Pull-Ups\r<br/>12 Alternating Dumbbell Snatches (50/35 lb)\r<br/>\r<br/>Tie Break Time Recorded.\r<br/>\r<br/>Then immediately after, 3 rounds of:\r<br/>12 Bar Muscle-Ups\r<br/>12 Alternating Dumbbell Snatches (50/35 lb)\r<br/>\r<br/>Time Cap: 12 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "50&#8217;s Chipper",
-      "score_types": "For Time",
-      "workout": "50 Wall Ball Shots (20/14 lb, 10/9 ft)\r<br/>50 Dumbbell Snatches (70/50 lb) (alternating)\r<br/>50 Pistols (alternating)\r<br/>50 Chest-to-Bar Pull-Ups",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 18.5",
-      "score_types": "For Time",
-      "workout": "50 Handstand Push-Ups\r<br/>50 Toes-to-Bars\r<br/>50 calorie Assault Bike\r<br/>50 Dumbbell Box Step-Overs (2 x 70/50 lb, 24/20 in)\r<br/>50 feet Right-Arm Dumbbell Overhead Lunges (2 x 70/50 lb)\r<br/>50 feet Left-Arm Dumbbell Overhead Lunges (2 x 70/50 lb)\r<br/>\r<br/>Time Cap: 17/22 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Open 13.4",
-      "score_types": "For Rounds / Reps",
-      "workout": "3 Clean-and-Jerks (135/95 lb)\r<br/>3 Toes-to-Bars\r<br/>6 Clean-and-Jerks (135/95 lb)\r<br/>6 Toes-to-Bars\r<br/>9 Clean-and-Jerks (135/95 lb)\r<br/>9 Toes-to-Bars\r<br/>12 Clean-and-Jerks (135/95 lb)\r<br/>12 Toes-to-Bars\r<br/>If athlete completes the round of 12, go on to 15.  Complete 15, go on the 18, etc.",
-      "workout_title": "AMRAP in 7 minutes"
-    },
-    {
-      "title": "GG Qualifier 18.6",
-      "score_types": "For Time",
-      "workout": "150 Double-Unders\r<br/>75 ft Front Rack Dumbbell Walking Lunges (50/35 lb)\r<br/>50 Dumbbell Thrusters (50/35 lb)\r<br/>75 ft Front Rack Dumbbell Walking Lunges (50/35 lb)\r<br/>150 Double-Unders",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Open 13.2",
-      "score_types": "For Rounds / Reps",
-      "workout": "5 Shoulder-to-Overheads (115/75 lb)\r<br/>10 Deadlifts (115/75 lb)\r<br/>15 Box Jumps (24/20 in)",
-      "workout_title": "AMRAP in 10 minutes"
-    },
-    {
-      "title": "Open 17.3",
-      "score_types": "For Rounds / Reps",
-      "workout": "Prior to 8 minutes, 3 rounds of:\r<br/>6 Chest-to-Bar Pull-Ups\r<br/>6 Squat Snatches (95/65 lb)\r<br/>\r<br/>Then 3 rounds of:\r<br/>7 Chest-to-Bar Pull-Ups\r<br/>5 Squat Snatches (135/95 lb)\r<br/>\r<br/>* Prior to 12 minutes, 3 rounds of:\r<br/>8 Chest-to-Bar Pull-Ups\r<br/>4 Squat Snatches (185/135 lb)\r<br/>\r<br/>* Prior to 16 minutes, 3 rounds of:\r<br/>9 Chest-to-Bar Pull-Ups\r<br/>3 Squat Snatches (225/155 lb)\r<br/>\r<br/>* Prior to 20 minutes, 3 rounds of:\r<br/>10 Chest-to-Bar Pull-Ups\r<br/>2 Squat Snatches (245/175 lb)\r<br/>\r<br/>* Prior to 24 minutes, 3 rounds of:\r<br/>11 Chest-to-Bar Pull-Ups\r<br/>1 Squat Snatch (265/185 lb)",
-      "workout_title": "For Reps"
-    },
-    {
-      "title": "Open 15.2",
-      "score_types": "For Rounds / Reps",
-      "workout": "From 0:00-3:00, 2 rounds of:\r<br/>10 Overhead Squats (95/65 lb)\r<br/>10 Chest-to-Bar Pull-Ups\r<br/>\r<br/>From 3:00-6:00, 2 rounds of:\r<br/>12 Overhead Squats (95/65 lb)\r<br/>12 Chest-to-Bar Pull-Ups\r<br/>\r<br/>From 6:00-9:00, 2 rounds of:\r<br/>14 Overhead Squats (95/65 lb)\r<br/>14 Chest-to-Bar Pull-Ups\r<br/>\r<br/>Follow the pattern until you fail to complete both rounds.",
-      "workout_title": "For As Long As Possible"
-    },
-    {
-      "title": "Open 12.3",
-      "score_types": "For Rounds / Reps",
-      "workout": "15 Box Jumps (24/20 in) \r<br/>12 Push Presses (115/75 lb)\r<br/>9 Toes-to-Bars",
-      "workout_title": "AMRAP in 18 minutes"
-    },
-    {
-      "title": "Team Series 17.8",
-      "score_types": "For Time",
-      "workout": "Partner 1 completes:\r<br/>1,000 meter Row\r<br/>50 Thrusters (45/35 lb)\r<br/>30 Chest-to-Bar Pull-Ups\r<br/>\r<br/>Then, Partner 2 completes:\r<br/>1,000 meter Row\r<br/>50 Thrusters (45/35 lb)\r<br/>30 Chest-to-Bar Pull-Ups",
-      "workout_title": "For Time (with a Partner)"
-    },
-    {
-      "title": "Regionals 9.1 (Rocky Mountain)",
-      "score_types": "For Time",
-      "workout": "8 Deadlifts (300/195 lb)\r<br/>400 meter Run",
-      "workout_title": "3 Rounds for Time"
-    },
-    {
-      "title": "Open 13.5",
-      "score_types": "For Rounds / Reps",
-      "workout": "15 Thrusters (100/65 lb)\r<br/>15 Chest-to-Bar Pull-Ups\r<br/>\r<br/>If 90 reps (3 rounds) are completed in under 4 minutes, time extends to 8 minutes.\r<br/>\r<br/>If 180 reps (6 rounds) are completed in under 8 minutes, time extends to 12 minutes. Etc.",
-      "workout_title": "AMRAP For As Long As Possible"
-    },
-    {
-      "title": "Handstand Walk",
-      "score_types": "For Time",
-      "workout": "280 feet Handstand Walk",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Open 18.4",
-      "score_types": "For Time",
-      "workout": "21-15-9 Reps of:\r<br/>Deadlift (225/155 lb)\r<br/>Handstand Push-Ups\r<br/>\r<br/>Then, 21-15-9 Reps of:\r<br/>Deadlift (315/205 lb)\r<br/>50 ft Handstand Walk\r<br/>\r<br/>Time Cap: 9 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "ECC Qualifiers 15.2",
-      "score_types": "For Load<br/></div>For Time",
-      "workout": "AMRAP in 5 minutes (from 0:00-5:00)\r<br/>5 Bar Muscle-Ups\r<br/>5 Squat Cleans (155/105 lb)\r<br/>5 Box Jumps (40/30 in)\r<br/>\r<br/>Then, 5 Minutes (from 5:00-10:00) to Establish:\r<br/>Max Load Complex of\r<br/>1 Clean\r<br/>1 Hang Squat Clean\r<br/>1 Front Squat\r<br/>1 Jerk\r<br/>\r<br/>Then, For Time (starting at 10:00):\r<br/>18-12-6 Repetitions of \r<br/>Deadlifts (275/185 lb)\r<br/>Strict Handstand Push-Ups",
-      "workout_title": "With a Running Clock"
-    },
-    {
-      "title": "Regionals 9.3 (Hell&#8217;s Half Acre)",
-      "score_types": "For Time",
-      "workout": "Box Jumps (24/20 in)\r<br/>Kettlebell Swings (53/35 lb)\r<br/>Sumo Deadlift High-Pulls (95/65 lb)",
-      "workout_title": "21-15-9 Reps for Time"
-    },
-    {
-      "title": "Row 1 &#038; Row 2",
-      "score_types": "For Time",
-      "workout": "21,097 meter Row\r<br/>\r<br/>Time Cap: 2 hours for Men, 2 hours 10 minutes for Women",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "ECC Qualifiers 15.3",
-      "score_types": "For Rounds / Reps",
-      "workout": "50 Wall Balls (20/14 lb)\r<br/>50 Double-Unders\r<br/>40 Box Jumps (24/20 lb)\r<br/>40 Toes-to-Bar\r<br/>30 Chest-to-Bar Pull-Ups\r<br/>30 Bar-Facing Burpees\r<br/>20 Cleans (145/100 lb)\r<br/>20 Jerks (145/100 lb)\r<br/>10 Snatches (145/100 lb)\r<br/>10 Muscle-Ups",
-      "workout_title": "AMRAP in 20 minutes"
-    },
-    {
-      "title": "Legless",
-      "score_types": "For Time",
-      "workout": "27 Thrusters (95/65 lb)\r<br/>4 Legless Rope Climbs (15 ft)\r<br/>21 Thrusters (95/65 lb)\r<br/>3 Legless Rope Climbs (15 ft)\r<br/>15 Thrusters (95/65 lb)\r<br/>2 Legless Rope Climbs (15 ft)\r<br/>9 Thrusters (95/65 lb)\r<br/>1 Legless Rope Climb (15 ft)",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 18.4",
-      "score_types": "For Time",
-      "workout": "2 Rounds of:\r<br/>10 Snatches (175/125 lb)\r<br/>12 Burpees\r<br/>\r<br/>Then, 2 Rounds of:\r<br/>10 Snatches (115/75 lb)\r<br/>12 Burpees \r<br/>\r<br/>Time Cap: 9 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Open 17.4",
-      "score_types": "For Rounds / Reps",
-      "workout": "55 Deadlifts (225/155 lb)\r<br/>55 Wall Ball Shots (20/14 lb, 10/9 ft)\r<br/>55 calorie Row\r<br/>55 Handstand Push-Ups",
-      "workout_title": "AMRAP in 13 minutes"
-    },
-    {
-      "title": "Get a Grip",
-      "score_types": "For Time",
-      "workout": "50 Double-Unders\r<br/>20 Deadlifts (100/70 kg)\r<br/>20 Box Jumps (24/20 in)\r<br/>20 Kettlebell Swings (24/16 kg)\r<br/>20 Toes-to-Bars \r<br/>20 Kettlebell Swings (24/16 kg)\r<br/>20 Box Jumps (24/20 in)\r<br/>20 Deadlifts (100/70 kg)\r<br/>50 Double-Unders \r<br/>\r<br/>Time Cap: 8 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Pendleton 1 &#038; Pendleton 2",
-      "score_types": "For Time",
-      "workout": "700 meter Swim\r<br/>8 km Bike\r<br/>11 km Run",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 9.1 (Asia)",
-      "score_types": "For Time",
-      "workout": "7 Thrusters (135/85 lbs)\r<br/>7 Burpees",
-      "workout_title": "7 Rounds for Time"
-    },
-    {
-      "title": "Regionals 9.3 (Northern California)",
-      "score_types": "For Time",
-      "workout": "22 Deadlifts (315/185 lb)\r<br/>Farmer's Carry (45/25 lb) to top of inner loop of the hill\r<br/>22 Dumbbell Thrusters (45/25 lb)\r<br/>Farmer's Carry (45/25 lb) to bottom of inner loop\r<br/>Run to Pull-Up Bar \r<br/>22 Chest-to-Bar Pull-Ups\r<br/>Run to top of outer loop\r<br/>22 Overhead Squats (95/65 lb)\r<br/>Run to bottom of inner loop",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Open 16.3",
-      "score_types": "For Rounds / Reps",
-      "workout": "10 Power Snatches (75/55 lb)\r<br/>3 Bar Muscle-Ups",
-      "workout_title": "AMRAP in 7 minutes"
-    },
-    {
-      "title": "Regionals 18.1",
-      "score_types": "For Time",
-      "workout": "\"Triple 3\"\r<br/>3000 meter Row\r<br/>300 Double-Unders\r<br/>3 mile Run\r<br/>\r<br/>Time Cap: 49 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Open 11.5",
-      "score_types": "For Rounds / Reps",
-      "workout": "5 Power Cleans (145/105 lb)\r<br/>10 Toes-To-Bars\r<br/>15 Wall Balls (20/14 lb, 10/9 ft)",
-      "workout_title": "AMRAP in 20 minutes"
-    },
-    {
-      "title": "Regionals 9.2 (Africa)",
-      "score_types": "For Time",
-      "workout": "Buy-In:\r<br/>500 meter Row\r<br/>\r<br/>Then, 2 Rounds of:\r<br/>20 Pull-Ups\r<br/>20 Thrusters (30/20 kg)\r<br/>400 meter Run\r<br/>20 Kettlebell Swings (24/16 kg)\r<br/>20 Box Jumps\r<br/>\r<br/>Buy-Out:\r<br/>500 meter Row",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 9.2 (Europe)",
-      "score_types": "For Time",
-      "workout": "Clean and Jerks (60/40 kg)\r<br/>Handstand Push-Ups",
-      "workout_title": "15-12-9 Reps for Time"
-    },
-    {
-      "title": "2223 Intervals",
-      "score_types": "For Time",
-      "workout": "Three 2-minute intervals, then one 3-minute interval of:\r<br/>2 Rope Climbs\r<br/>10/7 calorie SkiErg\r<br/>Max Overhead Squats (155/105 lb)\r<br/>\r<br/>Then, 1 minute Rest\r<br/>\r<br/>Time Cap: 12 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 9.2 (Great Basin)",
-      "score_types": "For Time",
-      "workout": "7 Deadlifts (275/185 lb)\r<br/>30 Air Squats\r<br/>7 Handstand Push-Ups",
-      "workout_title": "5 Rounds for Time"
-    },
-    {
-      "title": "GG Qualifier 18.4",
-      "score_types": "For Time",
-      "workout": "Hang Squat Cleans (135/95 lb)\r<br/>Bar Facing Burpees\r<br/>\r<br/>Time Cap: 8 minutes",
-      "workout_title": "3-6-9-12-9-6-3 Reps for Time"
-    },
-    {
-      "title": "Open 11.2",
-      "score_types": "For Rounds / Reps",
-      "workout": "9 Deadlifts (155/100 lb)\r<br/>12 Push-Ups\r<br/>15 Box Jumps (24/20 in)\r",
-      "workout_title": "AMRAP in 15 minutes"
-    },
-    {
-      "title": "GG Qualifier 15.1",
-      "score_types": "For Rounds / Reps",
-      "workout": "5 Hang Squat Cleans (155/105 lb)\r<br/>7 Bar-Facing Burpees",
-      "workout_title": "AMRAP in 10 minutes"
-    },
-    {
-      "title": "Regionals 18.6",
-      "score_types": "For Time",
-      "workout": "4 Rope Climbs\r<br/>16 Thrusters (155/105 lb)\r<br/>3 Rope Climbs\r<br/>12 Thrusters (155/105 lb)\r<br/>2 Rope Climbs\r<br/>8 Thrusters (155/105 lb)\r<br/>\r<br/>Time Cap: 7 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "AGOQ 17.1",
-      "score_types": "For Time",
-      "workout": "100 Dumbbell Snatches (50/35 lb)\r<br/>80 calorie Row\r<br/>60 Burpees\r<br/>40 Muscle-Ups\r<br/>\r<br/>Time Cap: 20 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Open 11.4",
-      "score_types": "For Rounds / Reps",
-      "workout": "60 Bar Facing Burpees\r<br/>30 Overhead Squats (120/90 lb)\r<br/>10 Muscle-Ups",
-      "workout_title": "AMRAP in 10 minutes"
-    },
-    {
-      "title": "Team Series 17.1",
-      "score_types": "For Time",
-      "workout": "Synchronized Thrusters (95/65 lb)\r<br/>Synchronized Bar-Facing Burpees",
-      "workout_title": "21-15-9 Reps for Time (with a Partner)"
-    },
-    {
-      "title": "ECC Qualifiers 15.1",
-      "score_types": "For Load<br/></div>For Time",
-      "workout": "AMRAP in 5 Minutes (from 0:00-5:00):\r<br/>10 Bar-Facing Burpees\r<br/>15 Thrusters (95/65 lb)\r<br/>20 Chest-to-Bar Pull-Ups\r<br/>\r<br/>Then, 5 Minutes (from 5:00-10:00) to Establish:\r<br/>5 Rep Max Low Hang Snatch\r<br/>\r<br/>Then, For Time (starting at 10:00):\r<br/>25 Overhead Squats (135/95 lb)\r<br/>75 Double-Unders\r<br/>25 calorie Row\r<br/>75 Double-Unders\r<br/>25 Overhead Squats (135/95 lb)",
-      "workout_title": "With a Running Clock"
-    },
-    {
-      "title": "Regionals 9.2 (Hell&#8217;s Half Acre)",
-      "score_types": "For Time",
-      "workout": "50 Chest-to-Bar Pull-Ups\r<br/>50 Burpees",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 15.3",
-      "score_types": "For Time",
-      "workout": "1 mile Run\r<br/>50 Overhead Squats (135/95 lbs)\r<br/>100 GHD sit-ups\r<br/>150 Double Unders\r<br/>50 Sumo Deadlift High-Pulls (135/95 lbs)\r<br/>100 Box Jump Overs (24/18 in)\r<br/>\r<br/>Time Cap: 26 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 10.4 (Central East)",
-      "score_types": "For Time",
-      "workout": "50 Box Jumps (24/20 in)\r<br/>40 Kettlebell Overhead Swings (24/16 kg)\r<br/>30 Burpees with Jump Over Sandbag\r<br/>20 Sandbag Cleans from Ground to Front Squats (40/20 lb)\r<br/>10 Dumbbell Shoulder-to-Overheads (65/40 lb)\r<br/>20 Sandbag Cleans from Ground to Front Squats (40/20 lb)\r<br/>30 Burpees with Jump Over Sandbag\r<br/>40 Kettlebell Overhead Swings (24/16 kg)\r<br/>50 Box Jumps (24/20 in)",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Open 11.3",
-      "score_types": "For Rounds / Reps",
-      "workout": "Squat Clean (165/110 lb)\r<br/>Jerk (165/110 lb)\r",
-      "workout_title": "AMRAP in 5 minutes"
-    },
-    {
-      "title": "Triangle Couplet",
-      "score_types": "For Time",
-      "workout": "Thrusters (165/115 lb)\r<br/>Bar Muscle-Ups\r<br/>\r<br/>Time Cap: 10 minutes",
-      "workout_title": "15-10-6 Reps for Time"
-    },
-    {
-      "title": "Regionals 9.1 (Canada West)",
-      "score_types": "For Rounds / Reps",
-      "workout": "10 Wall Ball Shots (20/14 lb)\r<br/>10 Box Jumps (20 in)\r<br/>10 Deadlifts (205/145 lb)\r<br/>10 Burpees",
-      "workout_title": "AMRAP in 20 minutes"
-    },
-    {
-      "title": "Regionals 9.3 (Rocky Mountain)",
-      "score_types": "For Time",
-      "workout": "Accumulate 7000/5000 lb Ground-to-Overhead",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 10.1 (Central East)",
-      "score_types": "For Time",
-      "workout": "Muscle-Ups\r<br/>Barbell Complexes (115/65 lbs)",
-      "workout_title": "5-4-3-2-1 Reps For Time"
-    },
-    {
-      "title": "Open 11.6",
-      "score_types": "For Rounds / Reps",
-      "workout": "3 Thrusters (100/65 lb)\r<br/>3 Chest-to-Bar Pull-Ups\r<br/>6 Thrusters (100/65 lb)\r<br/>6 Chest-to-Bar Pull-Ups\r<br/>9 Thrusters (100/65 lb)\r<br/>9 Chest-to-Bar Pull-Ups\r<br/>If you complete the round of 9, complete a round of 12, then go on to 15, etc.",
-      "workout_title": "AMRAP in 7 minutes"
-    },
-    {
-      "title": "Open 12.4",
-      "score_types": "For Rounds / Reps",
-      "workout": "150 Wall Balls (20/14 lb)\r<br/>90 Double-Unders\r<br/>30 Muscle-Ups",
-      "workout_title": "AMRAP in 12 minutes"
-    },
-    {
-      "title": "Open 12.5",
-      "score_types": "For Rounds / Reps",
-      "workout": "3 Thrusters (100/65 lb)\r<br/>3 Chest-to-Bar Pull-Ups\r<br/>6 Thrusters (100/65 lb)\r<br/>6 Chest-to-Bar Pull-Ups\r<br/>9 Thrusters (100/65 lb)\r<br/>9 Chest-to-Bar Pull-Ups\r<br/>If you complete the round of 9, complete a round of 12, then go on to 15, etc.",
-      "workout_title": "AMRAP in 7 minutes"
-    },
-    {
-      "title": "Regionals 9.2 (Northwest)",
-      "score_types": "For Load",
-      "workout": "Max Deadlift",
-      "workout_title": "For Load"
-    },
-    {
-      "title": "WZA Progenex Bar Complex",
-      "score_types": "For Time",
-      "workout": "3 Hang Cleans, Front Squats, Shoulder-to-Overheads (245/1165 lb)\r<br/>2 Hang Cleans, Front Squats, Shoulder-to-Overheads (265/175 lb)\r<br/>1 Hang Clean, Front Squat, Shoulder-to-Overhead (285/185 lb)\r<br/>\r<br/>Time Cap: 5 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 18.3",
-      "score_types": "",
-      "workout": "9 Muscle-Ups\r<br/>Obstacle Handstand Walk\r<br/>36 Pistols\r<br/>Obstacle Handstand walk\r<br/>9 Muscle-Ups\r<br/>Obstacle Handstand Walk\r<br/>45 Pistols\r<br/>Obstacle Handstand walk\r<br/>9 Muscle-Ups\r<br/>Obstacle Handstand Walk\r<br/>54 Pistols\r<br/>\r<br/>Time Cap: 13 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Team Series 17.3",
-      "score_types": "For Time",
-      "workout": "50 Synchronized Wall Ball Shots (20/14 in 9/10 ft)\r<br/>30 Cleans (135/95 lb)\r<br/>50 Synchronized Wall Ball Shots (20/14 in 9/10 ft)\r<br/>20 Cleans (185/135 lb)\r<br/>50 Synchronized Wall Ball Shots (20/14 in 9/10 ft)\r<br/>10 Cleans (225/155 lb)\r<br/>\r<br/>Time Cap: 12 minutes",
-      "workout_title": "For Time (with a Partner)"
-    },
-    {
-      "title": "Regionals 9.3 (Canada East)",
-      "score_types": "For Time",
-      "workout": "Burpees\r<br/>Kettlebell Swings (1.5 pood)\r<br/>\r<br/>Time Cap: 7 minutes",
-      "workout_title": "21-15-9 Reps for Time"
-    },
-    {
-      "title": "Open 13.3",
-      "score_types": "For Rounds / Reps",
-      "workout": "150 Wall Balls (20/14 lb)\r<br/>90 Double-Unders\r<br/>30 Muscle-Ups",
-      "workout_title": "AMRAP in 12 minutes"
-    },
-    {
-      "title": "Midline March",
-      "score_types": "For Time",
-      "workout": "25 GHD Sit-Ups\r<br/>50 foot Handstand Walk\r<br/>50 foot Overhead Walking Lunge (155/105 lb)",
-      "workout_title": "3 Rounds for Time"
-    },
-    {
-      "title": "The Separator",
-      "score_types": "For Time",
-      "workout": "For Men:\r<br/>12 Ring Handstand Push-Ups\r<br/>15 Back Squats (225 lb)\r<br/>20 Burpees\r<br/>9 Ring Handstand Push-Ups\r<br/>18 Front Squats (205 lb)\r<br/>20 Burpees\r<br/>6 Ring Handstand Push-Ups\r<br/>21 Overhead Squats (185 lb)\r<br/>20 Burpees\r<br/>\r<br/>For Women:\r<br/>15 Back Squats (165 lb)\r<br/>20 Burpees\r<br/>6 Ring Handstand Push-Ups\r<br/>18 Front Squats (145 lb)\r<br/>20 Burpees\r<br/>4 Ring Handstand Push-Ups\r<br/>21 Overhead Squats (125 lb)\r<br/>20 Burpees\r<br/>2 Ring Handstand Push-Ups\r<br/>\r<br/>Time Cap: 16 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Team Series 17.5",
-      "score_types": "For Rounds / Reps",
-      "workout": "3 Synchronized Burpee Box Jump-Overs (24/20 in)\r<br/>3 Synchronized Deadlifts (225/155 lb)\r<br/>6 Synchronized Burpee Box Jump-Overs (24/20 in)\r<br/>6 Synchronized Deadlifts (225/155 lb)\r<br/>9 Synchronized Burpee Box Jump-Overs (24/20 in)\r<br/>9 Synchronized Deadlifts (225/155 lb)\r<br/>\r<br/>Etc., adding 3 reps to each exercise every round.",
-      "workout_title": "AMRAP in 10 minutes (with a Partner)"
-    },
-    {
-      "title": "Regionals 9.1 (Northwest)",
-      "score_types": "For Load",
-      "workout": "Max Clean and Press",
-      "workout_title": "For Load"
-    },
-    {
-      "title": "GG Qualifier 18.2",
-      "score_types": "For Time",
-      "workout": "20-18-16-14-12-10-8-6-4-2 reps of:\r<br/>Wall Ball Shots (20/14 lb, 10/9 ft)\r<br/>\r<br/>10-9-8-7-6-5-4-3-2-1 reps of:\r<br/>Toes-to-Bars\r<br/>\r<br/>Time Cap: 12 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "AGOQ 18.2",
-      "score_types": "For Time",
-      "workout": "25 Chest-to-Bar Pull-Ups\r<br/>5 Cleans (245/170 lb)\r<br/>\r<br/>Time Cap: 15 minutes",
-      "workout_title": "4 Rounds for Time"
-    },
-    {
-      "title": "GG Qualifier 15.3",
-      "score_types": "For Rounds / Reps",
-      "workout": "50 calorie Row\r<br/>50 Wall Ball Shots (20/14 lb)\r<br/>50 Shoulder to Overhead (115/85 lb)\r<br/>50 Box Jumps (24/20 in)",
-      "workout_title": "AMRAP in 17 minutes"
-    },
-    {
-      "title": "Regionals 11.2",
-      "score_types": "For Load",
-      "workout": "Thruster Ladder\r<br/>\r<br/>Men: 155, 165, 175, 185, 195, 205, 215, 225, 235, 245, 255, 265, 275, 285, 295 lb\r<br/>\r<br/>Women: 105, 115, 125, 130, 135, 140, 145, 150, 155, 160, 165, 170, 175, 180, 185 lb",
-      "workout_title": "For Load"
-    },
-    {
-      "title": "Open 11.1",
-      "score_types": "For Rounds / Reps",
-      "workout": "30 Double-Unders\r<br/>15 Power Snatches (75/55 lb)",
-      "workout_title": "AMRAP in 10 minutes"
-    },
-    {
-      "title": "Ocean Swim",
-      "score_types": "For Time",
-      "workout": "500 meter Swim",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 9.3 (Europe)",
-      "score_types": "For Rounds / Reps",
-      "workout": "250 meter Row\r<br/>10 Burpees (8-foot target)\r<br/>10 Ring Dips (shoulder below elbow)",
-      "workout_title": "AMRAP in 20 minutes"
-    },
-    {
-      "title": "Regionals 9.1 (Australia)",
-      "score_types": "For Time",
-      "workout": "10 Clean-and-Jerks (60/40 kg)\r<br/>15 Ring Dips\r<br/>20 Kettlebell Swings (24/16 kg)",
-      "workout_title": "3 Rounds for Time"
-    },
-    {
-      "title": "Regionals 11.4",
-      "score_types": "For Time",
-      "workout": "100 Pull-Ups\r<br/>100 Kettlebell Swings (24/16 kg)\r<br/>100 Double Unders\r<br/>100 Overhead Squats (95/65 lb)",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Midline Madness",
-      "score_types": "For Time",
-      "workout": "400 meter Run\r<br/>50 foot Yoke Carry (380/300 lb)\r<br/>\r<br/>Time Cap: 25 minutes",
-      "workout_title": "6 Rounds For Time"
-    },
-    {
-      "title": "WZA Online Challenge 17.1",
-      "score_types": "For Load",
-      "workout": "1 Clean\r<br/>1 Front Squat\r<br/>1 Shoulder-to-Overhead\r<br/>1 Back Squat\r<br/>1 Shoulder-to-Overhead",
-      "workout_title": "6 Reps For Load"
-    },
-    {
-      "title": "Regionals 9.1 (Icelandic)",
-      "score_types": "For Rounds / Reps",
-      "workout": "5 Pull-Ups\r<br/>10 Burpees\r<br/>15 Kettlebell Swings (24/16 kg)\r<br/>20 Double-Unders",
-      "workout_title": "AMRAP in 12 minutes"
-    },
-    {
-      "title": "Team Series 17.6",
-      "score_types": "For Time",
-      "workout": "Dumbbell Snatches (50/35 lb)\r<br/>Bar Muscle-Ups\r<br/>\r<br/>Time Cap: 30 minutes",
-      "workout_title": "21-15-9 Reps for Time (with a Partner)"
-    },
-    {
-      "title": "Regionals 9.2 (Rocky Mountain)",
-      "score_types": "For Time",
-      "workout": "10 Chest-to-Bar Pull-Ups\r<br/>10 Front Squats (165/105 lb)\r<br/>10 Burpees",
-      "workout_title": "3 Rounds for Time"
-    },
-    {
-      "title": "Regionals 9.2 (Australia)",
-      "score_types": "For Time",
-      "workout": "Burpees\r<br/>Pull-ups\r<br/>400 meter Row",
-      "workout_title": "21-15-9 Reps for Time"
-    },
-    {
-      "title": "WZA Online Challenge 17.6",
-      "score_types": "For Rounds / Reps",
-      "workout": "10-8-6-4-2 Reps of\r<br/>Hang Power Cleans (ascending weight)\r<br/>Lateral Over-the-Bar Burpees\r<br/>Toes-to-Bars",
-      "workout_title": "AMRAP in 15 minutes"
-    },
-    {
-      "title": "WZA ROMWOD Up &#038; Down Dog Chipper",
-      "score_types": "For Time",
-      "workout": "40 Wall Ball Shots (30/20 lb)\r<br/>30 Toes-to-Bars \r<br/>20 Burpee Box Jump-Overs (24/20 in)\r<br/>30 Toes-to-Bars\r<br/>40 Wall Ball Shots (30/20 lb)",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "GG Qualifier 18.1",
-      "score_types": "For Load<br/></div>For Time",
-      "workout": "15 Burpees Over Concept 2 Erg\r<br/>40/30 Calorie Row\r<br/>15 Burpees Over Concept 2 Erg\r<br/>40/30 Calorie Row\r<br/>15 Burpees Over Concept 2 Erg\r<br/>\r<br/>In the remaining time:\r<br/>Establish a 1-RM Snatch",
-      "workout_title": "Complete as much as possible in 14 minutes"
-    },
-    {
-      "title": "Regionals 9.3 (Mid-Atlantic)",
-      "score_types": "For Time",
-      "workout": "400 meter Run\r<br/>21 Overhead Squats (95/65 lb)\r<br/>21 Box Jumps\r<br/>400 meter Run\r<br/>15 Overhead Squats (95/65 lb)\r<br/>15 Box Jumps\r<br/>400 meter Run\r<br/>9 Overhead Squats (95/65 lb)\r<br/>9 Box Jumps",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "WZA Gymnastic Triplet",
-      "score_types": "For Time",
-      "workout": "21 Chest-to-Bar Pull-Ups\r<br/>15 Strict Handstand Push-Ups\r<br/>9 Pistols (per leg, alternating)\r<br/>\r<br/>Time Cap: 20 minutes",
-      "workout_title": "4 Rounds for Time"
-    },
-    {
-      "title": "Regionals 17.2",
-      "score_types": "For Time",
-      "workout": "Dumbbell Snatches (80/55 lb)\r<br/>Ring Dips\r<br/>\r<br/>Time Cap: 6 minutes",
-      "workout_title": "21-15-9 Reps for Time"
-    },
-    {
-      "title": "Regionals 9.3 (Asia)",
-      "score_types": "For Time",
-      "workout": "900 meter Run\r<br/>15 Kettlebell Swings (2/1.5 pood)\r<br/>15 Tire Deadlifts (215/130 lb)\r<br/>15 meter Dumbbell Lunges (45/30 lb)\r<br/>15 Dumbbell Cleans (45/30 lb)",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 16.4",
-      "score_types": "For Time",
-      "workout": "28 Pistols\r<br/>15 Power Cleans (115/80 lb)\r<br/>\r<br/>Time Cap: 10 minutes",
-      "workout_title": "4 Rounds for Time"
-    },
-    {
-      "title": "The Triple 8",
-      "score_types": "For Load<br/></div>For Rounds / Reps",
-      "workout": "AMRAP from 0:00-6:00: \r<br/>8 Snatches (40/30 kg)\r<br/>8 Toes-to-Bars\r<br/>8 Box Jumps (24/20 in)\r<br/>\r<br/>Then, from 6:00-10:00:\r<br/>1 rep max Hang Snatch",
-      "workout_title": "With a Running Clock in 10 minutes"
-    },
-    {
-      "title": "The Cinco 2",
-      "score_types": "For Time",
-      "workout": "5 Muscle-Ups\r<br/>5 Deficit Handstand Push-Ups\r<br/>Then,\r<br/>90 ft Overhead Walking Lunges (160/100 lb axle bar)\r<br/>\r<br/>Time Cap: 7 minutes",
-      "workout_title": "3 Rounds for Time"
-    },
-    {
-      "title": "Medball-Handstand Push-Up",
-      "score_types": "For Time",
-      "workout": "8 Medicine Ball Cleans (150/80 lb)\r<br/>100 ft Medicine Ball Carry (150/80 lb)\r<br/>7 Paralette Handstand Push-Ups\r<br/>100 ft Medicine Ball Carry (150/80 lb)\r<br/>\r<br/>Time Cap: 10 minutes",
-      "workout_title": "3 Rounds for Time"
-    },
-    {
-      "title": "Regionals 10.1 (North Central)",
-      "score_types": "For Load",
-      "workout": "1 rep Max Effort Two Hand Overhead",
-      "workout_title": "For Load"
-    },
-    {
-      "title": "Regionals 16.3",
-      "score_types": "For Time",
-      "workout": "104 Wall Ball Shots (24/14 lb)\r<br/>52 Pull-Ups\r<br/>\r<br/>Time Cap: 6 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 10.2 (Central East)",
-      "score_types": "For Time",
-      "workout": "5000 meter Trail Run\r<br/>\r<br/>\"with sandbags on a very large hill\"",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "AGOQ 18.1",
-      "score_types": "For Time",
-      "workout": "4 Thrusters (135/95 lb)\r<br/>1 Rope Climb (15 ft)\r<br/>8 Thrusters (135/95 lb)\r<br/>2 Rope Climbs (15 ft)\r<br/>12 Thrusters (135/95 lb)\r<br/>3 Rope Climbs (15 ft)\r<br/>\r<br/>Time Cap: 10 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "AGOQ 18.3",
-      "score_types": "For Rounds / Reps",
-      "workout": "50 Wall Ball Shots (20/14 lb in 10/9 ft)\r<br/>100 Double-Unders\r<br/>50 ft Handstand Walk\r<br/>100 Double-Unders\r<br/>50 calorie Row\r<br/>100 Double-Unders\r<br/>50 ft Handstand Walk\r<br/>100 Double-Unders",
-      "workout_title": "AMRAP in 20 minutes"
-    },
-    {
-      "title": "GG Qualifier 17.5",
-      "score_types": "For Time",
-      "workout": "60 calorie Row\r<br/>80 Wall Ball Shots (20/14 lb, 10/9 ft)\r<br/>100 Double-Unders\r<br/>40 calorie Row\r<br/>60 Wall Ball Shots (20/14 lb, 10/9 ft)\r<br/>80 Double-Unders\r<br/>20 calorie Row\r<br/>40 Wall Ball Shots (20/14 lb, 10/9 ft)\r<br/>60 Double-Unders",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Team Series 17.2",
-      "score_types": "For Time",
-      "workout": "120 Double-Unders (each in relay)\r<br/>120 Chest-to-Bar Pull-Ups (total in sets of 15)\r<br/>120 Hang Power Snatches (95/65 lb for total in sets of 15)\r<br/>120 Double-Unders (each in relay)\r<br/>\r<br/>Time Cap: 15 minutes",
-      "workout_title": "For Time (with a Partner)"
-    },
-    {
-      "title": "Regionals 10.2 (South Central)",
-      "score_types": "For Rounds / Reps",
-      "workout": "5 Pull-Ups\r<br/>10 Push-Ups\r<br/>15 Air Squats\r<br/>\r<br/>All with a weight vest (20/10 lb)",
-      "workout_title": "AMRAP in 10 minutes"
-    },
-    {
-      "title": "Thick &#8216;N Quick",
-      "score_types": "For Time",
-      "workout": "4 Rope Climbs \r<br/>3 Overhead Squats (245/ 165 lb)\r<br/>\r<br/>Time Cap: 4 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "The Cinco 1",
-      "score_types": "For Time",
-      "workout": "5 Deadlifts (405/265 lb)\r<br/>5 Weighted One-Legged Squats, left leg (53/35 lb Kettlebell)\r<br/>5 Weighted One-Legged Squats, right leg (53/35 lb Kettlebell)\r<br/>Then,\r<br/>80 ft Handstand Walk\r<br/>\r<br/>Time Cap: 7 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 9.1 (Europe)",
-      "score_types": "For Time",
-      "workout": "400 meter Run\r<br/>21 Kettlebell Swings (32/20 kg)\r<br/>12 Chest-to-Bar Pull-Ups",
-      "workout_title": "3 Rounds for Time"
-    },
-    {
-      "title": "GG Qualifier 15.4",
-      "score_types": "For Rounds / Reps",
-      "workout": "10 Deadlifts (225/155 lb)\r<br/>5 Ring Muscle-Ups\r<br/>10 Deadlifts (255/175 lb)\r<br/>5 Ring Muscle-Ups\r<br/>10 Deadlifts (285/195 lb)\r<br/>5 Ring Muscle-Ups\r<br/>10 Deadlifts (315/215 lb)\r<br/>5 Ring Muscle-Ups\r<br/>10 Deadlifts (345/235 lb)\r<br/>5 Ring Muscle-Ups\r<br/>10 Deadlifts (375/255 lb)\r<br/>Max Reps of Ring Muscle-Ups",
-      "workout_title": "AMRAP in 13 minutes"
-    },
-    {
-      "title": "GG Qualifier 17.1",
-      "score_types": "For Rounds / Reps",
-      "workout": "10 Hang Squat Cleans (135/95 lb)\r<br/>10 Front Rack Reverse Lunges (135/95 lb)\r<br/>20 Chest-to-Bar Pull-Ups",
-      "workout_title": "AMRAP in 12 minutes"
-    },
-    {
-      "title": "Regionals 15.1",
-      "score_types": "For Time",
-      "workout": "75 Snatches (75/55 lbs)\r<br/>\r<br/>Time Cap: 6 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 10.3 (Central East)",
-      "score_types": "For Load",
-      "workout": "1 rep max Deadlift",
-      "workout_title": "For Load"
-    },
-    {
-      "title": "GG Qualifier 17.2",
-      "score_types": "For Rounds / Reps",
-      "workout": "6 Deadlifts (225/155 lb)\r<br/>6 Bar Facing Burpees",
-      "workout_title": "AMRAP in 6 minutes"
-    },
-    {
-      "title": "GG Qualifier  17.3",
-      "score_types": "For Time",
-      "workout": "From 0:00-4:00:\r<br/>2 Rounds of:\r<br/>12 Overhead Squats (95/65 lb)\r<br/>12 Toes-to-Bars\r<br/>\r<br/>If completed before 4:00, then from 4:00-8:00:\r<br/>2 Rounds of:\r<br/>10 Overhead Squats (135/95 lb)\r<br/>12 Toes-to-Bars\r<br/>\r<br/>If completed before 8:00, then from 8:00-12:00:\r<br/>2 Rounds of:\r<br/>8 Overhead Squats (165/115 lb)\r<br/>12 Toes-to-Bars\r<br/>\r<br/>If completed before 12:00, then from 12:00-16:00:\r<br/>2 Rounds of:\r<br/>6 Overhead Squats (185/125 lb)\r<br/>12 Toes-to-Bars\r<br/>\r<br/>Time Cap: 16 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 12.4",
-      "score_types": "For Time",
-      "workout": "50 Back Squats (135/95 lbs)\r<br/>40 Pull-Ups\r<br/>30 Shoulder-to-Overheads (135/95 lbs)\r<br/>50 Front Squats (85/65 lbs)\r<br/>40 Pull-Ups\r<br/>30 Shoulder-to-Overheads (85/65 lbs)\r<br/>50 Overhead Squats (65/45 lbs)\r<br/>40 Pull-Ups\r<br/>30 Shoulder-to-Overhead (65/45 lbs)",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "WZA RPM Chipper",
-      "score_types": "For Time",
-      "workout": "150 meter Run\r<br/>50 Deadlifts (225/155 lb)\r<br/>150 meter Run\r<br/>40/30 Ring Dips\r<br/>150 meter Run\r<br/>30 Alternating Dumbbell Squat Snatches (70/50 lb)\r<br/>150 meter Run\r<br/>200 Weighted RPM Scout Double-Unders\r<br/>150 meter Run\r<br/>100 foot Handstand Walk\r<br/>\r<br/>Time Cap: 20 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 10.2 (Africa)",
-      "score_types": "For Load",
-      "workout": "1 rep max Overhead Squat",
-      "workout_title": "For Load"
-    },
-    {
-      "title": "Regionals 14.6",
-      "score_types": "For Time",
-      "workout": "50 calorie Row\r<br/>50 Box Jump Overs (24/18 in)\r<br/>50 Deadlifts (180/120 lbs)\r<br/>50 Wall Ball Shots (20/14 lbs)\r<br/>50 Ring Dips\r<br/>50 Wall Ball Shots (20/14 lbs)\r<br/>50 Deadlifts (180/120 lbs)\r<br/>50 Box Jump Overs (24/18 in)\r<br/>50 calorie Row\r<br/>\r<br/>Time Cap: 21 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Pier Paddle",
-      "score_types": "For Time",
-      "workout": "500 meter Swim\r<br/>2 mile Paddle\r<br/>500 meter Swim\r<br/>\r<br/>Time Cap: 60 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "GG Qualifier 16.1",
-      "score_types": "For Rounds / Reps",
-      "workout": "10 Squat Clean-and-Jerks (135/85 lb)\r<br/>15 Bar-Facing Burpees\r<br/>8 Squat Clean-and-Jerks (185/115 lb)\r<br/>15 Bar-Facing Burpees\r<br/>6 Squat Clean-and-Jerks (225/145 lb)\r<br/>15 Bar-Facing Burpees\r<br/>4 Squat Clean-and-Jerks (275/175 lb)\r<br/>15 Bar-Facing Burpees\r<br/>2 Squat Clean-and-Jerks (305/200 lb)\r<br/>15 Bar-Facing Burpees\r<br/>Max Reps of Squat Clean-and-Jerks (315/205 lb)",
-      "workout_title": "AMRAP in 15 minutes"
-    },
-    {
-      "title": "GG Qualifier 18.5",
-      "score_types": "For Time",
-      "workout": "2 Rounds of:\r<br/>6 Ring Muscle-Ups\r<br/>12 Deadlifts (225/155 lb)\r<br/>18 Box Jump Overs (24/20 in)\r<br/>\r<br/>Then, 2 Rounds of:\r<br/>4 Ring Muscle-Ups\r<br/>8 Deadlifts (315/205 lb)\r<br/>12 Box Jump Overs (24/20 in)\r<br/>\r<br/>Finally, 2 Rounds of:\r<br/>2 Ring Muscle-Ups\r<br/>4 Deadlifts (365/235 lb)\r<br/>8 Box Jump Overs (24/20 in)\r<br/>\r<br/>Time Cap: 18 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 14.1",
-      "score_types": "For Load",
-      "workout": "1 Rep-Max Hang Squat Snatch\r<br/>\r<br/>Time Cap: 6 minutes",
-      "workout_title": "For Load"
-    },
-    {
-      "title": "The Motivator",
-      "score_types": "For Rounds / Reps",
-      "workout": "Shoulder-to-Overhead (115/85 lbs)\r<br/>Front-Rack Lunges (115/85 lbs)\r<br/>\r<br/>Penalty Each Time Bar is Dropped*",
-      "workout_title": "AMRAP in 9 minutes"
-    },
-    {
-      "title": "Champion Test",
-      "score_types": "For Rounds / Reps",
-      "workout": "1 minute Max Deadlifts (155/100 lbs)\r<br/>1 minute Rest\r<br/>1 minute Max Box Jump Overs (30/24\")\r<br/>1 minute 1 minute Rest\r<br/>1 minute Max Hang Power Cleans (155/100 lbs)\r<br/>1 minute Rest\r<br/>1 minute Max Muscle-Ups\r<br/>1 minute Rest\r<br/>1 minute Max Thrusters (155/100 lbs)\r<br/>1 minute Rest\r<br/>1 minute Max Row for calories\r<br/>1 minute Rest\r<br/>\r<br/>Repeat for 2 Rounds",
-      "workout_title": "EOMOM in 23 minutes"
-    },
-    {
-      "title": "Regionals 12.1",
-      "score_types": "For Time",
-      "workout": "Deadlifts (225/155 lb)\r<br/>Handstand Push-Ups",
-      "workout_title": "21-15-9 Reps for Time"
-    },
-    {
-      "title": "Regionals 12.2",
-      "score_types": "For Time",
-      "workout": "2000 meter Row\r<br/>50 Pistols alternating One-Legs\r<br/>30 Hang Cleans (225/135 lbs)",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "100%",
-      "score_types": "For Time",
-      "workout": "40 Box Jumps (30/24 in)\r<br/>20 D-Ball Cleans (150/100 lb)\r<br/> \r<br/>Time Cap: 5 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Redemption",
-      "score_types": "For Time",
-      "workout": "3 Pegboard Ascents\r<br/>21 Thrusters (135/85 lb)\r<br/>2 Pegboard Ascents\r<br/>15 Thrusters (135/85 lb)\r<br/>1 Pegboard Ascent\r<br/>9 Thrusters (135/85 lb)\r<br/>\r<br/>Time Cap: 10 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 9.2 (Northeast)",
-      "score_types": "For Time",
-      "workout": "2000 meter Row",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 17.1",
-      "score_types": "For Time",
-      "workout": "1,200 meter Run\r<br/>\r<br/>Then, 12 Rounds of:\r<br/>4 Strict Handstand Push-Ups\r<br/>8 Chest-to-Bar Pull-Ups\r<br/>12 Air Squats\r<br/>\r<br/>All with a weight vest (20/14 lb)\r<br/>\r<br/>Time cap: 25 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "WZA Assault Fitness Triplet",
-      "score_types": "For Time",
-      "workout": "9/7 Ring Muscle-Ups\r<br/>12 Power Snatches (115/80 lb)\r<br/>15 calorie Bike\r<br/>\r<br/>Time Cap: 12 minutes",
-      "workout_title": "3 Rounds for Time"
-    },
-    {
-      "title": "Regionals 13.7",
-      "score_types": "For Time",
-      "workout": "2 Rope Climb (15 ft)\r<br/>100 foot Sprint\r<br/>4 Squat Cleans (225/135 lbs)\r<br/>100 foot Sprint\r<br/>\r<br/>Time Cap: 10 minutes",
-      "workout_title": "4 Rounds for Time"
-    },
-    {
-      "title": "Rapid Fire",
-      "score_types": "For Time",
-      "workout": "6 Snatches (50/40 kg)\r<br/>5 Snatches (60/45 kg)\r<br/>4 Snatches (70/50 kg)\r<br/>3 Snatches (80/55 kg)\r<br/>2 Snatches (90/60 kg)\r<br/>1 Snatches (100/65 kg)\r<br/>\r<br/>Time cap: 4 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 17.3",
-      "score_types": "For Time",
-      "workout": "100 ft Dumbbell Overhead Walking Lunges (80/55 lb)\r<br/>100 Double-Unders\r<br/>50 Wall Ball Shots (30/20 lb)\r<br/>10 Rope Climbs (15 ft)\r<br/>50 Wall Ball Shots (30/20 lb)\r<br/>100 Double-Unders\r<br/>100 ft Dumbbell Overhead Walking Lunges (80/55 lb)\r<br/>\r<br/>Time Cap: 16 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 9.2 (Icelandic)",
-      "score_types": "For Time",
-      "workout": "30 Deadlifts (225/135 lb)\r<br/>650 meter Hill Run \r<br/>30 Ground-to-Overheads (110/66 lb)\r<br/>650 meter Hill Run",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 9.1 (Northern California)",
-      "score_types": "For Time",
-      "workout": "500 meter Row\r<br/>30 Burpees\r<br/>10 Shoulder-to-Overheads (165/95 lbs)",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 16.1",
-      "score_types": "For Time",
-      "workout": "0:00-2:00\r<br/>10 Squat Snatches (185/135 lb)\r<br/>2:00-4:00\r<br/>8 Squat Snatches (205/145 lb)\r<br/>4:00-6:00\r<br/>6 Squat Snatches (225/155 lb)\r<br/>6:00-8:00\r<br/>4 Squat Snatches (245/165 lb)\r<br/>8:00-11:00\r<br/>2 Squat Snatches (265/175 lb)\r<br/>\r<br/>Time Cap: 11 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Team Series 17.4",
-      "score_types": "For Time",
-      "workout": "100 calorie Row (switch as needed)\r<br/>100 Toes-to-Bars (total)",
-      "workout_title": "For Time (with a Partner)"
-    },
-    {
-      "title": "Regionals 10.1 (Africa)",
-      "score_types": "For Time",
-      "workout": "800 meter Run\r<br/>800 meter Run with Tire (30/15 kg)\r<br/>400 meter Run",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "WZA PowerDot 7k &#038; Wreck Bag Run",
-      "score_types": "",
-      "workout": "7000 meter Run\r<br/>Then,\r<br/>1 mile Run with Wreck Bag",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 13.5",
-      "score_types": "For Time",
-      "workout": "Deadlifts (315/205 lbs)\r<br/>Box Jump (30/24 in)\r<br/>\r<br/>Time Cap: 8 minutes",
-      "workout_title": "21-15-9 Reps for Time"
-    },
-    {
-      "title": "AGOQ 17.2",
-      "score_types": "For Rounds / Reps",
-      "workout": "0:00-4:00:\r<br/>25 Toes-to-Bars\r<br/>50 Double Unders\r<br/>15 Squat Cleans (135/85 lb)\r<br/>\r<br/>If completed before 4:00, then until 8:00:\r<br/>25 Toes-to-Bars\r<br/>50 Double Unders\r<br/>13 Squat Cleans (185/115 lb)\r<br/>\r<br/>If completed before 8:00, then until 12:00:\r<br/>25 Toes-to-Bars\r<br/>50 Double Unders\r<br/>11 Squat Cleans (225/145 lb)\r<br/>\r<br/>If completed before 12:00, then until 16:00:\r<br/>25 Toes-to-Bars\r<br/>50 Double Unders\r<br/>9 Squat Cleans (275/175 lb)\r<br/>\r<br/>If completed before 16:00, then until 20:00:\r<br/>25 Toes-to-Bars\r<br/>50 Double Unders\r<br/>7 Squat Cleans (315/205 lb)",
-      "workout_title": "AMRAP in 20 minutes"
-    },
-    {
-      "title": "The Olympian",
-      "score_types": "For Rounds / Reps",
-      "workout": "20 Ground-to-Overhead (95/65 lbs)\r<br/>7 Bar-Facing Burpees\r<br/>15 Ground-to-Overhead (135/95 lbs)\r<br/>7 Bar-Facing Burpees\r<br/>10 Ground-to-Overhead (155/105 lbs)\r<br/>7 Bar-Facing Burpees\r<br/>5 Ground-to-Overhead (185/65 lbs)\r<br/>7 Bar-Facing Burpees\r<br/>Max Ground-to-Overhead (225/155 lbs)",
-      "workout_title": "AMRAP in 9 minutes"
-    },
-    {
-      "title": "WZA Death by Triplet",
-      "score_types": "For Rounds / Reps",
-      "workout": "8 Burpee Box Jump Overs (24/20 in)\r<br/>8 Hang Power Snatches (115/80 lb)\r<br/>8 Thrusters (115/80 lb)\r<br/>Rest until the next 2-minute mark",
-      "workout_title": "E2MOM For As Long As Possible"
-    },
-    {
-      "title": "Pedal to the Metal 1",
-      "score_types": "For Time",
-      "workout": "3 Peg Board Ascents\r<br/>24 calorie Row\r<br/>16 calorie Bike\r<br/>8 Dumbbell Squat Snatches (100/70 lb)\r<br/>\r<br/>Time Cap: 6 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "WZA Online Challenge 17.2",
-      "score_types": "For Rounds / Reps",
-      "workout": "21-15-9 Reps of:\r<br/>Deadlifts (225/155 lb)\r<br/>Overhead Squats (135/105 lb)\r<br/>\r<br/>50 Double-Unders after each Round",
-      "workout_title": "AMRAP in 7 minutes"
-    },
-    {
-      "title": "Team Series 17.7",
-      "score_types": "For Load<br/></div>For Rounds / Reps",
-      "workout": "Partner 1:\r<br/>0:00-2:00 Handstand Push-Ups\r<br/>2:00-4:00 Rest\r<br/>4:00-6:00 Double-Unders\r<br/>6:00-8:00 Rest\r<br/>8:00-10:00 1-Rep-Max Back Squat\r<br/>\r<br/>Then, Partner 2:\r<br/>10:00-12:00 1-Rep-Max Back Squat\r<br/>12:00-14:00 Rest\r<br/>14:00-16:00 Double-Unders\r<br/>16:00-18:00 Rest\r<br/>18:00-20:00 Handstand Push-Ups",
-      "workout_title": "For Max/Reps in 20 minutes"
-    },
-    {
-      "title": "Regionals 10.4 (Africa)",
-      "score_types": "For Time",
-      "workout": "50 Pull-Ups\r<br/>50 Wall Ball Shots (20/15 lb)\r<br/>50 Kettlebell Swings (24/16 kg)\r<br/>50 Shoulder-to-Overheads (40/30 kg)\r<br/>50 Double Unders\r<br/>100 meter Tire Flips\r<br/>50 Tire Jumps \r<br/>100 meter Walking Lunges with Load Overhead (20/15 kg)",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "WZA Iceage Meals Strong Swim",
-      "score_types": "For Time",
-      "workout": "200 meter Swim\r<br/>150 Air Squats\r<br/>10 Sandbag Cleans (150/100 lb)\r<br/>50 meter Sandbag Bear Hug Carry\r<br/>\r<br/>Time Cap: 21 minutes\r",
-      "workout_title": "2 Rounds for Time"
-    },
-    {
-      "title": "AGOQ 17.4",
-      "score_types": "For Time",
-      "workout": "10 Deadlifts (315/225 lb)\r<br/>20 Deficit Handstand Push-Ups (4.5/3 in)\r<br/>30 Front Squats (95/65 lb)",
-      "workout_title": "2 Rounds for Time"
-    },
-    {
-      "title": "Regionals 12.5",
-      "score_types": "For Load<br/></div>For Rounds / Reps",
-      "workout": "1 Snatch (155/105 lb)\r<br/>1 Snatch (165/115 lb)\r<br/>1 Snatch (175/125 lb)\r<br/>1 Snatch (185/130 lb)\r<br/>1 Snatch (195/135 lb)\r<br/>1 Snatch (205/140 lb)\r<br/>1 Snatch (215/145 lb)\r<br/>1 Snatch (225/150 lb)\r<br/>1 Snatch (235/155 lb)\r<br/>1 Snatch (245/160 lb)\r<br/>1 Snatch (255/165 lb)\r<br/>1 Snatch (265/170 lb)\r<br/>1 Snatch (275/175 lb)\r<br/>1 Snatch (285/180 lb)\r<br/>1 Snatch (295/185 lb)\r<br/>\r<br/>20 Double Unders before each Snatch",
-      "workout_title": "Snatch Ladder"
-    },
-    {
-      "title": "Regionals 11.3",
-      "score_types": "For Time",
-      "workout": "Deadlifts (315/205 lb)\r<br/>Box Jumps (30/24 in)",
-      "workout_title": "21-15-9 Reps for Time"
-    },
-    {
-      "title": "Regionals 10.3 (Asia)",
-      "score_types": "For Time",
-      "workout": "25 Sumo Deadlift High-Pulls (95/65 lb)\r<br/>25 meter Overhead Lunges (35/25 lb)\r<br/>25 Pull-Ups\r<br/>25 Box Jumps (24/20 in)\r<br/>25 GHD Sit-Ups\r<br/>25 Kettlebell Swings (24/16 kg)\r<br/>25 Toes-to-Bars\r<br/>25 Weighted Dumbbell Burpees (20/10 lb)",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "WZA Celebrate 7",
-      "score_types": "For Rounds / Reps",
-      "workout": "Squat Clean-and-Jerks (225/155 lb)",
-      "workout_title": "AMRAP in 7 minutes"
-    },
-    {
-      "title": "Regionals 10.5 (Asia)",
-      "score_types": "For Time",
-      "workout": "15 meter Tire Flips (470/330 lbs)\r<br/>12 meter Sled Drive (135/65 lbs)\r<br/>5x25 meter Sandbag Suicides (75 lbs)\r<br/>5 laps Wheel Barrow Run ",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 10.1 (South Central)",
-      "score_types": "For Load",
-      "workout": "At each station athlete must complete:\r<br/>1 Squat Snatch\r<br/>2 Overhead Squats\r<br/>or\r<br/>1 Power Snatch\r<br/>3 Overhead Squats\r<br/>\r<br/>Men (in lbs.): 135-145-155-165-175-185-195-205-215-225\r<br/>Women (in lbs.): 75-85-95-105-110-115-120-125-130-135",
-      "workout_title": "EMOM (for Load) For As Long As Possible"
-    },
-    {
-      "title": "Pedal to the Metal 2",
-      "score_types": "For Time",
-      "workout": "12 Parallette Handstand Push-Ups\r<br/>24 calorie Row\r<br/>16 calorie Bike\r<br/>8 Kettlebell Deadlifts (203/124 lb)\r<br/>\r<br/>Time Cap: 7 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "WZA Online Challenge 17.5",
-      "score_types": "For Rounds / Reps",
-      "workout": "20 Handstand Push-Ups\r<br/>20 Pistols\r<br/>20 Pull-Ups\r<br/>20 Wall Balls (20/14 lbs) (10ft)",
-      "workout_title": "AMRAP in 17 minutes"
-    },
-    {
-      "title": "Regionals 9.3 (Australia)",
-      "score_types": "For Time",
-      "workout": "3 laps Run through the Cronulla Sand Dunes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 9.2 (Northern California)",
-      "score_types": "For Rounds / Reps",
-      "workout": "2 Muscle-Ups\r<br/>5 Ground-to-Shoulders (185/105 lb)",
-      "workout_title": "AMRAP in 10 minutes"
-    },
-    {
-      "title": "Regionals 9.1 (Great Basin)",
-      "score_types": "For Time",
-      "workout": "5 Snatches (135/95 lb)\r<br/>100 meter Sandbag Carry (90/70 lb)\r<br/>4 Snatches (135/95 lb)\r<br/>100 meter Sandbag Carry (90/70 lb)\r<br/>3 Snatches (135/95 lb)\r<br/>100 meter Sandbag Carry (90/70 lb)\r<br/>2 Snatches (135/95 lb)\r<br/>100 meter Sandbag Carry (90/70 lb)\r<br/>1 Snatches (135/95 lb)",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 10.2 (North Central)",
-      "score_types": "For Time",
-      "workout": "1400 meter Run",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 13.1",
-      "score_types": "For Time",
-      "workout": "1000 meter Row\r<br/>50 Thrusters (45 lbs)\r<br/>30 Pull-Ups\r<br/>\r<br/>Time Cap: 10 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Ranch Mini-Chipper",
-      "score_types": "For Time",
-      "workout": "50 Wall Ball Shots (30/20 lb)\r<br/>25 Med-Ball GHD Sit-Ups (30/20 lb)\r<br/>Hill Sprint with Med Ball (30/20 lb)",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 17.5",
-      "score_types": "For Time",
-      "workout": "Muscle-Ups\r<br/>Single-Arm Dumbbell Overhead Squats (80/55 lb)\r<br/>\r<br/>Time Cap: 11 minutes",
-      "workout_title": "21-15-9 Reps for Time"
-    },
-    {
-      "title": "Regionals 9.2 (Asia)",
-      "score_types": "For Time",
-      "workout": "750 meter Row\r<br/>25 Pull-Ups\r<br/>400 meter Farmer's Carry\r<br/>25 Pull-Ups",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 16.2",
-      "score_types": "For Time",
-      "workout": "4 Strict Muscle-Ups\r<br/>7 Strict Handstand Push-Ups\r<br/>12 Kettlebell Snatches (70/53 lb)\r<br/>\r<br/>Time Cap: 20 minutes",
-      "workout_title": "10 Rounds for Time"
-    },
-    {
-      "title": "Regionals 15.5",
-      "score_types": "For Load",
-      "workout": "1 rep-max Snatch\r<br/>\r<br/>Each athlete will have two 20-second windows to attempt the lift with 80 seconds rest between windows.",
-      "workout_title": "For Load"
-    },
-    {
-      "title": "Regionals 10.1 &#038; 10.2 (Europe)",
-      "score_types": "For Rounds / Reps",
-      "workout": "Distance Run\r<br/>\r<br/>Then,\r<br/>Max Ground-to-Overheads (70/50 kg) (anyhow)",
-      "workout_title": "AMRAP in 15 minutes"
-    },
-    {
-      "title": "Regionals 10.1 (Southwest)",
-      "score_types": "For Time",
-      "workout": "75 meter Tire Flips\r<br/>Run (back to starting point)\r<br/>Log Carry (one way)\r<br/>75 meter Tire Flips (back to the start position)\r<br/>Log Carry (back to the start position)",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 10.2 (Northwest)",
-      "score_types": "For Rounds / Reps",
-      "workout": "Apollon's Axle Deadlifts\r<br/>\r<br/>Time Cap: 90 seconds",
-      "workout_title": "AMRAP in 2 minutes"
-    },
-    {
-      "title": "Shots Fired",
-      "score_types": "For Time",
-      "workout": "60 Double-Unders\r<br/>30/20 calorie Row\r<br/>10 Ground-to-Overheads (70/50 kg)\r<br/>\r<br/>Time cap: 12 minutes",
-      "workout_title": "3 Rounds For Time"
-    },
-    {
-      "title": "Hard Target",
-      "score_types": "For Time",
-      "workout": "Chest-to-Bar Pull-Ups\r<br/>Shoulder-to-Overheads (60/40 kg)\r<br/>Burpee Ball Slams (50/30 kg)\r<br/>\r<br/>Time Cap: 7 minutes",
-      "workout_title": "12-9-6 Reps For Time"
-    },
-    {
-      "title": "WZA Muscle-Up Sandwich",
-      "score_types": "For Time",
-      "workout": "90 Double-Unders\r<br/>70 Wall Ball Shots (20/14 lb, 10 ft)\r<br/>50 Deadlifts (185/135 lb)\r<br/>30 Muscle-Ups\r<br/>50 Deadlifts (185/135 lb)\r<br/>70 Wall Ball Shots (20/14 lb, 10 ft)\r<br/>90 Double-Unders\r<br/>\r<br/>Time cap: 30 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 9.2 (Dirty South)",
-      "score_types": "For Time",
-      "workout": "20 Double-Unders\r<br/>10 Wall Ball Shots (20/14 lb)\r<br/>1 Rope Climb (15 ft)\r<br/>\r<br/>Time Cap: 15 minutes",
-      "workout_title": "5 Rounds for Time"
-    },
-    {
-      "title": "Regionals 9.1 (Hell&#8217;s Half Acre)",
-      "score_types": "For Time",
-      "workout": "500 meter Row\r<br/>10 Squat Clean and Jerks (155/105 lb)",
-      "workout_title": "3 Rounds for Time"
-    },
-    {
-      "title": "Regionals 9.2 (Mid-Atlantic)",
-      "score_types": "For Time",
-      "workout": "10 Deadlifts (275/185 lb)\r<br/>50 Double-Unders",
-      "workout_title": "3 Rounds for Time"
-    },
-    {
-      "title": "Regionals 10.4 (Australia)",
-      "score_types": "For Time",
-      "workout": "6 Muscle-Ups\r<br/>12 Squat Snatches (60/30 kg)\r<br/>18 Toe-to-Bars",
-      "workout_title": "3 Rounds for Time"
-    },
-    {
-      "title": "AGOQ 18.4",
-      "score_types": "For Rounds / Reps",
-      "workout": "9 Handstand Push-Ups\r<br/>6 Burpees\r<br/>3 Snatches (165/115 lb)",
-      "workout_title": "AMRAP in 5 minutes"
-    },
-    {
-      "title": "Regionals 13.4",
-      "score_types": "For Time",
-      "workout": "100 Wall Ball Shots (20/14 lbs)\r<br/>100 Chest-to-Bar Pull-Ups\r<br/>100 Pistols alternating legs\r<br/>100 Alternating One-Arm Dumbbell Snatches (70/50 lbs)\r<br/>\r<br/>Time Cap: 25 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "AGOQ 17.3",
-      "score_types": "For Time",
-      "workout": "Shoulder-to-Overheads (135/95 lb)\r<br/>Chest-to-Bar Pull-Ups",
-      "workout_title": "21-15-9 Reps for Time"
-    },
-    {
-      "title": "Regionals 12.6",
-      "score_types": "For Time",
-      "workout": "3 Rounds of:\r<br/>7 Deadlifts (345/225 lb)\r<br/>7 Muscle-Ups\r<br/>3 Rounds of:\r<br/>21 Wall Ball Shots (20/14 lb)\r<br/>21 Toes-to-Bars\r<br/>Then:\r<br/>100 foot Farmer Carry (100/70 lb dumbbells)\r<br/>28 Burpee Box Jumps (24/20 in)\r<br/>100 foot Farmer Carry (100/70 lb dumbbells)\r<br/>3 Muscle-Ups",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 11.5",
-      "score_types": "For Time",
-      "workout": "Muscle Ups\r<br/>Squat Snatches (135/95 lb)",
-      "workout_title": "9-7-5 Reps For Time"
-    },
-    {
-      "title": "Regionals 10.2 (Southwest)",
-      "score_types": "For Time",
-      "workout": "5/2 Muscle-Ups\r<br/>10 Power Cleans (135/85 lb)\r<br/>200 meter Run",
-      "workout_title": "5 Rounds for Time"
-    },
-    {
-      "title": "2007",
-      "score_types": "For Time",
-      "workout": "1000 meter Row \r<br/>Then, 5 rounds of:\r<br/>25 Pull-Ups\r<br/>7 Push Jerks (135/85 lb)\r<br/>\r<br/>Time Cap: 15 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "GG Qualifier 16.2",
-      "score_types": "For Rounds / Reps",
-      "workout": "50 calorie Row\r<br/>50 Wall Ball Shots (20/14 lb)\r<br/>50 Shoulder-to-Overheads (115/85 lb)\r<br/>50 Box Jumps (24/20 in)",
-      "workout_title": "AMRAP in 17 minutes"
-    },
-    {
-      "title": "GG Qualifier 16.3",
-      "score_types": "For Rounds / Reps",
-      "workout": "12 Chest-to-Bar Pull-Ups\r<br/>8 Deadlifts (245/165 lb)\r<br/>12 Handstand Push-Ups\r<br/>8 Deadlifts (245/165 lb)",
-      "workout_title": "AMRAP in 12 minutes"
-    },
-    {
-      "title": "GG Qualifier 16.4",
-      "score_types": "For Time",
-      "workout": "5–10–15–20–15–10–5 Reps of\r<br/>Overhead Squats (115/75 lb)\r<br/>Toes-to-Bar",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 15.6",
-      "score_types": "For Time",
-      "workout": "25 calorie Row\r<br/>16 Chest-to-Bar Pull-Ups\r<br/>9 Strict Deficit Handstand Push-Ups\r<br/>\r<br/>Time Cap: 16 minutes",
-      "workout_title": "5 Rounds for Time"
-    },
-    {
-      "title": "Regionals 10.3 (Central/South America)",
-      "score_types": "For Rounds / Reps",
-      "workout": "Max Deadlifts (315/185 lbs)\r<br/>Max Muscle-Ups",
-      "workout_title": "AMRAP in 10 minutes"
-    },
-    {
-      "title": "Regionals 13.2",
-      "score_types": "For Load",
-      "workout": "3 Overhead Squats\r<br/>\r<br/>Time Cap: 7 minutes",
-      "workout_title": "For Load"
-    },
-    {
-      "title": "Regionals 13.6",
-      "score_types": "For Time",
-      "workout": "100 Double Unders\r<br/>50 Handstand Push-Ups\r<br/>40 Toes-to-Bars\r<br/>30 Shoulder-to-Overheads with Axle (160/100 lbs)\r<br/>90 foot Walking Lunges with Axle (160/100 lbs)\r<br/>\r<br/>Time Cap: 15 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Summer Crush",
-      "score_types": "For Time",
-      "workout": "30 calorie Row\r<br/>\r<br/>Then, 3 Rounds of:\r<br/>10 Deadlifts (225/185 lb)\r<br/>10 Handstand Push-Ups",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 10.5 (Europe)",
-      "score_types": "For Time",
-      "workout": "5 Deadlifts (120/90 kg)\r<br/>20 Lateral Jumps and Burpees",
-      "workout_title": "5 Rounds for Time"
-    },
-    {
-      "title": "Regionals 10.3 (Northwest)",
-      "score_types": "For Time",
-      "workout": "5 mile Run",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Steel Rain",
-      "score_types": "For Time",
-      "workout": "21 Wall Ball Shots (9/6 kg)\r<br/>21 Cleans (50/35 kg)\r<br/>15 Wall Ball Shots (9/6 kg)\r<br/>15 Cleans (50/35 kg)\r<br/>9 Wall Ball Shots (9/6 kg)\r<br/>9 Cleans (50/35 kg)\r<br/>9 Bar Muscle-Ups\r<br/>9 Thrusters (50/35 kg)\r<br/>7 Bar Muscle-Ups\r<br/>7 Thrusters (50/35 kg)\r<br/>5 Bar Muscle-Ups\r<br/>5 Thrusters (50/35 kg)\r<br/>\r<br/>Time cap: 15 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 9.1 (Canada East)",
-      "score_types": "For Load",
-      "workout": "1 rep max Deadlift",
-      "workout_title": "For Load"
-    },
-    {
-      "title": "GG Qualifier 15.2",
-      "score_types": "For Load<br/></div>For Rounds / Reps",
-      "workout": "From 0:00-6:00:\r<br/>Establish a 1-Rep Max Snatch\r<br/>\r<br/>From 6:00-14:00 AMRAP:\r<br/>30 Double-Unders\r<br/>15 Chest-to-Bar Pull-ups\r<br/>30 Double-Unders\r<br/>15 Toes-to-Bar\r<br/>\r<br/>From 14:00-20:00:\r<br/>Establish a 1-Rep Max Snatch",
-      "workout_title": "With a Running Clock in 20 minutes"
-    },
-    {
-      "title": "Regionals 10.3 (Africa)",
-      "score_types": "For Time",
-      "workout": "250 meter Row\r<br/>5 Squat Cleans (75/45 kg)\r<br/>5 Handstand Push-Ups",
-      "workout_title": "5 Rounds for Time"
-    },
-    {
-      "title": "Regionals 10.2 (Australia)",
-      "score_types": "For Time",
-      "workout": "2x20 meter Sled Pulls (20/10 kg)\r<br/>21 Box Jumps\r<br/>21 Kettlebell Swings (32/24 kg)\r<br/>\r<br/>2x20 meter Sled Pulls (40/20 kg)\r<br/>15 Box Jumps\r<br/>15 Kettlebell Swings (32/24 kg)\r<br/>\r<br/>2x20 meter Sled Pulls (60/30 kg)\r<br/>9 Box Jumps\r<br/>9 Kettlebell Swings (32/24 kg)",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Ranch Trail Run",
-      "score_types": "For Time",
-      "workout": "7 kilometer Trail Run",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 10.1 (Northeast)",
-      "score_types": "For Time",
-      "workout": "Overhead Squats (135/95 lb)\r<br/>Chest-to-Bar Pull-ups",
-      "workout_title": "21-15-9 Reps for Time"
-    },
-    {
-      "title": "Regionals 10.1 (Southeast)",
-      "score_types": "For Load",
-      "workout": "1 Squat Clean every 50 seconds\r<br/>\r<br/>Men: 215 lb to 335 lb (10 lb increments)\r<br/>Women: 120 lb to 180 lb (5 lb increments)\r<br/>\r<br/>One bonus pound will be added to the best lift for every bar the athlete Jerks to overhead.",
-      "workout_title": "For Load"
-    },
-    {
-      "title": "Regionals 10.3 (North Central)",
-      "score_types": "For Time",
-      "workout": "500 meter Row\r<br/>12 Overhead Squats (115/75 lb)\r<br/>50 Double-Unders",
-      "workout_title": "3 Rounds for Time"
-    },
-    {
-      "title": "Regionals 16.5",
-      "score_types": "For Time",
-      "workout": "400 meter Run\r<br/>40 GHD Sit-Ups\r<br/>7 Deadlifts (405/275 lb)\r<br/>\r<br/>Time Cap: 16 minutes",
-      "workout_title": "3 Rounds for Time"
-    },
-    {
-      "title": "Regionals 15.7",
-      "score_types": "For Time",
-      "workout": "15 Muscle-Ups\r<br/>1 Squat Clean (205/135 lbs)\r<br/>1 Squat Clean (225/145 lbs)\r<br/>1 Squat Clean (245/155 lbs)\r<br/>1 Squat Clean (255/165 lbs)\r<br/>1 Squat Clean (265/175 lbs)\r<br/>\r<br/>Time cap: 6 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 10.3 (Europe)",
-      "score_types": "For Time",
-      "workout": "20 Chest-to-Bar Pull-Ups\r<br/>20 Box Jumps\r<br/>20 Toes-to-Bars\r<br/>100 meter Overhead Carry (80/60 kg)\r<br/>20 Toes-to-Bars\r<br/>20 Box Jumps\r<br/>20 Chest-to-Bar Pull-Ups",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 11.6",
-      "score_types": "For Time",
-      "workout": "20 calorie Row\r<br/>30 Burpees\r<br/>40 Two-Arm Dumbbell Ground-to-Overheads (45/35 lb)\r<br/>50 Toes-to-Bars\r<br/>100 foot Overhead Walking Lunges (45/25 lb plate)\r<br/>150 foot Sprint",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 10.2 (Canada)",
-      "score_types": "For Load",
-      "workout": "3 Sets for Max Weight Completed in Pounds\r<br/>1 Snatch Grip Deadlift\r<br/>1 Snatch\r<br/>1 Overhead Squat\r<br/>1 Squat Snatch\r<br/>\r<br/>Time Cap: 10 minutes",
-      "workout_title": "For Load"
-    },
-    {
-      "title": "Regionals 9.4 (Dirty South)",
-      "score_types": "For Time",
-      "workout": "1000 meter Row\r<br/>25 Overhead Squats (135/95 lb)\r<br/>100 meter Run\r<br/>50 Kettlebell Swings (53/35 lb)\r<br/>100 meter Run\r<br/>25 Burpees\r<br/>200 meter Run\r<br/>\r<br/>Time Cap: 20 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "WZA Barbells for Boobs Finale",
-      "score_types": "For Time",
-      "workout": "28 Bar-Facing Burpees\r<br/>7 Rope Climbs\r<br/>21 Thrusters (155/105 lb)",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 16.7",
-      "score_types": "For Time",
-      "workout": "21 Thrusters (95/65 lb)\r<br/>3 Legless Rope Climbs\r<br/>15 Thrusters (95/65 lb)\r<br/>2 Legless Rope Climbs\r<br/>9 Thrusters (95/65 lb)\r<br/>1 Legless Rope Climb\r<br/>\r<br/>Time Cap: 6 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 14.4",
-      "score_types": "For Time",
-      "workout": "Strict Handstand Push-Ups\r<br/>Front Squats (195/125 lbs)\r<br/>Burpees\r<br/>\r<br/>Time Cap: 20 minutes",
-      "workout_title": "21-15-9-6-3 Reps For Time"
-    },
-    {
-      "title": "Regionals 13.3",
-      "score_types": "For Time",
-      "workout": "30 Burpee Muscle-Ups\r<br/>\r<br/>Time Cap: 7 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 10.3 (Southeast)",
-      "score_types": "For Time",
-      "workout": "4/2 Muscle-Ups\r<br/>16 Kettlebell Snatches (53/35 lb) (8 each arm)\r<br/>\r<br/>Time Cap: 10 minutes",
-      "workout_title": "4 Rounds for Time"
-    },
-    {
-      "title": "WZA Online Challenge 17.3 &#038; 17.4",
-      "score_types": "For Load<br/></div>For Rounds / Reps",
-      "workout": "From 0:00-5:00:\r<br/>Find 1-Rep Max Snatch\r<br/>\r<br/>From 5:00-14:00, AMRAP:\r<br/>3 Power Snatches (75/55 lbs)\r<br/>3 Box Jumps (24/20 in)\r<br/>6 Power Snatches (75/55 lbs)\r<br/>6 Box Jumps (24/20 in)\r<br/>9 Power Snatches (75/55 lbs)\r<br/>9 Box Jumps (24/20 in)\r<br/>Increasing each round by 3 reps each movement\r<br/>\r<br/>From 14:00-19:00:\r<br/>Find 1-Rep Max Snatch",
-      "workout_title": "For Load and Reps in 19 minutes"
-    },
-    {
-      "title": "Regionals 9.1 (Dirty South)",
-      "score_types": "For Rounds / Reps",
-      "workout": "3 minute max points Suicide Run\r<br/>2 minute Rest\r<br/>3 minute max rep Deadlifts (275/185 lb)",
-      "workout_title": "AMRAP in 8 minutes"
-    },
-    {
-      "title": "Regionals 9.3 (Northwest)",
-      "score_types": "For Time",
-      "workout": "3 Muscle-Ups\r<br/>30 Wall Ball Shots (20/12 lb)\r<br/>6 Sumo Deadlift High-Pulls (60/40 kg)",
-      "workout_title": "5 Rounds for Time"
-    },
-    {
-      "title": "WZA Online Challenge 17.7",
-      "score_types": "For Time",
-      "workout": "1,000 meter Row\r<br/>15/12 Ring Muscle-Ups\r<br/>30 Thrusters (95/65 lb)",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 10.1 (Australia)",
-      "score_types": "For Rounds / Reps",
-      "workout": "Max Reps Ground-to-Overheads (50/30 kg)",
-      "workout_title": "For Reps  in 5 minutes"
-    },
-    {
-      "title": "Regionals 10.2 (Central/South America)",
-      "score_types": "For Time",
-      "workout": "50 Box Jumps (24/20 in)\r<br/>30 Snatches (115/75 lb)\r<br/>1000 meter Row",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 10.1 (Northwest)",
-      "score_types": "For Time",
-      "workout": "10 Overhead Squats (135/95 lb)\r<br/>50 Double-Unders",
-      "workout_title": "3 Rounds for Time"
-    },
-    {
-      "title": "Regionals 10.4 (North Central)",
-      "score_types": "For Time",
-      "workout": "10 Snatches (145/95 lb)\r<br/>20 Chest-to-Bar Pull-Ups\r<br/>30 Stick Jumps (24/20 in)\r<br/>40 Ball Slams (45/30 lb)\r<br/>30 Stick Jumps (24/20 in)\r<br/>20 Chest-to-Bar Pull-Ups\r<br/>10 Snatches (145/95 lb)",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 10.3 (Australia)",
-      "score_types": "For Time",
-      "workout": "12 Overhead Squats (60/40 kg)\r<br/>21 Pull-Ups\r<br/>2700 meter Run\r<br/>21 Pull-Ups\r<br/>12 Thrusters (60/40 kg)",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 14.5",
-      "score_types": "For Time",
-      "workout": "1 Legless Rope Climb (14 ft)\r<br/>200 foot Sprint\r<br/>\r<br/>Time Cap : 11 minutes",
-      "workout_title": "10 Rounds for Time"
-    },
-    {
-      "title": "Regionals 10.1 (Asia)",
-      "score_types": "For Time",
-      "workout": "10 Deadlifts (315/205 lb)\r<br/>50 Double-Unders\r<br/>900 meter Run\r<br/>5 Deadlifts (315/205 lb)\r<br/>25 Double-Unders\r<br/>400 meter Run",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 10.2 (Northeast)",
-      "score_types": "For Load",
-      "workout": "3 rep max Clean-and-Jerks",
-      "workout_title": "For Load"
-    },
-    {
-      "title": "Regionals 10.3 (Northeast)",
-      "score_types": "For Rounds / Reps",
-      "workout": "7 Deadlifts (225/135 lb)\r<br/>7 Handstand Push-Ups\r<br/>14 Box Jumps",
-      "workout_title": "AMRAP in 7 minutes"
-    },
-    {
-      "title": "Regionals 10.5 (Canada)",
-      "score_types": "For Time",
-      "workout": "12 Tire Flips (Big Fucker/Sort of Big Fucker)\r<br/>6 Clean and Jerks (135/95 lb)\r<br/>300 meter Run\r<br/>9 Tire Flips (Big Fucker/Sort of Big Fucker)\r<br/>9 Clean and Jerks (135/95 lb)\r<br/>450 meter Run\r<br/>6 Tire Flips (Big Fucker/Sort of Big Fucker)\r<br/>12 Clean and Jerks (135/95 lb)\r<br/>600 meter Run",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 10.5 (Southeast)",
-      "score_types": "For Time",
-      "workout": "2 Squat Snatches (145/85 lb)\r<br/>4 Push Presses or Push Jerks (145/85 lb)\r<br/>6 Chest-to-Bar Pull-Ups\r<br/>200 meter Run",
-      "workout_title": "8 Rounds For Time"
-    },
-    {
-      "title": "Regionals 9.1 (Northeast)",
-      "score_types": "For Rounds / Reps",
-      "workout": "5 Thrusters (135/95 lb)\r<br/>10 Burpees",
-      "workout_title": "AMRAP in 12 minutes"
-    },
-    {
-      "title": "Regionals 17.4",
-      "score_types": "For Time",
-      "workout": "60 ft Handstand Walk\r<br/>10 Toes-to-Bars\r<br/>10 Double Kettlebell Deadlifts (150/106 lb)\r<br/>60 ft Handstand Walk\r<br/>12 Toes-to-Bars\r<br/>12 Double Kettlebell Deadlifts (150/106 lb)\r<br/>60 ft Handstand Walk\r<br/>14 Toes-to-Bars\r<br/>14 Double Kettlebell Deadlifts (150/106 lb)\r<br/>60 ft Handstand Walk\r<br/>16 Toes-to-Bars\r<br/>16 Double Kettlebell Deadlifts (150/106 lb)\r<br/>\r<br/>Time Cap: 11 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 9.3 (Great Basin)",
-      "score_types": "For Time",
-      "workout": "800 meter Run\r<br/>\r<br/>Then, 3 Rounds of:\r<br/>10 Squat Cleans (155/100 lb)\r<br/>20 Chest-to-Bar Pull-Ups\r<br/>30 Box Jumps (30/24 in)\r<br/>\r<br/>800 meter Run",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 15.2",
-      "score_types": "For Time",
-      "workout": "21 Thrusters (115/75 lbs)\r<br/>12 Rope Climbs (15 ft)\r<br/>15 Thrusters (115/75 lbs)\r<br/>9 Rope Climbs (15 ft)\r<br/>9 Thrusters (115/75 lbs)\r<br/>6 Rope Climbs (15 ft)\r<br/>\r<br/>Time Cap: 16 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 15.4",
-      "score_types": "For Time",
-      "workout": "250 ft Handstand Walk\r<br/>\r<br/>Time Cap: 3 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 10.5 (Australia)",
-      "score_types": "For Rounds / Reps",
-      "workout": "6 Deadlifts (120/70 kg)\r<br/>6 Clean and Jerks (60/30 kg)",
-      "workout_title": "AMRAP in 10 minutes"
-    },
-    {
-      "title": "WZA Peak 360 Pull &#038; Push",
-      "score_types": "For Time",
-      "workout": "45 Pull-Ups\r<br/>100 foot Sled Push\r<br/>30 Chest-to-Bar Pull-Ups\r<br/>100 foot Sled Push\r<br/>15 Bar Muscle-Ups\r<br/>100 foot Sled Push\r<br/>\r<br/>Time Cap: 7 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 14.3",
-      "score_types": "For Time",
-      "workout": "50 Pistols alternating each leg\r<br/>7 Muscle-Ups\r<br/>10 Hang Power Cleans (175/115 lbs)\r<br/>\r<br/>Time Cap: 16 minutes",
-      "workout_title": "3 Rounds for Time"
-    },
-    {
-      "title": "Regionals 10.2 (Southeast)",
-      "score_types": "For Rounds / Reps",
-      "workout": "20/10 Handstand Push-Ups\r<br/>\r<br/>Then, AMRAP in remaining time:\r<br/>20 Double Unders\r<br/>10 Box Jumps (24 in)\r<br/>10 Sandbag Lunges (60/40 lb)",
-      "workout_title": "With a Running Clock in 12 minutes"
-    },
-    {
-      "title": "Regionals 9.3 (Northeast)",
-      "score_types": "For Time",
-      "workout": "Power Cleans (155/105 lb)\r<br/>Chest-to-Bar Pull-Ups\r<br/>Kettlebell Swings",
-      "workout_title": "10-9-8-7-6-5-4-3-2-1 Reps For Time"
-    },
-    {
-      "title": "Regionals 10.4 (Europe)",
-      "score_types": "For Time",
-      "workout": "400 meter Run\r<br/>\r<br/>Then, 3 Rounds of:\r<br/>15 Power Snatches (30 kg)\r<br/>35 Double-Unders\r<br/>\r<br/>400 meter Run",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 10.2 (Asia)",
-      "score_types": "",
-      "workout": "5/3 Handstand Push-Ups\r<br/>7 Snatches (115/75 lb)",
-      "workout_title": "AMRAP in 12 minutes"
-    },
-    {
-      "title": "WZA Two-for-One Special",
-      "score_types": "For Load<br/></div>For Time",
-      "workout": "(WOD 4) 2 Rounds for Time:\r<br/>40 calorie Row\r<br/>40 Toes-to-Bars\r<br/>40 Overhead Squats (95/65 lb)\r<br/>\r<br/>Time cap: 18 minutes\r<br/>\r<br/>Then, (WOD 5) with Remaining Time:\r<br/>1 rep max Hang Snatch\r<br/>\r<br/>Time cap: 20 minutes",
-      "workout_title": "For Time and Load"
-    },
-    {
-      "title": "Regionals 10.4 (Northeast)",
-      "score_types": "For Time",
-      "workout": "10 Power Cleans (185/115 lbs)\r<br/>30 meters Load the Sled (45/25 lbs)\r<br/>20 calories Ski\r<br/>30 meters Sprint\r<br/>30 Power Snatches (95/65 lbs)\r<br/>30 meters Load the Sled (45/25 lbs)\r<br/>40 Burpees\r<br/>30 meters Push Loaded Sled (90/50 lbs) on High Bars\r<br/>50 Kettlebell Swings (55/35 lbs)\r<br/>30 meters Push Loaded Sled Back\r<br/>60 Double Unders\r<br/>30 meters Sprint (to finish line)",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 9.2 (Canada West)",
-      "score_types": "For Time",
-      "workout": "1000 meter Run",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 11.1",
-      "score_types": "For Time",
-      "workout": "1000 meter Run\r<br/>30 Handstand Push-Ups\r<br/>1000 meter Row",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 10.1 (Canada)",
-      "score_types": "For Time",
-      "workout": "6700 meter Cross Country Run",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 9.3 (Canada West)",
-      "score_types": "For Load",
-      "workout": "1 rep max Barbell Extended and Controlled Overhead",
-      "workout_title": "For Load"
-    },
-    {
-      "title": "GG Qualifier 16.5",
-      "score_types": "For Rounds / Reps",
-      "workout": "70 Double-Unders\r<br/>7 Ring Muscle-Ups\r<br/>7 Snatches (155/105 lb)",
-      "workout_title": "AMRAP in 14 minutes"
-    },
-    {
-      "title": "GG Qualifier 17.4",
-      "score_types": "For Rounds / Reps",
-      "workout": "6 Ring Muscle-Ups\r<br/>12 Shoulder-to-Overheads (155/105 lb)\r<br/>15 Burpee Box Jump Overs (24/20 in)",
-      "workout_title": "AMRAP in 10 minutes"
-    },
-    {
-      "title": "Regionals 10.3 (Southwest)",
-      "score_types": "For Time",
-      "workout": "20 Shoulder-to-Overheads (185/115 lb)\r<br/>40 Burpees\r<br/>\r<br/>Time Cap: 7 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 10.4 (Asia)",
-      "score_types": "For Rounds / Reps",
-      "workout": "Buy-in:\r<br/>1500 meter Row\r<br/>\r<br/>Then:\r<br/>5/2 Muscle-Ups\r<br/>5 Ground-to-Shoulders (155/105 lbs)",
-      "workout_title": "AMRAP in 9 minutes"
-    },
-    {
-      "title": "Regionals 10.3 (Canada)",
-      "score_types": "For Time",
-      "workout": "35 Wall Ball Shots (20/14 lb)\r<br/>20 Chin-Ups (Chin Over Vertical Plane)",
-      "workout_title": "4 Rounds for Time"
-    },
-    {
-      "title": "Regionals 10.4 (South Central)",
-      "score_types": "For Time",
-      "workout": "10 Muscle-Ups\r<br/>15 Handstand Push-Ups\r<br/>20 Squat Cleans (155/105 lb)\r<br/>Run the Block",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 9.3 (Dirty South)",
-      "score_types": "For Rounds / Reps",
-      "workout": "5 Clean and Jerks\r<br/>10 Chest-to-Bar Pull-Ups",
-      "workout_title": "AMRAP in 8 minutes"
-    },
-    {
-      "title": "Regionals 16.6",
-      "score_types": "For Time",
-      "workout": "1000 meter Bike\r<br/>100 feet Handstand Walk\r<br/>10 Overhead Squats (225/155 lb)\r<br/>500 meter Row\r<br/>50 Burpee Box Jump Overs\r<br/>5 Overhead Squats (225/155 lb)\r<br/>\r<br/>Time Cap: 16 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 10.4 (Southwest)",
-      "score_types": "For Time",
-      "workout": "1000 meter Row\r<br/>30 Overhead Squats (135/95 lb)\r<br/>1200 meter Run",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 9.2 (Canada East)",
-      "score_types": "For Time",
-      "workout": "5 Clean and Jerks (135/95 lb)\r<br/>5 Muscle-Ups\r<br/>\r<br/>Time Cap: 10 minutes",
-      "workout_title": "5 Rounds for Time"
-    },
-    {
-      "title": "Regionals 9.4 (Canada East)",
-      "score_types": "For Time",
-      "workout": "5000 meter Trail Run with 3 mini-events along the trail\r<br/>\r<br/>Mini-event 1:\r<br/>3 Tire Flips (500/ 250 lb) in 30 seconds\r<br/>\r<br/>Mini-event 2: \r<br/>3 Keg Clean and Presses (100/50 lb) in 30 seconds\r<br/>\r<br/>Mini-event 3:\r<br/>100-150 meter Sandbag Carry (60/30 lb) ",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 14.2",
-      "score_types": "For Time",
-      "workout": "Max Distance Handstand Walk\r<br/>\r<br/>Time Cap: 3 minutes",
-      "workout_title": "For Rounds"
-    },
-    {
-      "title": "Regionals 14.7",
-      "score_types": "For Time",
-      "workout": "64 Pull-Ups\r<br/>8 Overhead Squats (205/135 lbs)\r<br/>\r<br/>Time Cap: 6 minutes",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 10.3 (South Central)",
-      "score_types": "For Time",
-      "workout": "100 Double Unders\r<br/>3 Rounds:\r<br/>10 Deadlifts (275/185 lb)\r<br/>1 Sandbag Run (75/50 lb)\r<br/>\r<br/>Then,\r<br/>1000 meter Row",
-      "workout_title": "For Time"
-    },
-    {
-      "title": "Regionals 10.4 (Northwest)",
-      "score_types": "For Time",
-      "workout": "30 calorie Row\r<br/>30 Thrusters (95/65 lb)\r<br/>3 Rope Climbs (20/15 meters)\r<br/>30 Kettlebell Swings (1.5/1 pood)\r<br/>\r<br/>20 calorie Row\r<br/>20 Thrusters (115/75 lb)\r<br/>2 Rope Climbs (20/15 meters)\r<br/>20 Kettlebell Swings (1.5/1 pood)\r<br/>\r<br/>10 calorie Row\r<br/>10 Thrusters (135/95 lb)\r<br/>1 Rope Climb (20/15 meters)\r<br/>10 Kettlebell Swings (1.5/1 pood)",
-      "workout_title": "For Time"
+[{
+        "title": "Open 19.5",
+        "score_types": "For Time",
+        "workout": "33-27-21-15-9 reps of:\r<br\/>Thrusters (95\/65 lb)\r<br\/>Chest-to-Bar Pull-Ups\r<br\/>\r<br\/>Time Cap: 20 minutes",
+        "workout_title": "For Time "
+    }, {
+        "title": "Open 19.4",
+        "score_types": "For Time",
+        "workout": "3 Rounds of:\r<br\/>10 Snatches (95\/65 lb)\r<br\/>12 Bar-Facing Burpees\r<br\/>\r<br\/>3 minutes Rest\r<br\/>\r<br\/>Then, 3 rounds of:\r<br\/>10 Bar Muscle-Ups\r<br\/>12 Bar-Facing Burpees\r<br\/>\r<br\/>Time cap: 12 minutes",
+        "workout_title": "For Total Time"
+    }, {
+        "title": "Triple 3",
+        "score_types": "For Time",
+        "workout": "3,000 meter Row\r<br\/>300 Double-Unders\r<br\/>3 mile Run",
+        "workout_title": "For Time"
+    }, {
+        "title": "18.0",
+        "score_types": "For Time",
+        "workout": "Dumbbell Snatches (50\/35 lb)\r<br\/>Over-Dumbbell Burpees",
+        "workout_title": "21-15-9 Reps for Time of:"
+    }, {
+        "title": "Open 19.3",
+        "score_types": "For Time",
+        "workout": "200 foot Dumbbell Overhead Lunges (50\/35 lb)\r<br\/>50 Dumbbell Box Step-Ups (24\/20 in)\r<br\/>50 Strict Handstand Push-Ups\r<br\/>200 foot Handstand Walk\r<br\/>\r<br\/>Time Cap: 10 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Open 14.5",
+        "score_types": "For Time",
+        "workout": "Thrusters (95\/65 lb)\r<br\/>Bar Facing Burpees",
+        "workout_title": "21-18-15-12-9-6-3 Reps, For Time"
+    }, {
+        "title": "Open 19.2",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "Beginning on an 8-minute clock, complete as many reps as possible of:\r<br\/>25 Toes-to-Bars\r<br\/>50 Double-Unders\r<br\/>15 Squat Cleans (135\/85 lb)\r<br\/>25 Toes-to-Bars\r<br\/>50 Double-Unders\r<br\/>13 squat cleans (185\/115 lb)\r<br\/>\r<br\/>If completed before 8 minutes, add 4 minutes to the clock and proceed to:\r<br\/>25 Toes-to-Bars\r<br\/>50 Double-Unders\r<br\/>11 Squat Cleans (225\/145 lb)\r<br\/>\r<br\/>If completed before 12 minutes, add 4 minutes to the clock and proceed to:\r<br\/>25 Toes-to-Bars\r<br\/>50 Double-Unders\r<br\/>9 Squat Cleans (275\/175 lb)\r<br\/>\r<br\/>If completed before 16 minutes, add 4 minutes to the clock and proceed to:\r<br\/>25 Toes-to-Bars\r<br\/>50 Double-Unders\r<br\/>7 Squat Cleans (315\/205 lb)\r<br\/>\r<br\/>Time Cap: 20 minutes",
+        "workout_title": "AMRAP in 20 minutes"
+    }, {
+        "title": "Open 12.1",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "Burpees",
+        "workout_title": "AMRAP in 7 minutes"
+    }, {
+        "title": "Open 15.5",
+        "score_types": "For Time",
+        "workout": "Row (calories)\r<br\/>Thrusters (95\/65 lb)",
+        "workout_title": "27-21-15-9 Reps for Time"
+    }, {
+        "title": "Open 19.1",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "19 Wall Ball Shots (20\/14 lb, 10\/9 ft)\r<br\/>19 calorie Row",
+        "workout_title": "AMRAP in 15 minutes"
+    }, {
+        "title": "Amanda .45",
+        "score_types": "For Time",
+        "workout": "Muscle-Ups\r<br\/>Squat Snatches (135\/95 lb)\r<br\/>\r<br\/>Time cap: 13 minutes for males, 15 minutes for females",
+        "workout_title": "13-11-9-7-5 Reps for Time"
+    }, {
+        "title": "Open 17.1",
+        "score_types": "For Time",
+        "workout": "10 Dumbbell Snatches (50\/35 lb)\r<br\/>15 Burpee Box Jump Overs\r<br\/>20 Dumbbell Snatches (50\/35 lb)\r<br\/>15 Burpee Box Jump Overs\r<br\/>30 Dumbbell Snatches (50\/35 lb)\r<br\/>15 Burpee Box Jump Overs\r<br\/>40 Dumbbell Snatches (50\/35 lb)\r<br\/>15 Burpee Box Jump Overs\r<br\/>50 Dumbbell Snatches (50\/35 lb)\r<br\/>15 Burpee Box Jump Overs\r<br\/>\r<br\/>Time Cap: 20 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Rope Chipper",
+        "score_types": "For Time",
+        "workout": "200 meter SkiErg\r<br\/>50\/40 Double-Unders\r<br\/>200 meter Row\r<br\/>50\/40 Double-Unders\r<br\/>0.4 mile Assault Air Bike\r<br\/>50\/40 Double-Unders\r<br\/>200 meter Row\r<br\/>50\/40 Double-Unders\r<br\/>200-m SkiErg\r<br\/>90-ft. sled pull (310 \/ 220 lb.)\r<br\/>\r<br\/>Time Cap: 11 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "SAB 18.1",
+        "score_types": "For Time",
+        "workout": "12 Dumbbell Deadlifts (2 x 22.5\/15 kg)\r<br\/>9 Dumbbell Hang Power Cleans (2 x 22.5\/15 kg)\r<br\/>6 Dumbbell Shoulder-to-Overheads (2 x 22.5\/15 kg)\r<br\/>\r<br\/>Time Cap: 10 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Open 16.1",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "25 ft Overhead Walking Lunges (95\/65 lb)\r<br\/>8 Bar-Facing Burpees\r<br\/>25 ft Overhead Walking Lunges (95\/65 lb)\r<br\/>8 Chest-to-Bar Pull-Ups",
+        "workout_title": "AMRAP in 20 minutes"
+    }, {
+        "title": "Open 16.5",
+        "score_types": "For Time",
+        "workout": "Thrusters (95\/65 lb)\r<br\/>Bar-Facing Burpees",
+        "workout_title": "21-18-15-12-9-6-3 Reps For Time"
+    }, {
+        "title": "Team Series 17.1",
+        "score_types": "For Time",
+        "workout": "Synchronized Thrusters (95\/65 lb)\r<br\/>Synchronized Bar-Facing Burpees",
+        "workout_title": "21-15-9 Reps for Time (with a Partner)"
+    }, {
+        "title": "Open 18.1",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "8 Toes-to-Bars\r<br\/>10 Dumbbell Hang Clean-and-Jerks (50\/35 lb)\r<br\/>14\/12 calorie Row",
+        "workout_title": "AMRAP in 20 minutes"
+    }, {
+        "title": "Open 16.2",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "Continue until 4 minutes:\r<br\/>25 Toes-to-Bars\r<br\/>50 Double-Unders\r<br\/>15 Squat Cleans (135\/85 lb)\r<br\/>\r<br\/>If completed before 4 minutes, continue until 8 minutes:\r<br\/>25 Toes-to-Bars\r<br\/>50 Double-Unders\r<br\/>13 Squat Cleans (185\/115 lb)\r<br\/>\r<br\/>If completed before 8 minutes, continue until 12 minutes:\r<br\/>25 Toes-to-Bars\r<br\/>50 Double-Unders\r<br\/>11 Squat Cleans (225\/145 lb)\r<br\/>\r<br\/>If completed before 12 minutes, continue until 16 minutes:\r<br\/>25 Toes-to-Bars\r<br\/>50 Double-Unders\r<br\/>9 Squat Cleans (275\/175 lb)\r<br\/>\r<br\/>If completed before 16 minutes, continue until 20 minutes:\r<br\/>25 Toes-to-Bars\r<br\/>50 Double-Unders\r<br\/>7 Squat Cleans (315\/205 lb)",
+        "workout_title": "AMRAP in 20 minutes"
+    }, {
+        "title": "Open 17.5",
+        "score_types": "For Time",
+        "workout": "9 Thrusters (95\/65 lb)\r<br\/>35 Double-Unders",
+        "workout_title": "10 Rounds for Time"
+    }, {
+        "title": "Fibonacci",
+        "score_types": "For Time",
+        "workout": "Parallette Handstand Push-Ups (14\/8 in)\r<br\/>Kettlebell Deadlifts (2 x 203\/124 lb)\r<br\/>\r<br\/>Then,\r<br\/>89 feet Kettlebell Overhead Lunges (2 x 53\/35 lb)",
+        "workout_title": "5-8-13 Reps for Time"
+    },
+    {
+        "title": "Open 15.1 &#038; 15.1A",
+        "score_types": "For LoadFor Rounds \/ Reps",
+        "workout": "(15.1) AMRAP in 9 minutes\r<br\/>15 Toes-to-Bars\r<br\/>10 Deadlifts (115\/75 lb)\r<br\/>5 Snatches (115\/75 lb)\r<br\/>\r<br\/>Then (\"15.1A\"), from 9:00-15:00\r<br\/>1-Rep-Max Clean-and-Jerk",
+        "workout_title": "Two Parts in 15 minutes"
+    }, {
+        "title": "Open 14.3",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "10 Deadlifts (135\/95 lb)\r<br\/>15 Box Jumps (24\/20 in)\r<br\/>15 Deadlifts (185\/135 lb)\r<br\/>15 Box Jumps (24\/20 in)\r<br\/>20 Deadlifts (225\/155 lb)\r<br\/>15 Box Jumps (24\/20 in)\r<br\/>25 Deadlifts (275\/185 lb)\r<br\/>15 Box Jumps (24\/20 in)\r<br\/>30 Deadlifts (315\/205 lb)\r<br\/>15 Box Jumps (24\/20 in)\r<br\/>35 Deadlifts (365\/225 lb)\r<br\/>15 Box Jumps (24\/20 in)",
+        "workout_title": "AMRAP in 8 minutes"
+    }, {
+        "title": "Open 18.5",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "3 Thrusters (100\/65 lb)\r<br\/>3 Chest-to-Bar Pull-Ups\r<br\/>6 Thrusters (100\/65 lb)\r<br\/>6 Chest-to-Bar Pull-Ups\r<br\/>9 Thrusters (100\/65 lb)\r<br\/>9 Chest-to-Bar Pull-Ups\r<br\/>If you complete the round of 9, complete a round of 12, then go on to 15, etc.",
+        "workout_title": "AMRAP in 7 minutes"
+    }, {
+        "title": "Open 11.2",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "9 Deadlifts (155\/100 lb)\r<br\/>12 Push-Ups\r<br\/>15 Box Jumps (24\/20 in)\r",
+        "workout_title": "AMRAP in 15 minutes"
+    }, {
+        "title": "Open 16.3",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "10 Power Snatches (75\/55 lb)\r<br\/>3 Bar Muscle-Ups",
+        "workout_title": "AMRAP in 7 minutes"
+    }, {
+        "title": "Open 13.1",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "40 Burpees\r<br\/>30 Snatches (75\/45 lb)\r<br\/>30 Burpees\r<br\/>30 Snatches (135\/75 lb)\r<br\/>20 Burpees\r<br\/>30 Snatches (165\/100 lb)\r<br\/>10 Burpees\r<br\/>Max Snatches (210\/120 lb)",
+        "workout_title": "AMRAP in 17 minutes"
+    }, {
+        "title": "Open 16.4",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "55 Deadlifts (225\/155 lb)\r<br\/>55 Wall-Balls (20\/14 lb)\r<br\/>55 calorie Row\r<br\/>55 Handstand Push-Ups",
+        "workout_title": "AMRAP in 13 minutes"
+    }, {
+        "title": "Open 14.4",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "60 calorie Row\r<br\/>50 Toes-to-Bars\r<br\/>40 Wall Ball Shots (20\/14 lb, 10\/9 ft)\r<br\/>30 Cleans (135 lb)\r<br\/>20 Muscle-Ups",
+        "workout_title": "AMRAP in 14 minutes"
+    }, {
+        "title": "Open 12.3",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "15 Box Jumps (24\/20 in) \r<br\/>12 Push Presses (115\/75 lb)\r<br\/>9 Toes-to-Bars",
+        "workout_title": "AMRAP in 18 minutes"
+    }, {
+        "title": "Open 14.1",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "30 Double-Unders\r<br\/>15 Power Snatches (75\/55 lb)",
+        "workout_title": "AMRAP in 10 minutes"
+    }, {
+        "title": "Open 13.2",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "5 Shoulder-to-Overheads (115\/75 lb)\r<br\/>10 Deadlifts (115\/75 lb)\r<br\/>15 Box Jumps (24\/20 in)",
+        "workout_title": "AMRAP in 10 minutes"
+    }, {
+        "title": "Squat Clean Pyramid",
+        "score_types": "For Time",
+        "workout": "10 Squat Cleans (245\/165 lb), by 2:00\r<br\/>8 Squat Cleans (265\/180 lb), by 4:00\r<br\/>6 Squat Cleans (285\/195 lb), by 6:00\r<br\/>4 Squat Cleans (305\/205 lb), by 8:00\r<br\/>2 Squat Cleans (325\/215 lb), by 11:00",
+        "workout_title": "For Time"
+    }, {
+        "title": "Open 15.4",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "3 Handstand Push-Ups\r<br\/>3 Cleans (185\/125 lb)\r<br\/>6 Handstand Push-Ups\r<br\/>3 Cleans (185\/125 lb)\r<br\/>9 Handstand Push-Ups\r<br\/>3 Cleans (185\/125 lb)\r<br\/>12 Handstand Push-Ups\r<br\/>6 Cleans (185\/125 lb)\r<br\/>15 Handstand Push-Ups\r<br\/>6 Cleans (185\/125 lb)\r<br\/>18 Handstand Push-Ups\r<br\/>6 Cleans (185\/125 lb)\r<br\/>21 Handstand Push-Ups\r<br\/>9 Cleans (185\/125 lb)\r<br\/>Etc., following same pattern until time is up",
+        "workout_title": "AMRAP in 8 minutes"
+    }, {
+        "title": "Open 14.2",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "From 0:00-3:00, 2 rounds of:\r<br\/>10 Overhead Squats (95\/65 lb)\r<br\/>10 Chest-to-Bar Pull-Ups\r<br\/>\r<br\/>From 3:00-6:00, 2 rounds of:\r<br\/>12 Overhead Squats (95\/65 lb)\r<br\/>12 Chest-to-Bar Pull-Ups\r<br\/>\r<br\/>From 6:00-9:00, 2 rounds of:\r<br\/>14 Overhead Squats (95\/65 lb)\r<br\/>14 Chest-to-Bar Pull-Ups\r<br\/>\r<br\/>Follow the pattern until you fail to complete both rounds.",
+        "workout_title": "For As Long As Possible"
+    }, {
+        "title": "Open 15.2",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "From 0:00-3:00, 2 rounds of:\r<br\/>10 Overhead Squats (95\/65 lb)\r<br\/>10 Chest-to-Bar Pull-Ups\r<br\/>\r<br\/>From 3:00-6:00, 2 rounds of:\r<br\/>12 Overhead Squats (95\/65 lb)\r<br\/>12 Chest-to-Bar Pull-Ups\r<br\/>\r<br\/>From 6:00-9:00, 2 rounds of:\r<br\/>14 Overhead Squats (95\/65 lb)\r<br\/>14 Chest-to-Bar Pull-Ups\r<br\/>\r<br\/>Follow the pattern until you fail to complete both rounds.",
+        "workout_title": "For As Long As Possible"
+    }, {
+        "title": "Champion Test",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "1 minute Max Deadlifts (155\/100 lb)\r<br\/>1 minute Rest\r<br\/>1 minute Max Box Jump Overs (30\/24\")\r<br\/>1 minute Rest\r<br\/>1 minute Max Hang Power Cleans (155\/100 lb)\r<br\/>1 minute Rest\r<br\/>1 minute Max Muscle-Ups\r<br\/>1 minute Rest\r<br\/>1 minute Max Thrusters (155\/100 lb)\r<br\/>1 minute Rest\r<br\/>1 minute Max calorie Row\r<br\/>1 minute Rest\r<br\/>\r<br\/>Repeat for 2 Rounds",
+        "workout_title": "EOMOM in 23 minutes"
+    }, {
+        "title": "Open 12.2",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "30 Snatches (75\/45 lb)\r<br\/>30 Snatches (135\/75 lb)\r<br\/>30 Snatches (165\/100 lb)\r<br\/>Max Snatches (210\/120 lb)",
+        "workout_title": "AMRAP in 10 minutes"
+    }, {
+        "title": "Marathon Row",
+        "score_types": "For Time",
+        "workout": "42,195 meter Row\r<br\/>\r<br\/>Time Cap: 4 hours",
+        "workout_title": "For Time"
+    }, {
+        "title": "Open 11.1",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "30 Double-Unders\r<br\/>15 Power Snatches (75\/55 lb)",
+        "workout_title": "AMRAP in 10 minutes"
+    }, {
+        "title": "Chaos",
+        "score_types": "For Time",
+        "workout": "35\/30 calorie SkiErg\r<br\/>30\/25 Burpees to Bar\r<br\/>45\/40 Single-Arm Dumbbell Overhead Squats (50\/35 lb)\r<br\/>40\/45 Pistols\r<br\/>25 Box Jump-Overs (42\/36 in)\r<br\/>110 ft Tumbler Pull (400\/300 lb)\r<br\/>\r<br\/>Time Cap: 12 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Naughty Nancy",
+        "score_types": "For Time",
+        "workout": "600 meter berm Run (up and over)\r<br\/>25 Overhead Squats (140\/95 lb)\r<br\/>\r<br\/>Time Cap: 20 minutes",
+        "workout_title": "4 Rounds for Time"
+    },
+    {
+        "title": "Open 17.3",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "Prior to 8 minutes, 3 rounds of:\r<br\/>6 Chest-to-Bar Pull-Ups\r<br\/>6 Squat Snatches (95\/65 lb)\r<br\/>\r<br\/>Then 3 rounds of:\r<br\/>7 Chest-to-Bar Pull-Ups\r<br\/>5 Squat Snatches (135\/95 lb)\r<br\/>\r<br\/>* Prior to 12 minutes, 3 rounds of:\r<br\/>8 Chest-to-Bar Pull-Ups\r<br\/>4 Squat Snatches (185\/135 lb)\r<br\/>\r<br\/>* Prior to 16 minutes, 3 rounds of:\r<br\/>9 Chest-to-Bar Pull-Ups\r<br\/>3 Squat Snatches (225\/155 lb)\r<br\/>\r<br\/>* Prior to 20 minutes, 3 rounds of:\r<br\/>10 Chest-to-Bar Pull-Ups\r<br\/>2 Squat Snatches (245\/175 lb)\r<br\/>\r<br\/>* Prior to 24 minutes, 3 rounds of:\r<br\/>11 Chest-to-Bar Pull-Ups\r<br\/>1 Squat Snatch (265\/185 lb)",
+        "workout_title": "For Reps"
+    }, {
+        "title": "Open 17.4",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "55 Deadlifts (225\/155 lb)\r<br\/>55 Wall Ball Shots (20\/14 lb, 10\/9 ft)\r<br\/>55 calorie Row\r<br\/>55 Handstand Push-Ups",
+        "workout_title": "AMRAP in 13 minutes"
+    }, {
+        "title": "The End",
+        "score_types": "For Rounds \/ RepsFor Time",
+        "workout": "\"The End 1\"\r<br\/>AMRAP in 3 minutes\r<br\/>20 calorie Row \r<br\/>30 Wall Ball Shots (20\/14 lb)\r<br\/>20 Toes-to-Bars\r<br\/>30 Box Jumps (24 in)\r<br\/>20 Kettlebell Sumo Deadlift High-Pulls (108\/72 lb)\r<br\/>30 Burpees\r<br\/>20 Shoulder-to-Overheads (135\/95 lb)\r<br\/>100 ft Sled Pull\r<br\/>\r<br\/>Rest 1 minute\r<br\/>\r<br\/>\"The End 2\"\r<br\/>AMRAP in 6 minutes\r<br\/>Same workout as above\r<br\/>\r<br\/>Rest 2 minutes\r<br\/>\r<br\/>\"The End 3\"\r<br\/>For Time\r<br\/>Same workout as above",
+        "workout_title": "3 Parts Scored Individually"
+    }, {
+        "title": "Open 15.3",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "7 Muscle-Ups\r<br\/>50 Wall Balls (20\/14 lb)\r<br\/>100 Double-Unders",
+        "workout_title": "AMRAP in 14 minutes"
+    }, {
+        "title": "Ranch Deadlift Ladder",
+        "score_types": "For Time",
+        "workout": "Deadlift Ladder\r<br\/>\r<br\/>Men: 425, 435, 445, 455, 465, 475, 485, 495, 505, 515, 525, 535, 545, 555, 565, 575, 585, 595, 605, 615 lb\r<br\/> \r<br\/>Women: 275, 285, 295, 305, 315, 325, 335, 345, 355, 365, 370, 375, 380, 385, 390, 395, 400, 405, 410, 415 lb",
+        "workout_title": "For Time"
+    }, {
+        "title": "Open 13.5",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "15 Thrusters (100\/65 lb)\r<br\/>15 Chest-to-Bar Pull-Ups\r<br\/>\r<br\/>If 90 reps (3 rounds) are completed in under 4 minutes, time extends to 8 minutes.\r<br\/>\r<br\/>If 180 reps (6 rounds) are completed in under 8 minutes, time extends to 12 minutes. Etc.",
+        "workout_title": "AMRAP For As Long As Possible"
+    }, {
+        "title": "Muscle-Up Clean Ladder",
+        "score_types": "For Time",
+        "workout": "4 Bar Muscle-Ups\r<br\/>2 Cleans (225\/145 lb)\r<br\/>4 Bar Muscle-Ups\r<br\/>2 Cleans (245\/160 lb)\r<br\/>4 Bar Muscle-Ups\r<br\/>2 Cleans (265\/175 lb)\r<br\/>4 Bar Muscle-Ups\r<br\/>2 Cleans (285\/190 lb)\r<br\/>4 Bar Muscle-Ups\r<br\/>2 Cleans (305\/205 lb)\r<br\/>4 Bar Muscle-Ups\r<br\/>2 Cleans (320\/215 lb)\r<br\/>4 Bar Muscle-Ups\r<br\/>2 Cleans (335\/225 lb)\r<br\/>4 Bar Muscle-Ups\r<br\/>2 Cleans (350\/235 lb)\r<br\/>\r<br\/>Time Cap: 11 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "WZAOC 18.4 Qualifier",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "2 Devil Presses (50\/35 lb)\r<br\/>2 Alternating Dumbbell Box Step-Ups\r<br\/>4 Devil Presses (50\/35 lb)\r<br\/>4 Alternating Dumbbell Box Step-Ups\r<br\/>6 Devil Presses (50\/35 lb)\r<br\/>6 Alternating Dumbbell Box Step-Ups",
+        "workout_title": "AMRAP in 16 minutes"
+    }, {
+        "title": "Open 18.2 &#038; 18.2 A",
+        "score_types": "For LoadFor Time",
+        "workout": "1-2-3-4-5-6-7-8-9-10 Reps of:\r<br\/>Dumbbell Squats (2 x 50\/35 lb)\r<br\/>Bar-Facing Burpees\r<br\/>\r<br\/>Then, \"18.2 A\"\r<br\/>1 rep max Clean\r<br\/>\r<br\/>Time Cap: 12 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Open 11.5",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "5 Power Cleans (145\/105 lb)\r<br\/>10 Toes-To-Bars\r<br\/>15 Wall Balls (20\/14 lb, 10\/9 ft)",
+        "workout_title": "AMRAP in 20 minutes"
+    }, {
+        "title": "Open 11.6",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "3 Thrusters (100\/65 lb)\r<br\/>3 Chest-to-Bar Pull-Ups\r<br\/>6 Thrusters (100\/65 lb)\r<br\/>6 Chest-to-Bar Pull-Ups\r<br\/>9 Thrusters (100\/65 lb)\r<br\/>9 Chest-to-Bar Pull-Ups\r<br\/>If you complete the round of 9, complete a round of 12, then go on to 15, etc.",
+        "workout_title": "AMRAP in 7 minutes"
+    }, {
+        "title": "Open 13.4",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "3 Clean-and-Jerks (135\/95 lb)\r<br\/>3 Toes-to-Bars\r<br\/>6 Clean-and-Jerks (135\/95 lb)\r<br\/>6 Toes-to-Bars\r<br\/>9 Clean-and-Jerks (135\/95 lb)\r<br\/>9 Toes-to-Bars\r<br\/>12 Clean-and-Jerks (135\/95 lb)\r<br\/>12 Toes-to-Bars\r<br\/>If athlete completes the round of 12, go on to 15.  Complete 15, go on the 18, etc.",
+        "workout_title": "AMRAP in 7 minutes"
+    }, {
+        "title": "FTD 12.1 Qualifier",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "7 Pull-Ups\r<br\/>7 Toes-to-Bars\r<br\/>7 Push-Ups\r<br\/>7 Air Squats",
+        "workout_title": "AMRAP in 7 minutes"
+    }, {
+        "title": "Open 17.2",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "2 Rounds of:\r<br\/>50 ft Dumbbell Walking Lunges (50\/35 lb)\r<br\/>16 Toe-to-Bars\r<br\/>8 Dumbbell Power Cleans (50\/35 lb)\r<br\/>Then, 2 Rounds of:\r<br\/>50 ft Dumbbell Walking Lunges (50\/35 lb)\r<br\/>16 Bar Muscle-Ups\r<br\/>8 Dumbbell Power Cleans (50\/35 lb)",
+        "workout_title": "AMRAP in 12 minutes"
+    }, {
+        "title": "50&#8217;s Chipper",
+        "score_types": "For Time",
+        "workout": "50 Wall Ball Shots (20\/14 lb, 10\/9 ft)\r<br\/>50 Dumbbell Snatches (70\/50 lb) (alternating)\r<br\/>50 Pistols (alternating)\r<br\/>50 Chest-to-Bar Pull-Ups",
+        "workout_title": "For Time"
+    }, {
+        "title": "Open 11.3",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "Squat Clean (165\/110 lb)\r<br\/>Jerk (165\/110 lb)\r",
+        "workout_title": "AMRAP in 5 minutes"
+    }, {
+        "title": "Muscle-Up Biathlon",
+        "score_types": "For Time",
+        "workout": "400 meter Run\r<br\/>18 Muscle-Ups\r<br\/>400 meter Run\r<br\/>15 Muscle-Ups\r<br\/>400 meter Run\r<br\/>12 Muscle-Ups\r<br\/>\r<br\/>Time Cap: 18 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Open 11.4",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "60 Bar Facing Burpees\r<br\/>30 Overhead Squats (120\/90 lb)\r<br\/>10 Muscle-Ups",
+        "workout_title": "AMRAP in 10 minutes"
+    }, {
+        "title": "Open 18.3",
+        "score_types": "",
+        "workout": "100 Double-Unders\r<br\/>20 Overhead Squats (115\/80 lb)\r<br\/>100 Double-Unders\r<br\/>12 Ring Muscle-Ups\r<br\/>100 Double-Unders\r<br\/>20 Dumbbell Snatches (50\/35 lb)\r<br\/>100 Double-Unders\r<br\/>12 Bar Muscle-Ups\r<br\/>\r<br\/>Time cap: 14 minutes",
+        "workout_title": "2 Rounds for Time"
+    }, {
+        "title": "Regionals 18.2",
+        "score_types": "For Time",
+        "workout": "\"Linda\"\r<br\/>10-9-8-7-6-5-4-3-2-1 Reps of:\r<br\/>Deadlifts (295\/220 lb)\r<br\/>Bench Presses (195\/135 lb)\r<br\/>Squat Cleans (145\/105 lb)\r<br\/>\r<br\/>Time Cap: 17 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Team Series 18.8",
+        "score_types": "For Time",
+        "workout": "30 Synchronized Toes-to-Bars\r<br\/>40 Synchronized Single-Arm Dumbbell Snatches (50\/35 lb)\r<br\/>50 Synchronized Dumbbell Box Step-Overs (24\/20 in)\r<br\/>40 Synchronized Single-Arm Dumbbell Snatches (50\/35 lb)\r<br\/>30 Synchronized Toes-to-Bars\r<br\/>\r<br\/>Time Cap: 15 minutes",
+        "workout_title": "For Time (with a Partner)"
+    },
+    {
+        "title": "Open 13.3",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "150 Wall Balls (20\/14 lb)\r<br\/>90 Double-Unders\r<br\/>30 Muscle-Ups",
+        "workout_title": "AMRAP in 12 minutes"
+    }, {
+        "title": "Push Pull",
+        "score_types": "For Time",
+        "workout": "7 Handstand Push-Ups (deficit for men)\r<br\/>50 ft Sled Pull\r<br\/>8 Handstand Push-Ups\r<br\/>50 ft Sled Pull\r<br\/>9 Handstand Push-Ups\r<br\/>50 ft Sled Pull\r<br\/>10 Handstand Push-Ups\r<br\/>50 ft Sled Pull\r<br\/>\r<br\/>Time Cap: 11 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 9.2 (Europe)",
+        "score_types": "For Time",
+        "workout": "Clean and Jerks (60\/40 kg)\r<br\/>Handstand Push-Ups",
+        "workout_title": "15-12-9 Reps for Time"
+    }, {
+        "title": "Open 12.5",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "3 Thrusters (100\/65 lb)\r<br\/>3 Chest-to-Bar Pull-Ups\r<br\/>6 Thrusters (100\/65 lb)\r<br\/>6 Chest-to-Bar Pull-Ups\r<br\/>9 Thrusters (100\/65 lb)\r<br\/>9 Chest-to-Bar Pull-Ups\r<br\/>If you complete the round of 9, complete a round of 12, then go on to 15, etc.",
+        "workout_title": "AMRAP in 7 minutes"
+    }, {
+        "title": "Pyramid Double Helen",
+        "score_types": "For Time",
+        "workout": "1,200 meter Run\r<br\/>63 Kettlebell Swings (1.5\/1 pood)\r<br\/>36 Pull-Ups\r<br\/>800 meters Run\r<br\/>42 Kettlebell Swings (1.5\/1 pood)\r<br\/>24 Pull-Ups\r<br\/>400 meters Run\r<br\/>21 Kettlebell Swings (1.5\/1 pood)\r<br\/>12 Pull-Ups\r<br\/>\r<br\/>Time Cap: 22 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Open 18.4",
+        "score_types": "For Time",
+        "workout": "21-15-9 Reps of:\r<br\/>Deadlift (225\/155 lb)\r<br\/>Handstand Push-Ups\r<br\/>\r<br\/>Then, 21-15-9 Reps of:\r<br\/>Deadlift (315\/205 lb)\r<br\/>50 ft Handstand Walk\r<br\/>\r<br\/>Time Cap: 9 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "WZA Double Vision",
+        "score_types": "For Time",
+        "workout": "15-12-9-12-15 reps of:\r<br\/>Double Dumbbell Snatches (50\/35 lb)\r<br\/>Burpee Box Jump Overs (24\/20 in)\r<br\/>\r<br\/>Time Cap: 12 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 9.1 (Icelandic)",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "5 Pull-Ups\r<br\/>10 Burpees\r<br\/>15 Kettlebell Swings (24\/16 kg)\r<br\/>20 Double-Unders",
+        "workout_title": "AMRAP in 12 minutes"
+    }, {
+        "title": "Regionals 18.5",
+        "score_types": "For Time",
+        "workout": "50 Handstand Push-Ups\r<br\/>50 Toes-to-Bars\r<br\/>50 calorie Assault Bike\r<br\/>50 Dumbbell Box Step-Overs (2 x 70\/50 lb, 24\/20 in)\r<br\/>50 feet Right-Arm Dumbbell Overhead Lunges (2 x 70\/50 lb)\r<br\/>50 feet Left-Arm Dumbbell Overhead Lunges (2 x 70\/50 lb)\r<br\/>\r<br\/>Time Cap: 17\/22 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "RCC 19.1 Qualifier",
+        "score_types": "For Time",
+        "workout": "Part A\r<br\/>From 0:00-12:00, perform:\r<br\/>21 Alternating Dumbbell Snatches (22.5\/15 kg)\r<br\/>21 Box Jump-Overs (24\/20 in)\r<br\/>15 Alternating Dumbbell Snatches (22.5\/15 kg)\r<br\/>15 Box Jump-Overs (24\/20 in)\r<br\/>9 Alternating Dumbbell Snatches (22.5\/15 kg)\r<br\/>9 Box Jump-Overs (24\/20 in)\r<br\/>27 Dumbbell Squats (22.5\/15 kg)\r<br\/>27 Burpee Box Jump-Overs (24\/20 in)\r<br\/>18 Dumbell Squats (22.5\/15 kg)\r<br\/>18 Burpee Box Jump-Overs (24\/20 in)\r<br\/>45 Dumbbell Box Step-Overs\r<br\/>\r<br\/>3 minutes Rest\r<br\/>\r<br\/>Part B\r<br\/>From 15:00-20:00, perform:\r<br\/>8 Squat Cleans (85\/50 kg)\r<br\/>6 Squat Cleans (100\/65 kg)\r<br\/>4 Squat Cleans (125\/80 kg)\r<br\/>2 Squat Cleans (145\/90 kg)",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 10.4 (Canada)",
+        "score_types": "For Time",
+        "workout": "50 Double-Unders\r<br\/>10 Burpees\r<br\/>40 Double-Unders\r<br\/>10 Burpees\r<br\/>30 Double-Unders\r<br\/>10 Burpees\r<br\/>20 Double-Unders\r<br\/>10 Burpees\r<br\/>10 Double-Unders\r<br\/>10 Burpees",
+        "workout_title": "For Time"
+    }, {
+        "title": "Sprint Chipper",
+        "score_types": "For Time",
+        "workout": "21 Med Ball GHD Sit-Ups\r<br\/>15 Snatches (165\/100 lb)\r<br\/>9 Over-the-Wall Burpees (6 ft)",
+        "workout_title": "For Time"
+    }, {
+        "title": "Triple-G Chipper",
+        "score_types": "For Time",
+        "workout": "100 Pull-Ups\r<br\/>80 GHD Sit-Ups\r<br\/>60 Pistols (alternating legs)\r<br\/>40 calorie Row\r<br\/>20 Dumbbell Push Presses (100\/70 lb)\r<br\/>\r<br\/>Time Cap: 15 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "30 Muscle-Ups",
+        "score_types": "For Time",
+        "workout": "30 Muscle-Ups",
+        "workout_title": "For Time"
+    }, {
+        "title": "Team Series 17.3",
+        "score_types": "For Time",
+        "workout": "50 Synchronized Wall Ball Shots (20\/14 in 9\/10 ft)\r<br\/>30 Cleans (135\/95 lb)\r<br\/>50 Synchronized Wall Ball Shots (20\/14 in 9\/10 ft)\r<br\/>20 Cleans (185\/135 lb)\r<br\/>50 Synchronized Wall Ball Shots (20\/14 in 9\/10 ft)\r<br\/>10 Cleans (225\/155 lb)\r<br\/>\r<br\/>Time Cap: 12 minutes",
+        "workout_title": "For Time (with a Partner)"
+    }, {
+        "title": "RCC 19.3 Qualifier",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "12 calorie Row\r<br\/>10 Toes-to-Bars\r<br\/>8 Shoulder-to-Overheads (60\/40 kg)",
+        "workout_title": "AMRAP in 20 minutes"
+    }, {
+        "title": "Clean-and-Jerk Speed Ladder",
+        "score_types": "For Time",
+        "workout": "3 rounds of Heavy Clean-and-Jerk Ladders\r<br\/>\r<br\/>Round 1:\r<br\/>Men: 245-255-265-270-275 lb\r<br\/>Women: 155-160-165-170-175 lb\r<br\/>Time Cap: 1 minute\r<br\/>\r<br\/>Round 2: \r<br\/>Men: 280-290-300-305-310 lb\r<br\/>Women: 180-185-190-195-200 lb\r<br\/>Time Cap: 2 minutes\r<br\/>\r<br\/>Round 3:\r<br\/>Men: 315-325-335-340-345 lb\r<br\/>Women: 205-210-215-220-225 lb\r<br\/>Time Cap: 3 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 10.4 (Southeast)",
+        "score_types": "For Time",
+        "workout": "500 meter Row\r<br\/>25 Burpees\r<br\/>500 meter Row\r<br\/>25 Burpees",
+        "workout_title": "For Time"
+    }, {
+        "title": "FTD 16.2 Qualifier",
+        "score_types": "For Time",
+        "workout": "2000 meter Row\r<br\/>\r<br\/>Time Cap: 9 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Open 12.4",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "150 Wall Balls (20\/14 lb)\r<br\/>90 Double-Unders\r<br\/>30 Muscle-Ups",
+        "workout_title": "AMRAP in 12 minutes"
+    }, {
+        "title": "Team Series 18.1",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "Synchronized Bar Facing Burpees",
+        "workout_title": "AMRAP (with a partner) in 7 minutes"
+    },
+    {
+        "title": "Redemption",
+        "score_types": "For Time",
+        "workout": "3 Pegboard Ascents\r<br\/>21 Thrusters (135\/85 lb)\r<br\/>2 Pegboard Ascents\r<br\/>15 Thrusters (135\/85 lb)\r<br\/>1 Pegboard Ascent\r<br\/>9 Thrusters (135\/85 lb)\r<br\/>\r<br\/>Time Cap: 10 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 9.3 (Canada East)",
+        "score_types": "For Time",
+        "workout": "Burpees\r<br\/>Kettlebell Swings (1.5 pood)\r<br\/>\r<br\/>Time Cap: 7 minutes",
+        "workout_title": "21-15-9 Reps for Time"
+    }, {
+        "title": "Run Swim Run",
+        "score_types": "For Time",
+        "workout": "1.5 mile Run\r<br\/>500 meter Swim\r<br\/>1.5 mile Run\r<br\/>\r<br\/>Time Cap: 60 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Midline Madness",
+        "score_types": "For Time",
+        "workout": "400 meter Run\r<br\/>50 foot Yoke Carry (380\/300 lb)\r<br\/>\r<br\/>Time Cap: 25 minutes",
+        "workout_title": "6 Rounds For Time"
+    }, {
+        "title": "Regionals 9.1 (Africa)",
+        "score_types": "For Time",
+        "workout": "Deadlifts (125\/70 kg)\r<br\/>Burpees (5 per round)\r<br\/>Squat Clean and Jerks (60\/40 kg)",
+        "workout_title": "10-9-8-7-6-5-4-3-2-1 Reps for Time"
+    }, {
+        "title": "Team Series 18.4",
+        "score_types": "For Time",
+        "workout": "50 Double-Unders (each)\r<br\/>50 foot Synchronized Dumbbell Overhead Lunges (50\/35 lb)\r<br\/>\r<br\/>Time Cap: 15 minutes",
+        "workout_title": "5 Rounds for Time"
+    }, {
+        "title": "AGOQ 18.1",
+        "score_types": "For Time",
+        "workout": "4 Thrusters (135\/95 lb)\r<br\/>1 Rope Climb (15 ft)\r<br\/>8 Thrusters (135\/95 lb)\r<br\/>2 Rope Climbs (15 ft)\r<br\/>12 Thrusters (135\/95 lb)\r<br\/>3 Rope Climbs (15 ft)\r<br\/>\r<br\/>Time Cap: 10 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "2223 Intervals",
+        "score_types": "For Time",
+        "workout": "Three 2-minute intervals, then one 3-minute interval of:\r<br\/>2 Rope Climbs\r<br\/>10\/7 calorie SkiErg\r<br\/>Max Overhead Squats (155\/105 lb)\r<br\/>\r<br\/>Then, 1 minute Rest\r<br\/>\r<br\/>Time Cap: 12 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Midline March",
+        "score_types": "For Time",
+        "workout": "25 GHD Sit-Ups\r<br\/>50 foot Handstand Walk\r<br\/>50 foot Overhead Walking Lunge (155\/105 lb)",
+        "workout_title": "3 Rounds for Time"
+    }, {
+        "title": "Regionals 9.2 (Northwest)",
+        "score_types": "For Load",
+        "workout": "Max Deadlift",
+        "workout_title": "For Load"
+    }, {
+        "title": "RCC 19.2 Qualifier",
+        "score_types": "For Rounds \/ RepsFor Time",
+        "workout": "Part A\r<br\/>Three Rounds for Time:\r<br\/>75 Double-Unders\r<br\/>15 Power Snatches (50\/35 kg)\r<br\/>\r<br\/>Time cap: 6 minutes\r<br\/>\r<br\/>4 minutes Rest\r<br\/>\r<br\/>Part B\r<br\/>On the 10-minute mark, 6 minutes AMRAP of:\r<br\/>10 Back Squats (80\/55 kg)\r<br\/>5 Bar Muscle-Ups ",
+        "workout_title": ""
+    }, {
+        "title": "WZA The Ocho Chipper",
+        "score_types": "For Time",
+        "workout": "30\/20 Bar Muscle-Ups\r<br\/>30 Hang Power Cleans (155\/105 lb)\r<br\/>30 Deficit Handstand Push-Ups (4\/2 in)\r<br\/>30 Front Squats (155\/105 lb)\r<br\/>30 Toes-To-Bars\r<br\/>30 Shoulder-to-Overheads (155\/105 lb)",
+        "workout_title": "For Time"
+    }, {
+        "title": "ECC Qualifiers 15.1",
+        "score_types": "For LoadFor Time",
+        "workout": "AMRAP in 5 Minutes (from 0:00-5:00):\r<br\/>10 Bar-Facing Burpees\r<br\/>15 Thrusters (95\/65 lb)\r<br\/>20 Chest-to-Bar Pull-Ups\r<br\/>\r<br\/>Then, 5 Minutes (from 5:00-10:00) to Establish:\r<br\/>5 Rep Max Low Hang Snatch\r<br\/>\r<br\/>Then, For Time (starting at 10:00):\r<br\/>25 Overhead Squats (135\/95 lb)\r<br\/>75 Double-Unders\r<br\/>25 calorie Row\r<br\/>75 Double-Unders\r<br\/>25 Overhead Squats (135\/95 lb)",
+        "workout_title": "With a Running Clock"
+    }, {
+        "title": "Regionals 9.2 (Africa)",
+        "score_types": "For Time",
+        "workout": "Buy-In:\r<br\/>500 meter Row\r<br\/>\r<br\/>Then, 2 Rounds of:\r<br\/>20 Pull-Ups\r<br\/>20 Thrusters (30\/20 kg)\r<br\/>400 meter Run\r<br\/>20 Kettlebell Swings (24\/16 kg)\r<br\/>20 Box Jumps\r<br\/>\r<br\/>Buy-Out:\r<br\/>500 meter Row",
+        "workout_title": "For Time"
+    }, {
+        "title": "Legless",
+        "score_types": "For Time",
+        "workout": "27 Thrusters (95\/65 lb)\r<br\/>4 Legless Rope Climbs (15 ft)\r<br\/>21 Thrusters (95\/65 lb)\r<br\/>3 Legless Rope Climbs (15 ft)\r<br\/>15 Thrusters (95\/65 lb)\r<br\/>2 Legless Rope Climbs (15 ft)\r<br\/>9 Thrusters (95\/65 lb)\r<br\/>1 Legless Rope Climb (15 ft)",
+        "workout_title": "For Time"
+    }, {
+        "title": "Team Series 18.3",
+        "score_types": "For Time",
+        "workout": "Synchronized Pull-Ups\r<br\/>Synchronized Deadlifts (225\/155 lb)\r<br\/>\r<br\/>Time Cap: 45 minutes",
+        "workout_title": "21-15-9 Reps for Time (with a Partner)"
+    }, {
+        "title": "Core Couplet",
+        "score_types": "For Time",
+        "workout": "30 Medicine Ball GHD Sit-Ups (20\/14 lb)\r<br\/>10 Sandbag Cleans (150\/100 lb)",
+        "workout_title": "3 Rounds for Time"
+    }, {
+        "title": "WZA Death by Triplet",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "8 Burpee Box Jump Overs (24\/20 in)\r<br\/>8 Hang Power Snatches (115\/80 lb)\r<br\/>8 Thrusters (115\/80 lb)\r<br\/>Rest until the next 2-minute mark",
+        "workout_title": "E2MOM For As Long As Possible"
+    }, {
+        "title": "WZA Two-for-One Special",
+        "score_types": "For LoadFor Time",
+        "workout": "(WOD 4) 2 Rounds for Time:\r<br\/>40 calorie Row\r<br\/>40 Toes-to-Bars\r<br\/>40 Overhead Squats (95\/65 lb)\r<br\/>\r<br\/>Time cap: 18 minutes\r<br\/>\r<br\/>Then, (WOD 5) with Remaining Time:\r<br\/>1 rep max Hang Snatch\r<br\/>\r<br\/>Time cap: 20 minutes",
+        "workout_title": "For Time and Load"
+    }, {
+        "title": "Handstand Walk",
+        "score_types": "For Time",
+        "workout": "280 feet Handstand Walk",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 16.2",
+        "score_types": "For Time",
+        "workout": "4 Strict Muscle-Ups\r<br\/>7 Strict Handstand Push-Ups\r<br\/>12 Kettlebell Snatches (70\/53 lb)\r<br\/>\r<br\/>Time Cap: 20 minutes",
+        "workout_title": "10 Rounds for Time"
+    },
+    {
+        "title": "The Separator",
+        "score_types": "For Time",
+        "workout": "For Men:\r<br\/>12 Ring Handstand Push-Ups\r<br\/>15 Back Squats (225 lb)\r<br\/>20 Burpees\r<br\/>9 Ring Handstand Push-Ups\r<br\/>18 Front Squats (205 lb)\r<br\/>20 Burpees\r<br\/>6 Ring Handstand Push-Ups\r<br\/>21 Overhead Squats (185 lb)\r<br\/>20 Burpees\r<br\/>\r<br\/>For Women:\r<br\/>15 Back Squats (165 lb)\r<br\/>20 Burpees\r<br\/>6 Ring Handstand Push-Ups\r<br\/>18 Front Squats (145 lb)\r<br\/>20 Burpees\r<br\/>4 Ring Handstand Push-Ups\r<br\/>21 Overhead Squats (125 lb)\r<br\/>20 Burpees\r<br\/>2 Ring Handstand Push-Ups\r<br\/>\r<br\/>Time Cap: 16 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 9.3 (Hell&#8217;s Half Acre)",
+        "score_types": "For Time",
+        "workout": "Box Jumps (24\/20 in)\r<br\/>Kettlebell Swings (53\/35 lb)\r<br\/>Sumo Deadlift High-Pulls (95\/65 lb)",
+        "workout_title": "21-15-9 Reps for Time"
+    }, {
+        "title": "Regionals 11.2",
+        "score_types": "For Load",
+        "workout": "Thruster Ladder\r<br\/>\r<br\/>Men: 155, 165, 175, 185, 195, 205, 215, 225, 235, 245, 255, 265, 275, 285, 295 lb\r<br\/>\r<br\/>Women: 105, 115, 125, 130, 135, 140, 145, 150, 155, 160, 165, 170, 175, 180, 185 lb",
+        "workout_title": "For Load"
+    }, {
+        "title": "Team Series 17.2",
+        "score_types": "For Time",
+        "workout": "120 Double-Unders (each in relay)\r<br\/>120 Chest-to-Bar Pull-Ups (total in sets of 15)\r<br\/>120 Hang Power Snatches (95\/65 lb for total in sets of 15)\r<br\/>120 Double-Unders (each in relay)\r<br\/>\r<br\/>Time Cap: 15 minutes",
+        "workout_title": "For Time (with a Partner)"
+    }, {
+        "title": "ROMWOD WZA Up &#038; Down Dog Chipper",
+        "score_types": "For Time",
+        "workout": "40 Wall Ball Shots (30\/20 lb)\r<br\/>30 Toes-to-Bars \r<br\/>20 Burpee Box Jump-Overs (24\/20 in)\r<br\/>30 Toes-to-Bars\r<br\/>40 Wall Ball Shots (30\/20 lb)",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 10.3 (Northwest)",
+        "score_types": "For Time",
+        "workout": "5 mile Run",
+        "workout_title": "For Time"
+    }, {
+        "title": "Team Series 17.8",
+        "score_types": "For Time",
+        "workout": "Partner 1 completes:\r<br\/>1,000 meter Row\r<br\/>50 Thrusters (45\/35 lb)\r<br\/>30 Chest-to-Bar Pull-Ups\r<br\/>\r<br\/>Then, Partner 2 completes:\r<br\/>1,000 meter Row\r<br\/>50 Thrusters (45\/35 lb)\r<br\/>30 Chest-to-Bar Pull-Ups",
+        "workout_title": "For Time (with a Partner)"
+    }, {
+        "title": "ECC Qualifiers 15.2",
+        "score_types": "For LoadFor Time",
+        "workout": "AMRAP in 5 minutes (from 0:00-5:00)\r<br\/>5 Bar Muscle-Ups\r<br\/>5 Squat Cleans (155\/105 lb)\r<br\/>5 Box Jumps (40\/30 in)\r<br\/>\r<br\/>Then, 5 Minutes (from 5:00-10:00) to Establish:\r<br\/>Max Load Complex of\r<br\/>1 Clean\r<br\/>1 Hang Squat Clean\r<br\/>1 Front Squat\r<br\/>1 Jerk\r<br\/>\r<br\/>Then, For Time (starting at 10:00):\r<br\/>18-12-6 Repetitions of \r<br\/>Deadlifts (275\/185 lb)\r<br\/>Strict Handstand Push-Ups",
+        "workout_title": "With a Running Clock"
+    }, {
+        "title": "Regionals 16.1",
+        "score_types": "For Time",
+        "workout": "0:00-2:00\r<br\/>10 Squat Snatches (185\/135 lb)\r<br\/>2:00-4:00\r<br\/>8 Squat Snatches (205\/145 lb)\r<br\/>4:00-6:00\r<br\/>6 Squat Snatches (225\/155 lb)\r<br\/>6:00-8:00\r<br\/>4 Squat Snatches (245\/165 lb)\r<br\/>8:00-11:00\r<br\/>2 Squat Snatches (265\/175 lb)\r<br\/>\r<br\/>Time Cap: 11 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "WZA RPM Chipper",
+        "score_types": "For Time",
+        "workout": "150 meter Run\r<br\/>50 Deadlifts (225\/155 lb)\r<br\/>150 meter Run\r<br\/>40\/30 Ring Dips\r<br\/>150 meter Run\r<br\/>30 Alternating Dumbbell Squat Snatches (70\/50 lb)\r<br\/>150 meter Run\r<br\/>200 Weighted RPM Scout Double-Unders\r<br\/>150 meter Run\r<br\/>100 foot Handstand Walk\r<br\/>\r<br\/>Time Cap: 20 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "AG Chipper",
+        "score_types": "For Time",
+        "workout": "30 Deficit Handstand Push-Ups (4.5\/3 in)\r<br\/>40 Deadlifts (225\/155 lb)\r<br\/>50 calorie BikeErg\r<br\/>60 Bar-Facing Burpees\r<br\/>\r<br\/>Time Cap: 16 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "WZA Progenex Bar Complex",
+        "score_types": "For Time",
+        "workout": "3 Hang Cleans, Front Squats, Shoulder-to-Overheads (245\/1165 lb)\r<br\/>2 Hang Cleans, Front Squats, Shoulder-to-Overheads (265\/175 lb)\r<br\/>1 Hang Clean, Front Squat, Shoulder-to-Overhead (285\/185 lb)\r<br\/>\r<br\/>Time Cap: 5 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "AGOQ 17.1",
+        "score_types": "For Time",
+        "workout": "100 Dumbbell Snatches (50\/35 lb)\r<br\/>80 calorie Row\r<br\/>60 Burpees\r<br\/>40 Muscle-Ups\r<br\/>\r<br\/>Time Cap: 20 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "The Pool",
+        "score_types": "For Time",
+        "workout": "25 yards Swim\r<br\/>3 Bar Muscle-Ups\r<br\/>25 yards Swim\r<br\/>\r<br\/>Time Cap: 25 minutes",
+        "workout_title": "10 Rounds for Time"
+    }, {
+        "title": "ECC Qualifiers 15.3",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "50 Wall Balls (20\/14 lb)\r<br\/>50 Double-Unders\r<br\/>40 Box Jumps (24\/20 lb)\r<br\/>40 Toes-to-Bar\r<br\/>30 Chest-to-Bar Pull-Ups\r<br\/>30 Bar-Facing Burpees\r<br\/>20 Cleans (145\/100 lb)\r<br\/>20 Jerks (145\/100 lb)\r<br\/>10 Snatches (145\/100 lb)\r<br\/>10 Muscle-Ups",
+        "workout_title": "AMRAP in 20 minutes"
+    }, {
+        "title": "GG Qualifier 15.3",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "50 calorie Row\r<br\/>50 Wall Ball Shots (20\/14 lb)\r<br\/>50 Shoulder to Overhead (115\/85 lb)\r<br\/>50 Box Jumps (24\/20 in)",
+        "workout_title": "AMRAP in 17 minutes"
+    }, {
+        "title": "FTD 15.1 Qualifier",
+        "score_types": "For Time",
+        "workout": "50 Double-Unders\r<br\/>40 Toes-to-Bars\r<br\/>30 Snatches (75\/55 lb)\r<br\/>20 Overhead Squats (75\/55 lb)\r<br\/>\r<br\/>Time Cap: 7 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Get a Grip",
+        "score_types": "For Time",
+        "workout": "50 Double-Unders\r<br\/>20 Deadlifts (100\/70 kg)\r<br\/>20 Box Jumps (24\/20 in)\r<br\/>20 Kettlebell Swings (24\/16 kg)\r<br\/>20 Toes-to-Bars \r<br\/>20 Kettlebell Swings (24\/16 kg)\r<br\/>20 Box Jumps (24\/20 in)\r<br\/>20 Deadlifts (100\/70 kg)\r<br\/>50 Double-Unders \r<br\/>\r<br\/>Time Cap: 8 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Mabry Medley",
+        "score_types": "For Time",
+        "workout": "4\/2 Handstand Push-Ups\r<br\/>8\/6 Ground-to-Overheads (135\/95 lb)\r<br\/>12\/10 Burpees",
+        "workout_title": "3 Rounds for Time"
+    }, {
+        "title": "Regionals 9.1 (Asia)",
+        "score_types": "For Time",
+        "workout": "7 Thrusters (135\/85 lbs)\r<br\/>7 Burpees",
+        "workout_title": "7 Rounds for Time"
+    }, {
+        "title": "Regionals 15.1",
+        "score_types": "For Time",
+        "workout": "75 Snatches (75\/55 lbs)\r<br\/>\r<br\/>Time Cap: 6 minutes",
+        "workout_title": "For Time"
+    },
+    {
+        "title": "MACC 19.4 Qualifier",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "10 Bench Presses (135\/95 lb)\r<br\/>10 Chest-to-Bar Pull-Ups\r<br\/>10 Alternating Dumbbell Snatches (50\/35 lb)",
+        "workout_title": "Every 3 Minutes For as Long as Possible"
+    }, {
+        "title": "GG Qualifier 16.4",
+        "score_types": "For Time",
+        "workout": "5\u201310\u201315\u201320\u201315\u201310\u20135 Reps of\r<br\/>Overhead Squats (115\/75 lb)\r<br\/>Toes-to-Bar",
+        "workout_title": "For Time"
+    }, {
+        "title": "Team Series 18.2",
+        "score_types": "For Time",
+        "workout": "20 Synchronized Squat Cleans (135\/95 lb)\r<br\/>20 Synchronized Squat Cleans (185\/125 lb)\r<br\/>20 Synchronized Squat Cleans (225\/155 lb)\r<br\/>\r<br\/>Time Cap: 7 minutes",
+        "workout_title": "For Time (with a Partner)"
+    }, {
+        "title": "SAB 16.1",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "From 0:00-1:00:\r<br\/>100 meter Row\r<br\/>1 Thruster (42.5\/30 kg)\r<br\/>\r<br\/>From 1:00-2:00:\r<br\/>100 meter Row\r<br\/>2 Thrusters (42.5\/30 kg)\r<br\/>\r<br\/>From 2:00-3:00:\r<br\/>100 meter Row\r<br\/>3 Thrusters (42.5\/30 kg)\r<br\/>\r<br\/>Continue adding one thruster every minute",
+        "workout_title": "EMOM For As Long As Possible"
+    }, {
+        "title": "The Motivator",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "Shoulder-to-Overhead (115\/85 lbs)\r<br\/>Front-Rack Lunges (115\/85 lbs)\r<br\/>\r<br\/>Penalty Each Time Bar is Dropped*",
+        "workout_title": "AMRAP in 9 minutes"
+    }, {
+        "title": "Regionals 12.3",
+        "score_types": "For Time",
+        "workout": "10 One-Arm Dumbbell Snatches (100\/70 lbs)\r<br\/>100 meter Sprint",
+        "workout_title": "4 Rounds for Time"
+    }, {
+        "title": "Team Series 18.6",
+        "score_types": "For Time",
+        "workout": "100 calorie Row (switch every 25)\r<br\/>50 Handstand Push-Ups (total)\r<br\/>\r<br\/>Time Cap: 20 minutes",
+        "workout_title": "2 Rounds for Time"
+    }, {
+        "title": "MACC 19.3 Qualifier",
+        "score_types": "For Time",
+        "workout": "27 Dumbbell Squat Cleans (2x50\/35 lb)\r<br\/>27 Toes-to-Bars\r<br\/>100 Double-Unders\r<br\/>21 Dumbbell Squat Cleans (2x50\/35 lb)\r<br\/>21 Toes-to-Bars\r<br\/>100 Double-Unders\r<br\/>15 Dumbbell Squat Cleans (2x50\/35 lb)\r<br\/>15 Toes-to-Bars\r<br\/>100 Double-Unders\r<br\/>9 Dumbbell Squat Cleans (2x50\/35 lb)\r<br\/>9 Toes-to-Bars\r<br\/>\r<br\/>Time Cap: 30 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Row 1 &#038; Row 2",
+        "score_types": "For Time",
+        "workout": "21,097 meter Row\r<br\/>\r<br\/>Time Cap: 2 hours for Men, 2 hours 10 minutes for Women",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 9.1 (Mid-Atlantic)",
+        "score_types": "For Time",
+        "workout": "2000 meter Row",
+        "workout_title": "For Time"
+    }, {
+        "title": "WZAOC 18.6 Qualifier",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "Max Meter Row",
+        "workout_title": "AMRAP in 8 minutes"
+    }, {
+        "title": "DXB 18.2 Qualifier",
+        "score_types": "For LoadFor Time",
+        "workout": "Part A\r<br\/>4 Rounds for Time\r<br\/>8 meter Front Rack Lunges (110\/80 lb)\r<br\/>8 Bar Facing Burpees\r<br\/>8 meter Front Rack Lunges (110\/80 lb)\r<br\/>8 Bar Facing Burpees\r<br\/>8 Bar Muscle-Ups\r<br\/>\r<br\/>Part B\r<br\/>After 4 rounds, find max weight of the following complex:\r<br\/>1 Hang Clean + 2 Front Squats (3 successful unbroken reps)\r<br\/>\r<br\/>Time Cap: 15 minutes",
+        "workout_title": ""
+    }, {
+        "title": "Team Series 18.5",
+        "score_types": "For Time",
+        "workout": "10-9-8-7-6-5-4-3-2-1 reps of:\r<br\/>Bar Muscle-Ups\r<br\/>Squat Snatches (95\/65 lb)\r<br\/>\r<br\/>Time Cap: 20 minutes",
+        "workout_title": "For Time (with a Partner)"
+    }, {
+        "title": "Pedal to the Metal 1",
+        "score_types": "For Time",
+        "workout": "3 Peg Board Ascents\r<br\/>24 calorie Row\r<br\/>16 calorie Bike\r<br\/>8 Dumbbell Squat Snatches (100\/70 lb)\r<br\/>\r<br\/>Time Cap: 6 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "The Beach",
+        "score_types": "For Time",
+        "workout": "250 yard Swim \r<br\/>50 Kettlebell Thrusters (35\/24 lb)\r<br\/>30 Burpees\r<br\/>500 yard Swim \r<br\/>30 Burpees\r<br\/>50 Kettlebell Thrusters  (35\/24 lb)\r<br\/>250 yard Swim ",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 9.3 (Rocky Mountain)",
+        "score_types": "For Time",
+        "workout": "Accumulate 7000\/5000 lb Ground-to-Overhead",
+        "workout_title": "For Time"
+    }, {
+        "title": "GG Qualifier 15.1",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "5 Hang Squat Cleans (155\/105 lb)\r<br\/>7 Bar-Facing Burpees",
+        "workout_title": "AMRAP in 10 minutes"
+    }, {
+        "title": "GG Qualifier 15.2",
+        "score_types": "For LoadFor Rounds \/ Reps",
+        "workout": "From 0:00-6:00:\r<br\/>Establish a 1-Rep Max Snatch\r<br\/>\r<br\/>From 6:00-14:00 AMRAP:\r<br\/>30 Double-Unders\r<br\/>15 Chest-to-Bar Pull-ups\r<br\/>30 Double-Unders\r<br\/>15 Toes-to-Bar\r<br\/>\r<br\/>From 14:00-20:00:\r<br\/>Establish a 1-Rep Max Snatch",
+        "workout_title": "With a Running Clock in 20 minutes"
+    }, {
+        "title": "Crit",
+        "score_types": "For Time",
+        "workout": "10 laps Bike (1,200\u00b1 meters per lap)\r<br\/>\r<br\/>Time Cap: 30 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 16.5",
+        "score_types": "For Time",
+        "workout": "400 meter Run\r<br\/>40 GHD Sit-Ups\r<br\/>7 Deadlifts (405\/275 lb)\r<br\/>\r<br\/>Time Cap: 16 minutes",
+        "workout_title": "3 Rounds for Time"
+    }, {
+        "title": "Regionals 11.5",
+        "score_types": "For Time",
+        "workout": "Muscle Ups\r<br\/>Squat Snatches (135\/95 lb)",
+        "workout_title": "9-7-5 Reps For Time"
+    },
+    {
+        "title": "WZA Gymnastic Triplet",
+        "score_types": "For Time",
+        "workout": "21 Chest-to-Bar Pull-Ups\r<br\/>15 Strict Handstand Push-Ups\r<br\/>9 Pistols (per leg, alternating)\r<br\/>\r<br\/>Time Cap: 20 minutes",
+        "workout_title": "4 Rounds for Time"
+    }, {
+        "title": "Regionals 16.4",
+        "score_types": "For Time",
+        "workout": "28 Pistols\r<br\/>15 Power Cleans (115\/80 lb)\r<br\/>\r<br\/>Time Cap: 10 minutes",
+        "workout_title": "4 Rounds for Time"
+    }, {
+        "title": "Regionals 18.1",
+        "score_types": "For Time",
+        "workout": "\"Triple 3\"\r<br\/>3000 meter Row\r<br\/>300 Double-Unders\r<br\/>3 mile Run\r<br\/>\r<br\/>Time Cap: 49 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 15.7",
+        "score_types": "For Time",
+        "workout": "15 Muscle-Ups\r<br\/>1 Squat Clean (205\/135 lbs)\r<br\/>1 Squat Clean (225\/145 lbs)\r<br\/>1 Squat Clean (245\/155 lbs)\r<br\/>1 Squat Clean (255\/165 lbs)\r<br\/>1 Squat Clean (265\/175 lbs)\r<br\/>\r<br\/>Time cap: 6 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "FiCT 19.2 Qualifier",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "5 Toes-to-Bars\r<br\/>4 Chest-to-Bar Pull-Ups\r<br\/>3 Hang Squat Cleans (155\/105 lb)\r<br\/>2 Front Squats (155\/105 lb)\r<br\/>1 Shoulder-to-Overhead (155\/105 lb)",
+        "workout_title": "AMRAP in 7 minutes"
+    }, {
+        "title": "Regionals 12.4",
+        "score_types": "For Time",
+        "workout": "50 Back Squats (135\/95 lbs)\r<br\/>40 Pull-Ups\r<br\/>30 Shoulder-to-Overheads (135\/95 lbs)\r<br\/>50 Front Squats (85\/65 lbs)\r<br\/>40 Pull-Ups\r<br\/>30 Shoulder-to-Overheads (85\/65 lbs)\r<br\/>50 Overhead Squats (65\/45 lbs)\r<br\/>40 Pull-Ups\r<br\/>30 Shoulder-to-Overhead (65\/45 lbs)",
+        "workout_title": "For Time"
+    }, {
+        "title": "Ranch Trail Run",
+        "score_types": "For Time",
+        "workout": "7 kilometer Trail Run",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 10.2 (Northwest)",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "Apollon's Axle Deadlifts\r<br\/>\r<br\/>Time Cap: 90 seconds",
+        "workout_title": "AMRAP in 2 minutes"
+    }, {
+        "title": "100%",
+        "score_types": "For Time",
+        "workout": "40 Box Jumps (30\/24 in)\r<br\/>20 D-Ball Cleans (150\/100 lb)\r<br\/> \r<br\/>Time Cap: 5 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 10.1 (South Central)",
+        "score_types": "For Load",
+        "workout": "At each station athlete must complete:\r<br\/>1 Squat Snatch\r<br\/>2 Overhead Squats\r<br\/>or\r<br\/>1 Power Snatch\r<br\/>3 Overhead Squats\r<br\/>\r<br\/>Men (in lbs.): 135-145-155-165-175-185-195-205-215-225\r<br\/>Women (in lbs.): 75-85-95-105-110-115-120-125-130-135",
+        "workout_title": "EMOM (for Load) For As Long As Possible"
+    }, {
+        "title": "The Cinco 1",
+        "score_types": "For Time",
+        "workout": "5 Deadlifts (405\/265 lb)\r<br\/>5 Weighted One-Legged Squats, left leg (53\/35 lb Kettlebell)\r<br\/>5 Weighted One-Legged Squats, right leg (53\/35 lb Kettlebell)\r<br\/>Then,\r<br\/>80 ft Handstand Walk\r<br\/>\r<br\/>Time Cap: 7 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 9.2 (Australia)",
+        "score_types": "For Time",
+        "workout": "Burpees\r<br\/>Pull-ups\r<br\/>400 meter Row",
+        "workout_title": "21-15-9 Reps for Time"
+    }, {
+        "title": "WZA Online Challenge 17.6",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "10-8-6-4-2 Reps of\r<br\/>Hang Power Cleans (ascending weight)\r<br\/>Lateral Over-the-Bar Burpees\r<br\/>Toes-to-Bars",
+        "workout_title": "AMRAP in 15 minutes"
+    }, {
+        "title": "WZA Barbells for Boobs Finale",
+        "score_types": "For Time",
+        "workout": "28 Bar-Facing Burpees\r<br\/>7 Rope Climbs\r<br\/>21 Thrusters (155\/105 lb)",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 18.4",
+        "score_types": "For Time",
+        "workout": "2 Rounds of:\r<br\/>10 Snatches (175\/125 lb)\r<br\/>12 Burpees\r<br\/>\r<br\/>Then, 2 Rounds of:\r<br\/>10 Snatches (115\/75 lb)\r<br\/>12 Burpees \r<br\/>\r<br\/>Time Cap: 9 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "GG Qualifier 17.3",
+        "score_types": "For Time",
+        "workout": "From 0:00-4:00:\r<br\/>2 Rounds of:\r<br\/>12 Overhead Squats (95\/65 lb)\r<br\/>12 Toes-to-Bars\r<br\/>\r<br\/>If completed before 4:00, then from 4:00-8:00:\r<br\/>2 Rounds of:\r<br\/>10 Overhead Squats (135\/95 lb)\r<br\/>12 Toes-to-Bars\r<br\/>\r<br\/>If completed before 8:00, then from 8:00-12:00:\r<br\/>2 Rounds of:\r<br\/>8 Overhead Squats (165\/115 lb)\r<br\/>12 Toes-to-Bars\r<br\/>\r<br\/>If completed before 12:00, then from 12:00-16:00:\r<br\/>2 Rounds of:\r<br\/>6 Overhead Squats (185\/125 lb)\r<br\/>12 Toes-to-Bars\r<br\/>\r<br\/>Time Cap: 16 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Triangle Couplet",
+        "score_types": "For Time",
+        "workout": "Thrusters (165\/115 lb)\r<br\/>Bar Muscle-Ups\r<br\/>\r<br\/>Time Cap: 10 minutes",
+        "workout_title": "15-10-6 Reps for Time"
+    }, {
+        "title": "Medball-Handstand Push-Up",
+        "score_types": "For Time",
+        "workout": "8 Medicine Ball Cleans (150\/80 lb)\r<br\/>100 ft Medicine Ball Carry (150\/80 lb)\r<br\/>7 Paralette Handstand Push-Ups\r<br\/>100 ft Medicine Ball Carry (150\/80 lb)\r<br\/>\r<br\/>Time Cap: 10 minutes",
+        "workout_title": "3 Rounds for Time"
+    }, {
+        "title": "ACC 19.1 Qualifier",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "30 Double-Unders\r<br\/>3 Power Cleans (50\/35 kg)",
+        "workout_title": "AMRAP in 12 minutes"
+    }, {
+        "title": "Team Series 17.5",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "3 Synchronized Burpee Box Jump-Overs (24\/20 in)\r<br\/>3 Synchronized Deadlifts (225\/155 lb)\r<br\/>6 Synchronized Burpee Box Jump-Overs (24\/20 in)\r<br\/>6 Synchronized Deadlifts (225\/155 lb)\r<br\/>9 Synchronized Burpee Box Jump-Overs (24\/20 in)\r<br\/>9 Synchronized Deadlifts (225\/155 lb)\r<br\/>\r<br\/>Etc., adding 3 reps to each exercise every round.",
+        "workout_title": "AMRAP in 10 minutes (with a Partner)"
+    }, {
+        "title": "Regionals 17.1",
+        "score_types": "For Time",
+        "workout": "1,200 meter Run\r<br\/>\r<br\/>Then, 12 Rounds of:\r<br\/>4 Strict Handstand Push-Ups\r<br\/>8 Chest-to-Bar Pull-Ups\r<br\/>12 Air Squats\r<br\/>\r<br\/>All with a weight vest (20\/14 lb)\r<br\/>\r<br\/>Time cap: 25 minutes",
+        "workout_title": "For Time"
+    },
+    {
+        "title": "The Cinco 2",
+        "score_types": "For Time",
+        "workout": "5 Muscle-Ups\r<br\/>5 Deficit Handstand Push-Ups\r<br\/>Then,\r<br\/>90 ft Overhead Walking Lunges (160\/100 lb axle bar)\r<br\/>\r<br\/>Time Cap: 7 minutes",
+        "workout_title": "3 Rounds for Time"
+    }, {
+        "title": "Regionals 9.3 (Northwest)",
+        "score_types": "For Time",
+        "workout": "3 Muscle-Ups\r<br\/>30 Wall Ball Shots (20\/12 lb)\r<br\/>6 Sumo Deadlift High-Pulls (60\/40 kg)",
+        "workout_title": "5 Rounds for Time"
+    }, {
+        "title": "Regionals 9.3 (Asia)",
+        "score_types": "For Time",
+        "workout": "900 meter Run\r<br\/>15 Kettlebell Swings (2\/1.5 pood)\r<br\/>15 Tire Deadlifts (215\/130 lb)\r<br\/>15 meter Dumbbell Lunges (45\/30 lb)\r<br\/>15 Dumbbell Cleans (45\/30 lb)",
+        "workout_title": "For Time"
+    }, {
+        "title": "FiCT 16.1 Qualifier",
+        "score_types": "For LoadFor Rounds \/ Reps",
+        "workout": "Part A\r<br\/>From 0:00-6:00, AMRAP of:\r<br\/>6 Thrusters (35\/25 kg)\r<br\/>6 Toes-to-Bars\r<br\/>\r<br\/>Part B\r<br\/>From 6:00-9:00, establish:\r<br\/>1 rep max Snatch",
+        "workout_title": "AMRAP in 9 minutes"
+    }, {
+        "title": "Rapid Fire",
+        "score_types": "For Time",
+        "workout": "6 Snatches (50\/40 kg)\r<br\/>5 Snatches (60\/45 kg)\r<br\/>4 Snatches (70\/50 kg)\r<br\/>3 Snatches (80\/55 kg)\r<br\/>2 Snatches (90\/60 kg)\r<br\/>1 Snatches (100\/65 kg)\r<br\/>\r<br\/>Time cap: 4 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Doubles &#038; Oly",
+        "score_types": "For Time",
+        "workout": "50 Double-Unders\r<br\/>5 Squat Snatches (185\/135 lb)\r<br\/>50 Double-Unders\r<br\/>4 Squat Snatches (205\/145 lb)\r<br\/>50 Double-Unders\r<br\/>3 Squat Snatches (225\/155 lb)\r<br\/>50 Double-Unders\r<br\/>2 Squat Snatches (245\/165 lb)",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 10.1 (Central East)",
+        "score_types": "For Time",
+        "workout": "Muscle-Ups\r<br\/>Barbell Complexes (115\/65 lbs)",
+        "workout_title": "5-4-3-2-1 Reps For Time"
+    }, {
+        "title": "ACC 19.3 Qualifier",
+        "score_types": "For Time",
+        "workout": "30 Front Squats (50\/35 kg)\r<br\/>30 Kettlebell Snatches (24\/16 kg)",
+        "workout_title": "3 Rounds for Time"
+    }, {
+        "title": "AGOQ 18.2",
+        "score_types": "For Time",
+        "workout": "25 Chest-to-Bar Pull-Ups\r<br\/>5 Cleans (245\/170 lb)\r<br\/>\r<br\/>Time Cap: 15 minutes",
+        "workout_title": "4 Rounds for Time"
+    }, {
+        "title": "Ranch Mini-Chipper",
+        "score_types": "For Time",
+        "workout": "50 Wall Ball Shots (30\/20 lb)\r<br\/>25 Med-Ball GHD Sit-Ups (30\/20 lb)\r<br\/>Hill Sprint with Med Ball (30\/20 lb)",
+        "workout_title": "For Time"
+    }, {
+        "title": "Team Series 17.6",
+        "score_types": "For Time",
+        "workout": "Dumbbell Snatches (50\/35 lb)\r<br\/>Bar Muscle-Ups\r<br\/>\r<br\/>Time Cap: 30 minutes",
+        "workout_title": "21-15-9 Reps for Time (with a Partner)"
+    }, {
+        "title": "Regionals 9.1 (Rocky Mountain)",
+        "score_types": "For Time",
+        "workout": "8 Deadlifts (300\/195 lb)\r<br\/>400 meter Run",
+        "workout_title": "3 Rounds for Time"
+    }, {
+        "title": "Regionals 9.2 (Asia)",
+        "score_types": "For Time",
+        "workout": "750 meter Row\r<br\/>25 Pull-Ups\r<br\/>400 meter Farmer's Carry\r<br\/>25 Pull-Ups",
+        "workout_title": "For Time"
+    }, {
+        "title": "FTD 15.2 Qualifier",
+        "score_types": "For LoadFor Time",
+        "workout": "10-9-8-7-6-5-4-3-2-1 reps of:\r<br\/>Deadlifts\r<br\/>Handstand Push-Ups\r<br\/>\r<br\/>Time Cap: 10 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 16.6",
+        "score_types": "For Time",
+        "workout": "1000 meter Bike\r<br\/>100 feet Handstand Walk\r<br\/>10 Overhead Squats (225\/155 lb)\r<br\/>500 meter Row\r<br\/>50 Burpee Box Jump Overs\r<br\/>5 Overhead Squats (225\/155 lb)\r<br\/>\r<br\/>Time Cap: 16 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Aeneas",
+        "score_types": "For Time",
+        "workout": "5\/4 Peg Board Ascents\r<br\/>40 Thrusters (85\/55 lb)\r<br\/>33 feet Yoke Carry (425\/345 lb)\r<br\/>33 feet Yoke Carry (565\/405 lb)\r<br\/>33 feet Yoke Carry (665\/445 lb)\r<br\/>\r<br\/>Time Cap: 8 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 18.6",
+        "score_types": "For Time",
+        "workout": "4 Rope Climbs\r<br\/>16 Thrusters (155\/105 lb)\r<br\/>3 Rope Climbs\r<br\/>12 Thrusters (155\/105 lb)\r<br\/>2 Rope Climbs\r<br\/>8 Thrusters (155\/105 lb)\r<br\/>\r<br\/>Time Cap: 7 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 14.6",
+        "score_types": "For Time",
+        "workout": "50 calorie Row\r<br\/>50 Box Jump Overs (24\/18 in)\r<br\/>50 Deadlifts (180\/120 lbs)\r<br\/>50 Wall Ball Shots (20\/14 lbs)\r<br\/>50 Ring Dips\r<br\/>50 Wall Ball Shots (20\/14 lbs)\r<br\/>50 Deadlifts (180\/120 lbs)\r<br\/>50 Box Jump Overs (24\/18 in)\r<br\/>50 calorie Row\r<br\/>\r<br\/>Time Cap: 21 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 17.6",
+        "score_types": "For Time",
+        "workout": "30\/25 calorie Air Bike\r<br\/>20 Burpee Box Jump-Overs (30\/24 in)\r<br\/>10 Sandbag Cleans (150\/100 lb)\r<br\/>\r<br\/>Time Cap: 6 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Pendleton 1 &#038; Pendleton 2",
+        "score_types": "For Time",
+        "workout": "700 meter Swim\r<br\/>8 km Bike\r<br\/>11 km Run",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 9.3 (Northern California)",
+        "score_types": "For Time",
+        "workout": "22 Deadlifts (315\/185 lb)\r<br\/>Farmer's Carry (45\/25 lb) to top of inner loop of the hill\r<br\/>22 Dumbbell Thrusters (45\/25 lb)\r<br\/>Farmer's Carry (45\/25 lb) to bottom of inner loop\r<br\/>Run to Pull-Up Bar \r<br\/>22 Chest-to-Bar Pull-Ups\r<br\/>Run to top of outer loop\r<br\/>22 Overhead Squats (95\/65 lb)\r<br\/>Run to bottom of inner loop",
+        "workout_title": "For Time"
+    },
+    {
+        "title": "Regionals 10.4 (Central East)",
+        "score_types": "For Time",
+        "workout": "50 Box Jumps (24\/20 in)\r<br\/>40 Kettlebell Overhead Swings (24\/16 kg)\r<br\/>30 Burpees with Jump Over Sandbag\r<br\/>20 Sandbag Cleans from Ground to Front Squats (40\/20 lb)\r<br\/>10 Dumbbell Shoulder-to-Overheads (65\/40 lb)\r<br\/>20 Sandbag Cleans from Ground to Front Squats (40\/20 lb)\r<br\/>30 Burpees with Jump Over Sandbag\r<br\/>40 Kettlebell Overhead Swings (24\/16 kg)\r<br\/>50 Box Jumps (24\/20 in)",
+        "workout_title": "For Time"
+    }, {
+        "title": "Summer Crush",
+        "score_types": "For Time",
+        "workout": "30 calorie Row\r<br\/>\r<br\/>Then, 3 Rounds of:\r<br\/>10 Deadlifts (225\/185 lb)\r<br\/>10 Handstand Push-Ups",
+        "workout_title": "For Time"
+    }, {
+        "title": "MACC 19.2 Qualifier",
+        "score_types": "For LoadFor Time",
+        "workout": "Part A\r<br\/>From 0:00-10:00, find a heavy complex of:\r<br\/>1 Snatch\r<br\/>2 Overhead Squats\r<br\/>\r<br\/>Part B\r<br\/>From 10:01, perform:\r<br\/>40 calorie Assault Bike\r<br\/>20 Bar-Facing Burpees\r<br\/>15 Squat Snatches (155\/105 lb)\r<br\/>20 Bar-Facing Burpees\r<br\/>40 calorie Assault Bike",
+        "workout_title": ""
+    }, {
+        "title": "Regionals 10.5 (Asia)",
+        "score_types": "For Time",
+        "workout": "15 meter Tire Flips (470\/330 lbs)\r<br\/>12 meter Sled Drive (135\/65 lbs)\r<br\/>5x25 meter Sandbag Suicides (75 lbs)\r<br\/>5 laps Wheel Barrow Run ",
+        "workout_title": "For Time"
+    }, {
+        "title": "GG Qualifier 16.1",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "10 Squat Clean-and-Jerks (135\/85 lb)\r<br\/>15 Bar-Facing Burpees\r<br\/>8 Squat Clean-and-Jerks (185\/115 lb)\r<br\/>15 Bar-Facing Burpees\r<br\/>6 Squat Clean-and-Jerks (225\/145 lb)\r<br\/>15 Bar-Facing Burpees\r<br\/>4 Squat Clean-and-Jerks (275\/175 lb)\r<br\/>15 Bar-Facing Burpees\r<br\/>2 Squat Clean-and-Jerks (305\/200 lb)\r<br\/>15 Bar-Facing Burpees\r<br\/>Max Reps of Squat Clean-and-Jerks (315\/205 lb)",
+        "workout_title": "AMRAP in 15 minutes"
+    }, {
+        "title": "GG Qualifier 18.4",
+        "score_types": "For Time",
+        "workout": "Hang Squat Cleans (135\/95 lb)\r<br\/>Bar Facing Burpees\r<br\/>\r<br\/>Time Cap: 8 minutes",
+        "workout_title": "3-6-9-12-9-6-3 Reps for Time"
+    }, {
+        "title": "WZA PowerDot 7k &#038; Wreck Bag Run",
+        "score_types": "For Time",
+        "workout": "7000 meter Run\r<br\/>Then,\r<br\/>1 mile Run with Wreck Bag",
+        "workout_title": "For Time"
+    }, {
+        "title": "SAB 16.3",
+        "score_types": "For LoadFor Rounds \/ Reps",
+        "workout": "From 0:00-10:00:\r<br\/>2-4-6-8-10-12-14-16-18... Reps\r<br\/>Chest-to-Bar Pull-Ups\r<br\/>Box Jump Overs (24\/20 in)\r<br\/>\r<br\/>Then, from 10:00-18:00:\r<br\/>3 rep max Shoulder-to-Overheads",
+        "workout_title": "AMRAP (with a partner) in 18 minutes"
+    }, {
+        "title": "ACC 19.2 Qualifier",
+        "score_types": "For LoadFor Time",
+        "workout": "Part A\r<br\/>30-20-10 Reps of:\r<br\/>Dumbbell Deadlifts (2x35\/22.5 kg)\r<br\/>Burpee Box Overs (24\/20 in)\r<br\/>\r<br\/>Part B\r<br\/>In the remaining time, perform:\r<br\/>3 rep max Overhead Squat (from the ground)\r<br\/>\r<br\/>Time Cap: 20 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "AGOQ 18.3",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "50 Wall Ball Shots (20\/14 lb in 10\/9 ft)\r<br\/>100 Double-Unders\r<br\/>50 ft Handstand Walk\r<br\/>100 Double-Unders\r<br\/>50 calorie Row\r<br\/>100 Double-Unders\r<br\/>50 ft Handstand Walk\r<br\/>100 Double-Unders",
+        "workout_title": "AMRAP in 20 minutes"
+    }, {
+        "title": "FTD 14.1 Qualifier",
+        "score_types": "For Time",
+        "workout": "Thrusters (95\/65 lb)\r<br\/>Pull-Ups",
+        "workout_title": "21-15-9 Reps for Time"
+    }, {
+        "title": "AGOQ 18.4",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "9 Handstand Push-Ups\r<br\/>6 Burpees\r<br\/>3 Snatches (165\/115 lb)",
+        "workout_title": "AMRAP in 5 minutes"
+    }, {
+        "title": "Regionals 13.2",
+        "score_types": "For Load",
+        "workout": "3 Overhead Squats\r<br\/>\r<br\/>Time Cap: 7 minutes",
+        "workout_title": "For Load"
+    }, {
+        "title": "Regionals 13.3",
+        "score_types": "For Time",
+        "workout": "30 Burpee Muscle-Ups\r<br\/>\r<br\/>Time Cap: 7 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "VetWOD 18.2",
+        "score_types": "For Time",
+        "workout": "50 Thrusters (95\/65 lb)\r<br\/>40 Overhead Squats (95\/65 lb)\r<br\/>30 Toes-to-Bars\r<br\/>20 Front Rack Dumbbell Lunges (2 x 50\/35 lb)\r<br\/>10 Handstand Push-Ups\r<br\/>\r<br\/>Time Cap: 15 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "SID 19.1 Qualifier",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "15 calorie Row\r<br\/>15 Toes-to-Bars\r<br\/>15 Power Snatches (42.5\/30 kg)",
+        "workout_title": "AMRAP in 14 minutes"
+    }, {
+        "title": "Regionals 11.3",
+        "score_types": "For Time",
+        "workout": "Deadlifts (315\/205 lb)\r<br\/>Box Jumps (30\/24 in)",
+        "workout_title": "21-15-9 Reps for Time"
+    }, {
+        "title": "Pier Paddle",
+        "score_types": "For Time",
+        "workout": "500 meter Swim\r<br\/>2 mile Paddle\r<br\/>500 meter Swim\r<br\/>\r<br\/>Time Cap: 60 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 9.2 (Rocky Mountain)",
+        "score_types": "For Time",
+        "workout": "10 Chest-to-Bar Pull-Ups\r<br\/>10 Front Squats (165\/105 lb)\r<br\/>10 Burpees",
+        "workout_title": "3 Rounds for Time"
+    }, {
+        "title": "Regionals 9.1 (Australia)",
+        "score_types": "For Time",
+        "workout": "10 Clean-and-Jerks (60\/40 kg)\r<br\/>15 Ring Dips\r<br\/>20 Kettlebell Swings (24\/16 kg)",
+        "workout_title": "3 Rounds for Time"
+    }, {
+        "title": "The Battleground",
+        "score_types": "For Time",
+        "workout": "Rescue Randy Drag (185\/165 lb)\r<br\/>2 Rope Climbs\r<br\/>400 meter Run\r<br\/>Obstacle Course\r<br\/>400 meter Run\r<br\/>2 Rope Climbs\r<br\/>Rescue Randy Drag (185\/165 lb)\r<br\/>\r<br\/>Wear 20\/14 lb weight vest.\r<br\/>\r<br\/>Time Cap: 11\/12 minutes",
+        "workout_title": "For Time"
+    },
+    {
+        "title": "Two-Stroke Pull",
+        "score_types": "For Time",
+        "workout": "300 meter Run\r<br\/>20\/15 calorie Assault Bike\r<br\/>44 ft Sled Pull\r<br\/>\r<br\/>Time Cap: 18 minutes",
+        "workout_title": "5 Rounds for Time"
+    }, {
+        "title": "Regionals 10.3 (Africa)",
+        "score_types": "For Time",
+        "workout": "250 meter Row\r<br\/>5 Squat Cleans (75\/45 kg)\r<br\/>5 Handstand Push-Ups",
+        "workout_title": "5 Rounds for Time"
+    }, {
+        "title": "Regionals 10.2 (Australia)",
+        "score_types": "For Time",
+        "workout": "2x20 meter Sled Pulls (20\/10 kg)\r<br\/>21 Box Jumps\r<br\/>21 Kettlebell Swings (32\/24 kg)\r<br\/>\r<br\/>2x20 meter Sled Pulls (40\/20 kg)\r<br\/>15 Box Jumps\r<br\/>15 Kettlebell Swings (32\/24 kg)\r<br\/>\r<br\/>2x20 meter Sled Pulls (60\/30 kg)\r<br\/>9 Box Jumps\r<br\/>9 Kettlebell Swings (32\/24 kg)",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 18.3",
+        "score_types": "",
+        "workout": "9 Muscle-Ups\r<br\/>Obstacle Handstand Walk\r<br\/>36 Pistols\r<br\/>Obstacle Handstand walk\r<br\/>9 Muscle-Ups\r<br\/>Obstacle Handstand Walk\r<br\/>45 Pistols\r<br\/>Obstacle Handstand walk\r<br\/>9 Muscle-Ups\r<br\/>Obstacle Handstand Walk\r<br\/>54 Pistols\r<br\/>\r<br\/>Time Cap: 13 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 10.1 (Central\/South America)",
+        "score_types": "For Time",
+        "workout": "5 Pull-Ups\r<br\/>10 Push-Ups\r<br\/>15 Air Squats\r<br\/>10 Thrusters (115\/75 lb)\r<br\/>\r<br\/>Time Cap: 25 minutes",
+        "workout_title": "7 Rounds for Time"
+    }, {
+        "title": "Regionals 12.2",
+        "score_types": "For Time",
+        "workout": "2000 meter Row\r<br\/>50 Pistols alternating One-Legs\r<br\/>30 Hang Cleans (225\/135 lbs)",
+        "workout_title": "For Time"
+    }, {
+        "title": "FiCT 19.3 Qualifier",
+        "score_types": "For LoadFor Time",
+        "workout": "Part A\r<br\/>For Time\r<br\/>From 0:00-12:00, perform:\r<br\/>21 Alternating Dumbbell Snatches (50\/35 lb)\r<br\/>150 Double-Unders\r<br\/>9 Ring Muscle-Ups\r<br\/>\r<br\/>Part B\r<br\/>From 12:00-14:00, establish:\r<br\/>1 rep max Snatch",
+        "workout_title": ""
+    }, {
+        "title": "Regionals 12.6",
+        "score_types": "For Time",
+        "workout": "3 Rounds of:\r<br\/>7 Deadlifts (345\/225 lb)\r<br\/>7 Muscle-Ups\r<br\/>3 Rounds of:\r<br\/>21 Wall Ball Shots (20\/14 lb)\r<br\/>21 Toes-to-Bars\r<br\/>Then:\r<br\/>100 foot Farmer Carry (100\/70 lb dumbbells)\r<br\/>28 Burpee Box Jumps (24\/20 in)\r<br\/>100 foot Farmer Carry (100\/70 lb dumbbells)\r<br\/>3 Muscle-Ups",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 10.2 (Southwest)",
+        "score_types": "For Time",
+        "workout": "5\/2 Muscle-Ups\r<br\/>10 Power Cleans (135\/85 lb)\r<br\/>200 meter Run",
+        "workout_title": "5 Rounds for Time"
+    }, {
+        "title": "Regionals 9.4 (Canada East)",
+        "score_types": "For Time",
+        "workout": "5000 meter Trail Run with 3 mini-events along the trail\r<br\/>\r<br\/>Mini-event 1:\r<br\/>3 Tire Flips (500\/ 250 lb) in 30 seconds\r<br\/>\r<br\/>Mini-event 2: \r<br\/>3 Keg Clean and Presses (100\/50 lb) in 30 seconds\r<br\/>\r<br\/>Mini-event 3:\r<br\/>100-150 meter Sandbag Carry (60\/30 lb) ",
+        "workout_title": "For Time"
+    }, {
+        "title": "WZA Bay Watch",
+        "score_types": "For Time",
+        "workout": "5000 meter Run",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 9.3 (Europe)",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "250 meter Row\r<br\/>10 Burpees (8-foot target)\r<br\/>10 Ring Dips (shoulder below elbow)",
+        "workout_title": "AMRAP in 20 minutes"
+    }, {
+        "title": "GG Qualifier 17.1",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "10 Hang Squat Cleans (135\/95 lb)\r<br\/>10 Front Rack Reverse Lunges (135\/95 lb)\r<br\/>20 Chest-to-Bar Pull-Ups",
+        "workout_title": "AMRAP in 12 minutes"
+    }, {
+        "title": "Regionals 10.2 (North Central)",
+        "score_types": "For Time",
+        "workout": "1400 meter Run",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 15.2",
+        "score_types": "For Time",
+        "workout": "21 Thrusters (115\/75 lbs)\r<br\/>12 Rope Climbs (15 ft)\r<br\/>15 Thrusters (115\/75 lbs)\r<br\/>9 Rope Climbs (15 ft)\r<br\/>9 Thrusters (115\/75 lbs)\r<br\/>6 Rope Climbs (15 ft)\r<br\/>\r<br\/>Time Cap: 16 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 13.7",
+        "score_types": "For Time",
+        "workout": "2 Rope Climb (15 ft)\r<br\/>100 foot Sprint\r<br\/>4 Squat Cleans (225\/135 lbs)\r<br\/>100 foot Sprint\r<br\/>\r<br\/>Time Cap: 10 minutes",
+        "workout_title": "4 Rounds for Time"
+    }, {
+        "title": "Regionals 11.1",
+        "score_types": "For Time",
+        "workout": "1000 meter Run\r<br\/>30 Handstand Push-Ups\r<br\/>1000 meter Row",
+        "workout_title": "For Time"
+    }, {
+        "title": "MACC 19.1 Qualifier",
+        "score_types": "For Time",
+        "workout": "75 Wall Ball Shots (20\/14 lb)\r<br\/>100 calorie Row\r<br\/>75 Wall Ball Shots (20\/14 lb)",
+        "workout_title": "For Time"
+    }, {
+        "title": "FTD 17.2 Qualifier",
+        "score_types": "For Load",
+        "workout": "1 Rep Max Squat Clean",
+        "workout_title": "For Load"
+    }, {
+        "title": "Thick &#8216;N Quick",
+        "score_types": "For Time",
+        "workout": "4 Rope Climbs \r<br\/>3 Overhead Squats (245\/165 lb)\r<br\/>\r<br\/>Time Cap: 4 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "WZA Special Delivery",
+        "score_types": "For Time",
+        "workout": "5\/4 Rope Climbs\r<br\/>45 feet Sandbag Carry (200\/140 lb)\r<br\/>9 Thrusters (115\/80 lb)\r<br\/>45 feet Sandbag Carry (200\/140 lb)\r<br\/>4\/3 Rope Climbs\r<br\/>45 feet Sandbag Carry (200\/140 lb)\r<br\/>15 Thrusters (115\/80 lb)\r<br\/>45ft Sandbag Carry (200\/140 lb)\r<br\/>3\/2 Rope Climbs\r<br\/>45ft Sandbag Carry (200\/140 lb)\r<br\/>21 Thrusters (115\/80 lb)",
+        "workout_title": "For Time"
+    },
+    {
+        "title": "Regionals 9.1 (Europe)",
+        "score_types": "For Time",
+        "workout": "400 meter Run\r<br\/>21 Kettlebell Swings (32\/20 kg)\r<br\/>12 Chest-to-Bar Pull-Ups",
+        "workout_title": "3 Rounds for Time"
+    }, {
+        "title": "Regionals 9.1 (Hell&#8217;s Half Acre)",
+        "score_types": "For Time",
+        "workout": "500 meter Row\r<br\/>10 Squat Clean and Jerks (155\/105 lb)",
+        "workout_title": "3 Rounds for Time"
+    }, {
+        "title": "GG Qualifier 18.2",
+        "score_types": "For Time",
+        "workout": "20-18-16-14-12-10-8-6-4-2 reps of:\r<br\/>Wall Ball Shots (20\/14 lb, 10\/9 ft)\r<br\/>\r<br\/>10-9-8-7-6-5-4-3-2-1 reps of:\r<br\/>Toes-to-Bars\r<br\/>\r<br\/>Time Cap: 12 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 10.1 (Australia)",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "Max Reps Ground-to-Overheads (50\/30 kg)",
+        "workout_title": "For Reps  in 5 minutes"
+    }, {
+        "title": "P.S.",
+        "score_types": "For Time",
+        "workout": "800 meter Row\r<br\/>600 meter SkiErg\r<br\/>40 Dumbbell Squats (35\/20 lb)\r<br\/>\r<br\/>Time Cap: 21\/23 minutes",
+        "workout_title": "2 Rounds for Time"
+    }, {
+        "title": "Regionals 15.6",
+        "score_types": "For Time",
+        "workout": "25 calorie Row\r<br\/>16 Chest-to-Bar Pull-Ups\r<br\/>9 Strict Deficit Handstand Push-Ups\r<br\/>\r<br\/>Time Cap: 16 minutes",
+        "workout_title": "5 Rounds for Time"
+    }, {
+        "title": "Regionals 10.3 (Central East)",
+        "score_types": "For Load",
+        "workout": "1 rep max Deadlift",
+        "workout_title": "For Load"
+    }, {
+        "title": "GG Qualifier 17.4",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "6 Ring Muscle-Ups\r<br\/>12 Shoulder-to-Overheads (155\/105 lb)\r<br\/>15 Burpee Box Jump Overs (24\/20 in)",
+        "workout_title": "AMRAP in 10 minutes"
+    }, {
+        "title": "The Olympian",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "20 Ground-to-Overhead (95\/65 lbs)\r<br\/>7 Bar-Facing Burpees\r<br\/>15 Ground-to-Overhead (135\/95 lbs)\r<br\/>7 Bar-Facing Burpees\r<br\/>10 Ground-to-Overhead (155\/105 lbs)\r<br\/>7 Bar-Facing Burpees\r<br\/>5 Ground-to-Overhead (185\/65 lbs)\r<br\/>7 Bar-Facing Burpees\r<br\/>Max Ground-to-Overhead (225\/155 lbs)",
+        "workout_title": "AMRAP in 9 minutes"
+    }, {
+        "title": "Rope and Yoke",
+        "score_types": "For Time",
+        "workout": "300 meter Run\r<br\/>4 Rope Climbs\r<br\/>44 foot Yoke Carry\r<br\/>300 meter Run\r<br\/>3 Rope Climbs\r<br\/>44 foot Yoke Carry\r<br\/>300 meter Run\r<br\/>2 Rope Climbs\r<br\/>44 foot Yoke Carry\r<br\/>300 meter Run\r<br\/>1 Rope Climb\r<br\/>44 foot Yoke Carry\r<br\/>\r<br\/>Time Cap: 16 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 9.2 (Northeast)",
+        "score_types": "For Time",
+        "workout": "2000 meter Row",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 17.2",
+        "score_types": "For Time",
+        "workout": "Dumbbell Snatches (80\/55 lb)\r<br\/>Ring Dips\r<br\/>\r<br\/>Time Cap: 6 minutes",
+        "workout_title": "21-15-9 Reps for Time"
+    }, {
+        "title": "GG Qualifier 18.5",
+        "score_types": "For Time",
+        "workout": "2 Rounds of:\r<br\/>6 Ring Muscle-Ups\r<br\/>12 Deadlifts (225\/155 lb)\r<br\/>18 Box Jump Overs (24\/20 in)\r<br\/>\r<br\/>Then, 2 Rounds of:\r<br\/>4 Ring Muscle-Ups\r<br\/>8 Deadlifts (315\/205 lb)\r<br\/>12 Box Jump Overs (24\/20 in)\r<br\/>\r<br\/>Finally, 2 Rounds of:\r<br\/>2 Ring Muscle-Ups\r<br\/>4 Deadlifts (365\/235 lb)\r<br\/>8 Box Jump Overs (24\/20 in)\r<br\/>\r<br\/>Time Cap: 18 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Madison Triplus",
+        "score_types": "For Time",
+        "workout": "500 meter Swim\r<br\/>1000 meter Paddle\r<br\/>2000 meter Run\r<br\/>\r<br\/>Time Cap: 40 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Bicouplet 2",
+        "score_types": "For Time",
+        "workout": "Snatches (135\/85 lb)\r<br\/>Bar Muscle-Ups\r<br\/>\r<br\/>Time Cap: 6 minutes\r",
+        "workout_title": "12-9-6 Reps for Time"
+    }, {
+        "title": "Regionals 9.1 (Canada West)",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "10 Wall Ball Shots (20\/14 lb)\r<br\/>10 Box Jumps (20 in)\r<br\/>10 Deadlifts (205\/145 lb)\r<br\/>10 Burpees",
+        "workout_title": "AMRAP in 20 minutes"
+    }, {
+        "title": "WZAOC 18.7 Qualifier",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "8 Burpee Box Jump Overs (24\/20 in)\r<br\/>8 Hang Power Snatches (115\/80 lb)\r<br\/>8 Thrusters (115\/80 lb)",
+        "workout_title": "Death By Every 2 Minutes on the Minute"
+    }, {
+        "title": "GG Qualifier 17.2",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "6 Deadlifts (225\/155 lb)\r<br\/>6 Bar Facing Burpees",
+        "workout_title": "AMRAP in 6 minutes"
+    }, {
+        "title": "Regionals 14.4",
+        "score_types": "For Time",
+        "workout": "Strict Handstand Push-Ups\r<br\/>Front Squats (195\/125 lbs)\r<br\/>Burpees\r<br\/>\r<br\/>Time Cap: 20 minutes",
+        "workout_title": "21-15-9-6-3 Reps For Time"
+    }, {
+        "title": "SAB 17.3",
+        "score_types": "For Time",
+        "workout": "50 Toes-to-Bars\r<br\/>40 Dumbbell Snatches (22.5\/15 kg)\r<br\/>50 Unbroken Double-Unders (Athlete A)\r<br\/>50 Chest-to-Bar Pull-Ups\r<br\/>40 Dumbbell Thrusters (22.5\/15 kg)\r<br\/>50 Unbroken Double-Unders (Athlete B)",
+        "workout_title": "For Time (with a partner)"
+    }, {
+        "title": "Team Series 18.7",
+        "score_types": "For Load",
+        "workout": "Perform one rep max of each:\r<br\/>Deadlift\r<br\/>Hang Clean\r<br\/>Hang Clean-and-Jerk\r<br\/>\r<br\/>Time Cap: 10 minutes",
+        "workout_title": "For Load (with a Partner)"
+    },
+    {
+        "title": "GG Qualifier 18.6",
+        "score_types": "For Time",
+        "workout": "150 Double-Unders\r<br\/>75 ft Front Rack Dumbbell Walking Lunges (50\/35 lb)\r<br\/>50 Dumbbell Thrusters (50\/35 lb)\r<br\/>75 ft Front Rack Dumbbell Walking Lunges (50\/35 lb)\r<br\/>150 Double-Unders",
+        "workout_title": "For Time"
+    }, {
+        "title": "Team Series 17.4",
+        "score_types": "For Time",
+        "workout": "100 calorie Row (switch as needed)\r<br\/>100 Toes-to-Bars (total)",
+        "workout_title": "For Time (with a Partner)"
+    }, {
+        "title": "The Triple 8",
+        "score_types": "For LoadFor Rounds \/ Reps",
+        "workout": "AMRAP from 0:00-6:00: \r<br\/>8 Snatches (40\/30 kg)\r<br\/>8 Toes-to-Bars\r<br\/>8 Box Jumps (24\/20 in)\r<br\/>\r<br\/>Then, from 6:00-10:00:\r<br\/>1 rep max Hang Snatch",
+        "workout_title": "With a Running Clock in 10 minutes"
+    }, {
+        "title": "FTD 17.4 Qualifier",
+        "score_types": "For Rounds \/ RepsFor Time",
+        "workout": "Part A\r<br\/>Max Reps in 2 minutes of:\r<br\/>Shoulder-Overheads (115\/75 lb)\r<br\/>\r<br\/>Part B\r<br\/>From 2:00-10:00, perform one round of:\r<br\/>100 Double-Unders\r<br\/>21 Burpee Box Jumps (24\/20 in)\r<br\/>75 Double-Unders \r<br\/>15 Burpee Box Jumps (24\/20 in)\r<br\/>50 Double-Unders\r<br\/>9 Burpee Box Jumps (24\/20 in)",
+        "workout_title": "AMRAP in 10 minutes"
+    }, {
+        "title": "Regionals 9.2 (Hell&#8217;s Half Acre)",
+        "score_types": "For Time",
+        "workout": "50 Chest-to-Bar Pull-Ups\r<br\/>50 Burpees",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 10.2 (Central East)",
+        "score_types": "For Time",
+        "workout": "5000 meter Trail Run\r<br\/>\r<br\/>\"with sandbags on a very large hill\"",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 14.5",
+        "score_types": "For Time",
+        "workout": "1 Legless Rope Climb (14 ft)\r<br\/>200 foot Sprint\r<br\/>\r<br\/>Time Cap : 11 minutes",
+        "workout_title": "10 Rounds for Time"
+    }, {
+        "title": "SAB 17.2",
+        "score_types": "For Time",
+        "workout": "40 Russian Kettlebell Swings (32\/24 kg)\r<br\/>10 Wall Ball Shots (9\/6 kg, 3\/2.75 m)\r<br\/>30 Russian Kettlebell Swings (32\/24 kg)\r<br\/>20 Wall Ball Shots (9\/6 kg, 3\/2.75 m)\r<br\/>500 meter Row\r<br\/>20 Russian Kettlebell Swings (32\/24 kg)\r<br\/>30 Wall Ball Shots (9\/6 kg, 3\/2.75 m)\r<br\/>10 Russian Kettlebell Swings (32\/24 kg)\r<br\/>40 Wall Ball Shots (9\/6 kg, 3\/2.75 m)",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 13.1",
+        "score_types": "For Time",
+        "workout": "1000 meter Row\r<br\/>50 Thrusters (45 lbs)\r<br\/>30 Pull-Ups\r<br\/>\r<br\/>Time Cap: 10 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "FiCT 19.1 Qualifier",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "50 calorie Row\r<br\/>10 Burpees Over the Rower\r<br\/>40 Wall Ball Shots (20\/14 lb)\r<br\/>10 Burpees Over the Rower\r<br\/>30 Deadlifts (135\/95 lb)\r<br\/>10 Burpees Over the Rower\r<br\/>20 Handstand Push-Ups\r<br\/>10 Burpees Over the Rower\r<br\/>10 Thruster (135\/95 lb)\r<br\/>10 Burpees Over the Rower",
+        "workout_title": "AMRAP in 15 minutes"
+    }, {
+        "title": "AGOQ 17.2",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "0:00-4:00:\r<br\/>25 Toes-to-Bars\r<br\/>50 Double Unders\r<br\/>15 Squat Cleans (135\/85 lb)\r<br\/>\r<br\/>If completed before 4:00, then until 8:00:\r<br\/>25 Toes-to-Bars\r<br\/>50 Double Unders\r<br\/>13 Squat Cleans (185\/115 lb)\r<br\/>\r<br\/>If completed before 8:00, then until 12:00:\r<br\/>25 Toes-to-Bars\r<br\/>50 Double Unders\r<br\/>11 Squat Cleans (225\/145 lb)\r<br\/>\r<br\/>If completed before 12:00, then until 16:00:\r<br\/>25 Toes-to-Bars\r<br\/>50 Double Unders\r<br\/>9 Squat Cleans (275\/175 lb)\r<br\/>\r<br\/>If completed before 16:00, then until 20:00:\r<br\/>25 Toes-to-Bars\r<br\/>50 Double Unders\r<br\/>7 Squat Cleans (315\/205 lb)",
+        "workout_title": "AMRAP in 20 minutes"
+    }, {
+        "title": "Regionals 10.2 (Asia)",
+        "score_types": "",
+        "workout": "5\/3 Handstand Push-Ups\r<br\/>7 Snatches (115\/75 lb)",
+        "workout_title": "AMRAP in 12 minutes"
+    }, {
+        "title": "Ocean Swim",
+        "score_types": "For Time",
+        "workout": "500 meter Swim",
+        "workout_title": "For Time"
+    }, {
+        "title": "Steel Rain",
+        "score_types": "For Time",
+        "workout": "21 Wall Ball Shots (9\/6 kg)\r<br\/>21 Cleans (50\/35 kg)\r<br\/>15 Wall Ball Shots (9\/6 kg)\r<br\/>15 Cleans (50\/35 kg)\r<br\/>9 Wall Ball Shots (9\/6 kg)\r<br\/>9 Cleans (50\/35 kg)\r<br\/>9 Bar Muscle-Ups\r<br\/>9 Thrusters (50\/35 kg)\r<br\/>7 Bar Muscle-Ups\r<br\/>7 Thrusters (50\/35 kg)\r<br\/>5 Bar Muscle-Ups\r<br\/>5 Thrusters (50\/35 kg)\r<br\/>\r<br\/>Time cap: 15 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 10.3 (South Central)",
+        "score_types": "For Time",
+        "workout": "100 Double Unders\r<br\/>3 Rounds:\r<br\/>10 Deadlifts (275\/185 lb)\r<br\/>1 Sandbag Run (75\/50 lb)\r<br\/>\r<br\/>Then,\r<br\/>1000 meter Row",
+        "workout_title": "For Time"
+    }, {
+        "title": "GG Qualifier 16.3",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "12 Chest-to-Bar Pull-Ups\r<br\/>8 Deadlifts (245\/165 lb)\r<br\/>12 Handstand Push-Ups\r<br\/>8 Deadlifts (245\/165 lb)",
+        "workout_title": "AMRAP in 12 minutes"
+    }, {
+        "title": "Regionals 16.3",
+        "score_types": "For Time",
+        "workout": "104 Wall Ball Shots (24\/14 lb)\r<br\/>52 Pull-Ups\r<br\/>\r<br\/>Time Cap: 6 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 10.3 (North Central)",
+        "score_types": "For Time",
+        "workout": "500 meter Row\r<br\/>12 Overhead Squats (115\/75 lb)\r<br\/>50 Double-Unders",
+        "workout_title": "3 Rounds for Time"
+    }, {
+        "title": "Regionals 10.4 (North Central)",
+        "score_types": "For Time",
+        "workout": "10 Snatches (145\/95 lb)\r<br\/>20 Chest-to-Bar Pull-Ups\r<br\/>30 Stick Jumps (24\/20 in)\r<br\/>40 Ball Slams (45\/30 lb)\r<br\/>30 Stick Jumps (24\/20 in)\r<br\/>20 Chest-to-Bar Pull-Ups\r<br\/>10 Snatches (145\/95 lb)",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 9.2 (Canada West)",
+        "score_types": "For Time",
+        "workout": "1000 meter Run",
+        "workout_title": "For Time"
+    }, {
+        "title": "WZA Assault Fitness Triplet",
+        "score_types": "For Time",
+        "workout": "9\/7 Ring Muscle-Ups\r<br\/>12 Power Snatches (115\/80 lb)\r<br\/>15 calorie Bike\r<br\/>\r<br\/>Time Cap: 12 minutes",
+        "workout_title": "3 Rounds for Time"
+    },
+    {
+        "title": "WZA Iceage Meals Strong Swim",
+        "score_types": "For Time",
+        "workout": "200 meter Swim\r<br\/>150 Air Squats\r<br\/>10 Sandbag Cleans (150\/100 lb)\r<br\/>50 meter Sandbag Bear Hug Carry\r<br\/>\r<br\/>Time Cap: 21 minutes\r",
+        "workout_title": "2 Rounds for Time"
+    }, {
+        "title": "Regionals 14.7",
+        "score_types": "For Time",
+        "workout": "64 Pull-Ups\r<br\/>8 Overhead Squats (205\/135 lbs)\r<br\/>\r<br\/>Time Cap: 6 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 13.6",
+        "score_types": "For Time",
+        "workout": "100 Double Unders\r<br\/>50 Handstand Push-Ups\r<br\/>40 Toes-to-Bars\r<br\/>30 Shoulder-to-Overheads with Axle (160\/100 lbs)\r<br\/>90 foot Walking Lunges with Axle (160\/100 lbs)\r<br\/>\r<br\/>Time Cap: 15 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "SAB 18.2",
+        "score_types": "For LoadFor Rounds \/ Reps",
+        "workout": "2-4-6-8-10-12-14-16-18... Reps\r<br\/>Chest-to-Bar Pull-Ups\r<br\/>Box Jump Overs (24\/20 in)\r<br\/>\r<br\/>Then, from 10:00-18:00:\r<br\/>3 rep max Shoulder-to-Overhead",
+        "workout_title": "AMRAP (with a partner) in 18 minutes"
+    }, {
+        "title": "AGOQ 17.3",
+        "score_types": "For Time",
+        "workout": "Shoulder-to-Overheads (135\/95 lb)\r<br\/>Chest-to-Bar Pull-Ups",
+        "workout_title": "21-15-9 Reps for Time"
+    }, {
+        "title": "GG Qualifier 17.5",
+        "score_types": "For Time",
+        "workout": "60 calorie Row\r<br\/>80 Wall Ball Shots (20\/14 lb, 10\/9 ft)\r<br\/>100 Double-Unders\r<br\/>40 calorie Row\r<br\/>60 Wall Ball Shots (20\/14 lb, 10\/9 ft)\r<br\/>80 Double-Unders\r<br\/>20 calorie Row\r<br\/>40 Wall Ball Shots (20\/14 lb, 10\/9 ft)\r<br\/>60 Double-Unders",
+        "workout_title": "For Time"
+    }, {
+        "title": "Regionals 11.4",
+        "score_types": "For Time",
+        "workout": "100 Pull-Ups\r<br\/>100 Kettlebell Swings (24\/16 kg)\r<br\/>100 Double Unders\r<br\/>100 Overhead Squats (95\/65 lb)",
+        "workout_title": "For Time"
+    }, {
+        "title": "MACC 19.5 Qualifier",
+        "score_types": "For Time",
+        "workout": "50 Air Squats\r<br\/>7 Ring Muscle-Ups\r<br\/>1 round of \"DT\"*\r<br\/>\r<br\/>*\"DT\"\r<br\/>12 Deadlifts (185\/125 lb)\r<br\/>9 Hang Power Cleans (185\/125 lb)\r<br\/>6 Shoulder-to-Overhead (185\/125 lb)\r<br\/>\r<br\/>Time Cap: 30 minutes",
+        "workout_title": "3 Rounds for Time"
+    }, {
+        "title": "Regionals 10.3 (Northeast)",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "7 Deadlifts (225\/135 lb)\r<br\/>7 Handstand Push-Ups\r<br\/>14 Box Jumps",
+        "workout_title": "AMRAP in 7 minutes"
+    }, {
+        "title": "Hard Target",
+        "score_types": "For Time",
+        "workout": "Chest-to-Bar Pull-Ups\r<br\/>Shoulder-to-Overheads (60\/40 kg)\r<br\/>Burpee Ball Slams (50\/30 kg)\r<br\/>\r<br\/>Time Cap: 7 minutes",
+        "workout_title": "12-9-6 Reps For Time"
+    }, {
+        "title": "Pedal to the Metal 2",
+        "score_types": "For Time",
+        "workout": "12 Parallette Handstand Push-Ups\r<br\/>24 calorie Row\r<br\/>16 calorie Bike\r<br\/>8 Kettlebell Deadlifts (203\/124 lb)\r<br\/>\r<br\/>Time Cap: 7 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "WZA Online Challenge 17.2",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "21-15-9 Reps of:\r<br\/>Deadlifts (225\/155 lb)\r<br\/>Overhead Squats (135\/105 lb)\r<br\/>\r<br\/>50 Double-Unders after each Round",
+        "workout_title": "AMRAP in 7 minutes"
+    }, {
+        "title": "WZA Online Challenge 17.5",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "20 Handstand Push-Ups\r<br\/>20 Pistols\r<br\/>20 Pull-Ups\r<br\/>20 Wall Balls (20\/14 lbs) (10ft)",
+        "workout_title": "AMRAP in 17 minutes"
+    }, {
+        "title": "WZA Circus Act",
+        "score_types": "For Time",
+        "workout": "20 feet Obstacle Handstand Walk\r<br\/>5 Snatches (205\/130 lb)\r<br\/>20 feet Obstacle Handstand Walk\r<br\/>3 Snatches (225\/145 lb)\r<br\/>20 feet Obstacle Handstand Walk\r<br\/>1 Snatches (245\/155 lb)\r<br\/>\r<br\/>Time Cap: 6 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "GG Qualifier 15.4",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "10 Deadlifts (225\/155 lb)\r<br\/>5 Ring Muscle-Ups\r<br\/>10 Deadlifts (255\/175 lb)\r<br\/>5 Ring Muscle-Ups\r<br\/>10 Deadlifts (285\/195 lb)\r<br\/>5 Ring Muscle-Ups\r<br\/>10 Deadlifts (315\/215 lb)\r<br\/>5 Ring Muscle-Ups\r<br\/>10 Deadlifts (345\/235 lb)\r<br\/>5 Ring Muscle-Ups\r<br\/>10 Deadlifts (375\/255 lb)\r<br\/>Max Reps of Ring Muscle-Ups",
+        "workout_title": "AMRAP in 13 minutes"
+    }, {
+        "title": "FiCT 16.3 Qualifier",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "Part A\r<br\/>From 0:00-7:00, AMRAP of:\r<br\/>3 Overhead Squats (70\/45 kg)\r<br\/>3 Lateral Burpees\r<br\/>30 Double-Unders\r<br\/>6 Overhead Squats (70\/45 kg)\r<br\/>6 Lateral Burpees\r<br\/>30 Double-Unders\r<br\/>\r<br\/>If you complete the round of 6, complete a round of 9, then go on to 12, etc.\r<br\/>\r<br\/>Part B\r<br\/>From 7:00-10:00, AMRAP of:\r<br\/>Muscle-Ups",
+        "workout_title": "AMRAP in 10 minutes"
+    }, {
+        "title": "Regionals 9.2 (Northern California)",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "2 Muscle-Ups\r<br\/>5 Ground-to-Shoulders (185\/105 lb)",
+        "workout_title": "AMRAP in 10 minutes"
+    }, {
+        "title": "WZA Online Challenge 17.7",
+        "score_types": "For Time",
+        "workout": "1,000 meter Row\r<br\/>15\/12 Ring Muscle-Ups\r<br\/>30 Thrusters (95\/65 lb)",
+        "workout_title": "For Time"
+    }, {
+        "title": "GG Qualifier 18.1",
+        "score_types": "For LoadFor Time",
+        "workout": "15 Burpees Over Concept 2 Erg\r<br\/>40\/30 Calorie Row\r<br\/>15 Burpees Over Concept 2 Erg\r<br\/>40\/30 Calorie Row\r<br\/>15 Burpees Over Concept 2 Erg\r<br\/>\r<br\/>In the remaining time:\r<br\/>Establish a 1-RM Snatch",
+        "workout_title": "Complete as much as possible in 14 minutes"
+    }, {
+        "title": "GG Qualifier 18.3",
+        "score_types": "For Time",
+        "workout": "3 Rounds of:\r<br\/>12 Chest-to-Bar Pull-Ups\r<br\/>12 Alternating Dumbbell Snatches (50\/35 lb)\r<br\/>\r<br\/>Tie Break Time Recorded.\r<br\/>\r<br\/>Then immediately after, 3 rounds of:\r<br\/>12 Bar Muscle-Ups\r<br\/>12 Alternating Dumbbell Snatches (50\/35 lb)\r<br\/>\r<br\/>Time Cap: 12 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "Bicouplet 1",
+        "score_types": "For Time",
+        "workout": "Snatches (85\/55 lb)\r<br\/>Chest-to-Bar Pull-Ups\r<br\/>\r<br\/>Time Cap: 6 minutes",
+        "workout_title": "21-15-9 Reps for Time"
+    },
+    {
+        "title": "DXB 16.1 Qualifier",
+        "score_types": "For LoadFor Rounds \/ Reps",
+        "workout": "Part A\r<br\/>From 0:00-5:00, perform: \r<br\/>1 Rep Max Deadlift\r<br\/>\r<br\/>Part B\r<br\/>From 5:00-10:00, perform:\r<br\/>Bar Facing Burpees",
+        "workout_title": ""
+    }, {
+        "title": "WZA Peak 360 Pull &#038; Push",
+        "score_types": "For Time",
+        "workout": "45 Pull-Ups\r<br\/>100 foot Sled Push\r<br\/>30 Chest-to-Bar Pull-Ups\r<br\/>100 foot Sled Push\r<br\/>15 Bar Muscle-Ups\r<br\/>100 foot Sled Push\r<br\/>\r<br\/>Time Cap: 7 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "ACC 19.4 Qualifier",
+        "score_types": "For Rounds \/ RepsFor Time",
+        "workout": "Part A (0:00-11:00)\r<br\/>For Time\r<br\/>50 Handstand Push-Ups\r<br\/>50 Pull-Ups\r<br\/>50 Toes-to-Bars\r<br\/>50 Wall Ball Shots (9\/6 kg, 10 ft)\r<br\/>\r<br\/>Part B (11:00-20:00)\r<br\/>Max calorie Row",
+        "workout_title": "With a Running Clock in 20 minutes"
+    }, {
+        "title": "AGOQ 17.4",
+        "score_types": "For Time",
+        "workout": "10 Deadlifts (315\/225 lb)\r<br\/>20 Deficit Handstand Push-Ups (4.5\/3 in)\r<br\/>30 Front Squats (95\/65 lb)",
+        "workout_title": "2 Rounds for Time"
+    }, {
+        "title": "SID 19.3 Qualifier",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "20 Single Arm Dumbbell Hang Clean-and-Jerks (22.5\/15 kg)\r<br\/>50 Double-Unders\r<br\/>50 foot Handstand Walk\r<br\/>50 Double-Unders",
+        "workout_title": "AMRAP in 9 minutes"
+    }, {
+        "title": "Regionals 11.6",
+        "score_types": "For Time",
+        "workout": "20 calorie Row\r<br\/>30 Burpees\r<br\/>40 Two-Arm Dumbbell Ground-to-Overheads (45\/35 lb)\r<br\/>50 Toes-to-Bars\r<br\/>100 foot Overhead Walking Lunges (45\/25 lb plate)\r<br\/>150 foot Sprint",
+        "workout_title": "For Time"
+    }, {
+        "title": "WZA Celebrate 7",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "Squat Clean-and-Jerks (225\/155 lb)",
+        "workout_title": "AMRAP in 7 minutes"
+    }, {
+        "title": "WZA Online Challenge 17.1",
+        "score_types": "For Load",
+        "workout": "1 Clean\r<br\/>1 Front Squat\r<br\/>1 Shoulder-to-Overhead\r<br\/>1 Back Squat\r<br\/>1 Shoulder-to-Overhead",
+        "workout_title": "6 Reps For Load"
+    }, {
+        "title": "Team Series 17.7",
+        "score_types": "For LoadFor Rounds \/ Reps",
+        "workout": "Partner 1:\r<br\/>0:00-2:00 Handstand Push-Ups\r<br\/>2:00-4:00 Rest\r<br\/>4:00-6:00 Double-Unders\r<br\/>6:00-8:00 Rest\r<br\/>8:00-10:00 1-Rep-Max Back Squat\r<br\/>\r<br\/>Then, Partner 2:\r<br\/>10:00-12:00 1-Rep-Max Back Squat\r<br\/>12:00-14:00 Rest\r<br\/>14:00-16:00 Double-Unders\r<br\/>16:00-18:00 Rest\r<br\/>18:00-20:00 Handstand Push-Ups",
+        "workout_title": "For Max\/Reps in 20 minutes"
+    }, {
+        "title": "WZA Online Challenge 17.3 &#038; 17.4",
+        "score_types": "For LoadFor Rounds \/ Reps",
+        "workout": "From 0:00-5:00:\r<br\/>Find 1-Rep Max Snatch\r<br\/>\r<br\/>From 5:00-14:00, AMRAP:\r<br\/>3 Power Snatches (75\/55 lbs)\r<br\/>3 Box Jumps (24\/20 in)\r<br\/>6 Power Snatches (75\/55 lbs)\r<br\/>6 Box Jumps (24\/20 in)\r<br\/>9 Power Snatches (75\/55 lbs)\r<br\/>9 Box Jumps (24\/20 in)\r<br\/>Increasing each round by 3 reps each movement\r<br\/>\r<br\/>From 14:00-19:00:\r<br\/>Find 1-Rep Max Snatch",
+        "workout_title": "For Load and Reps in 19 minutes"
+    }, {
+        "title": "Regionals 9.1 (Canada East)",
+        "score_types": "For Load",
+        "workout": "1 rep max Deadlift",
+        "workout_title": "For Load"
+    }, {
+        "title": "Regionals 17.3",
+        "score_types": "For Time",
+        "workout": "100 ft Dumbbell Overhead Walking Lunges (80\/55 lb)\r<br\/>100 Double-Unders\r<br\/>50 Wall Ball Shots (30\/20 lb)\r<br\/>10 Rope Climbs (15 ft)\r<br\/>50 Wall Ball Shots (30\/20 lb)\r<br\/>100 Double-Unders\r<br\/>100 ft Dumbbell Overhead Walking Lunges (80\/55 lb)\r<br\/>\r<br\/>Time Cap: 16 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "GG Qualifier 16.2",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "50 calorie Row\r<br\/>50 Wall Ball Shots (20\/14 lb)\r<br\/>50 Shoulder-to-Overheads (115\/85 lb)\r<br\/>50 Box Jumps (24\/20 in)",
+        "workout_title": "AMRAP in 17 minutes"
+    }, {
+        "title": "FTD 16.4 Qualifier",
+        "score_types": "For Load",
+        "workout": "Back Squat \r<br\/>Deadlift\r<br\/>Shoulder Press\r<br\/>\r<br\/>Time Cap: 15 minutes",
+        "workout_title": "For Load"
+    }, {
+        "title": "Regionals 10.1 (North Central)",
+        "score_types": "For Load",
+        "workout": "1 rep Max Effort Two Hand Overhead",
+        "workout_title": "For Load"
+    }, {
+        "title": "Regionals 15.3",
+        "score_types": "For Time",
+        "workout": "1 mile Run\r<br\/>50 Overhead Squats (135\/95 lbs)\r<br\/>100 GHD sit-ups\r<br\/>150 Double Unders\r<br\/>50 Sumo Deadlift High-Pulls (135\/95 lbs)\r<br\/>100 Box Jump Overs (24\/18 in)\r<br\/>\r<br\/>Time Cap: 26 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "DXB 16.2 Qualifier",
+        "score_types": "For Rounds \/ RepsFor Time",
+        "workout": "Part A\r<br\/>For Time\r<br\/>1000 meter Row\r<br\/>\r<br\/>Time Cap: 15 minutes\r<br\/>\r<br\/>Part B\r<br\/>As long as possible, perform:\r<br\/>Unassisted Handstand Hold",
+        "workout_title": ""
+    }, {
+        "title": "Regionals 15.4",
+        "score_types": "For Time",
+        "workout": "250 ft Handstand Walk\r<br\/>\r<br\/>Time Cap: 3 minutes",
+        "workout_title": "For Time"
+    }, {
+        "title": "DXB 16.3 Qualifier",
+        "score_types": "For LoadFor Rounds \/ Reps",
+        "workout": "Part A\r<br\/>From 0:00-5:00, perform:\r<br\/>1 rep max Shoulder-to-Overhead\r<br\/>\r<br\/>Part B\r<br\/>From 5:01-15:00, AMRAP of:\r<br\/>10 Toes-to-Bars\r<br\/>15 Wall Ball Shots (20\/14 lb, 9\/10 ft)\r<br\/>20 Box Jump Overs (24\/20 in)",
+        "workout_title": "With a running clock in 15 minutes"
+    }, {
+        "title": "DXB 18.3 Qualifier",
+        "score_types": "For Rounds \/ Reps",
+        "workout": "9 calorie Row\r<br\/>9 Double Kettlebell Snatches (2x24\/16 kg)\r<br\/>15 calorie Row\r<br\/>15 Double Kettlebell Snatches (2x24\/16 kg)\r<br\/>21 calorie Row\r<br\/>21 Double Kettlebell Snatches (2x24\/16 kg)\r<br\/>27 calorie Row\r<br\/>27 Double Kettlebell Snatches (2x24\/16 kg)",
+        "workout_title": "AMRAP in 20 minutes"
+    }, {
+        "title": "SAB 17.1",
+        "score_types": "For LoadFor Rounds \/ Reps",
+        "workout": "From 0:00-14:00:\r<br\/>12 Synchronized Overhead Squats (50\/35 kg)\r<br\/>10 Synchronized Burpee Box Jump-Overs (24\/20 in)\r<br\/>\r<br\/>Rest in 1 minute.\r<br\/>\r<br\/>Then, from 15:00-21:00:\r<br\/>1 Rep Max in the following complex:\r<br\/>1 Squat Snatch\r<br\/>2 Overhead Squats\r<br\/>1 Squat Snatch",
+        "workout_title": "AMRAP (with a partner) in 21 minutes"
     }
 ]

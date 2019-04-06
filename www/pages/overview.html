@@ -3,14 +3,18 @@
         <div class="left">
           <ons-back-button>Back</ons-back-button>
         </div>
-        <div class="center" ng-bind-html="title"></div>
+        <div class="center" ng-bind-html="data.title"></div>
     </ons-toolbar>
 
     <div class="card card--material">
-        <h1 class="card__title card--material__title" ng-bind-html="::title"></h1>
-        <div class="overviewWorkoutTitle" ng-bind-html="::workout_title"></div>
-        <div class="card__content" ng-bind-html="::workout"></div>
+        <h1 class="card__title card--material__title" ng-bind-html="::data.title"></h1>
+        <div class="overviewWorkoutTitle" ng-bind-html="::data.workout_title"></div>
+        <div class="card__content" ng-bind-html="::data.workout"></div>
     </div>
 
-    <div style="text-align: center; position: absolute; bottom: 10px; width: 100%; color: #8c8c8c; font-size: 14px;">Timer coming soon!</div>
+    <div class="center">
+         <button class="button" ng-click="doWorkout()">Start</button>
+    </div>
+
+    <!-- <div style="text-align: center; position: absolute; bottom: 10px; width: 100%; color: #8c8c8c; font-size: 14px;">Timer coming soon!</div> -->
 </ons-page>

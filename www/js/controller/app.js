@@ -9,38 +9,31 @@ app.controller('AppController', function($scope) {
         $scope.navi.pushPage('pages/'+url+'.html', options);
     };
 })
-.controller('BenchmarkController', function(WodPalFactory, $scope, $http) {
+.controller('BenchmarkController', function(WodPalFactory, $scope) {
     $scope.benchMarkWods = new WodPalFactory();
 
     $scope.scrollBenchMarkWods = function() {
-        $scope.benchMarkWods.getWodList('benchmark_wods');
+        $scope.benchMarkWods.getWodList('benchmarks');
     };
 })
-.controller('GirlController', function(WodPalFactory, $scope, $http) {
+.controller('GirlController', function(WodPalFactory, $scope) {
     $scope.girlWods = new WodPalFactory();
 
     $scope.scrollGirlWods = function() {
-        $scope.girlWods.getWodList('the_girls');
+        $scope.girlWods.getWodList('girls');
     };
 })
-.controller('HeroController', function(WodPalFactory, $scope, $http) {
+.controller('HeroController', function(WodPalFactory, $scope) {
     $scope.heroWods = new WodPalFactory();
 
     $scope.scrollHeroWods = function() {
-        $scope.heroWods.getWodList('hero_wods');
+        $scope.heroWods.getWodList('heroes');
     };
 })
-.controller('QualifierController', function(WodPalFactory, $scope, $http) {
+.controller('QualifierController', function(WodPalFactory, $scope) {
     $scope.qualifierWods = new WodPalFactory();
 
     $scope.scrollQualifierWods = function() {
         $scope.qualifierWods.getWodList('qualifiers');
     };
-})
-.controller('OverviewController', function($scope, $http) {
-    var data = $scope.navi.topPage.data;
-
-    $scope.title = data.title;
-    $scope.workout = data.workout;
-    $scope.workout_title = data.workout_title;
 });

@@ -5,8 +5,8 @@
   </div>
   <div class="center">Benchmarks</div>
 </ons-toolbar>
-<div class="content" infinite-scroll="scrollBenchMarkWods()" infinite-scroll-disabled='benchMarkWods.busy' infinite-scroll-distance='1'>
-  <ons-search-input placeholder="Search WOD" class="fullWidth searchBar" ng-model="wod"></ons-search-input>
+<div class="content" infinite-scroll="scrollBenchMarkWods()" infinite-scroll-disabled="benchMarkWods.busy" infinite-scroll-distance="1">
+  <input type="search" value="" placeholder="Search WOD" class="search-input search-input--material fullWidth searchBar" ng-model="wod">
   <ons-list class="wodList">
     <ons-list-item ng-repeat="benchmark in benchMarkWods.items | orderBy: 'title' | filter: wod" ng-click="goToPage('overview', {
         data: {
