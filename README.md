@@ -1,2 +1,1 @@
 # WodPal
-# WodPal
